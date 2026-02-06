@@ -26,7 +26,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run BTC metrics script
-        run: python btc_metrics.py
+        run: python backend/btc_metrics.py
 
       - name: Commit and push results
         run: |

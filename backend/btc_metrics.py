@@ -77,7 +77,7 @@ print(f"Fear & Greed Index: {fear_greed_value} - {fear_greed_classification}")
 
 # Dados que queremos salvar
 data_to_save = {
-    "date":  datetime.now(timezone.utc).strftime('%Y-%m-%d'),
+    "date": datetime.now(timezone.utc).isoformat(),
     "price": round(latest_price, 0),
     "mayer": round(latest_mayer, 2),
     "fear_greed": {

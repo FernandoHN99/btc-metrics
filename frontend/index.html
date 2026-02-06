@@ -1,58 +1,72 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>BTC Metrics Dashboard</title>
 
-  <link rel="stylesheet" href="styles.css">
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<head>
+   <meta charset="UTF-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <title>BTC Metrics Dashboard</title>
+
+   <link rel="stylesheet" href="styles.css">
+   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
 <body>
-  <header>
-    <h1>📊 BTC Metrics Dashboard</h1>
-  </header>
+   <header>
+      <h1>📊 BTC Metrics</h1>
+   </header>
 
-  <main>
-    <!-- METRICS -->
-    <section class="metrics">
-      <div class="metric-card">
-        <span>Preço BTC</span>
-        <strong id="metric-price">—</strong>
-      </div>
+   <main>
+      <!-- METRICS -->
+      <section class="metrics">
+         <div class="metric-card">
+            <span>Preço BTC</span>
+            <strong id="metric-price">—</strong>
+         </div>
 
-      <div class="metric-card">
-        <span>MVRV</span>
-        <strong id="metric-mvrv">—</strong>
-      </div>
+         <div class="metric-card">
+            <span>MVRV</span>
+            <strong id="metric-mvrv">—</strong>
+         </div>
 
-      <div class="metric-card">
-        <span>Mayer Multiple</span>
-        <strong id="metric-mayer">—</strong>
-      </div>
+         <div class="metric-card">
+            <span>Mayer Multiple</span>
+            <strong id="metric-mayer">—</strong>
+         </div>
 
-      <div class="metric-card">
-        <span>Fear & Greed</span>
-        <strong id="metric-fg">—</strong>
-      </div>
+         <div class="metric-card">
+            <span>Fear & Greed</span>
+            <strong id="metric-fg">—</strong>
+         </div>
+      </section>
 
-      <div class="metric-card">
-        <span>Última atualização</span>
-        <strong id="metric-time">—</strong>
-      </div>
-    </section>
+      <!-- CHART -->
+      <section class="chart-card">
+         <div class="time-filters">
+            <button data-range="1D">1D</button>
+            <button data-range="7D">7D</button>
+            <button data-range="1M">1M</button>
+            <button data-range="6M">6M</button>
+            <button data-range="YTD">YTD</button>
+            <button data-range="1Y">1Y</button>
+            <button data-range="3Y">3Y</button>
+            <button data-range="5Y">5Y</button>
+         </div>
 
-    <!-- CHART -->
-    <section class="chart-card">
-      <canvas id="metricsChart"></canvas>
-    </section>
-  </main>
+         <div class="chart-container">
+            <canvas id="marketChart"></canvas>
+         </div>
 
-  <footer>
-    Dados on-chain • GitHub Pages
-  </footer>
+      </section>
 
-  <script src="script.js"></script>
+
+
+   </main>
+
+   <footer>
+      Dados on-chain • GitHub Pages
+   </footer>
+
+   <script type="module" src="js/main.js"></script>
 </body>
+
 </html>

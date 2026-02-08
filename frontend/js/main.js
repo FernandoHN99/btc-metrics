@@ -1,22 +1,21 @@
 import { fetchMetrics } from './api.js';
 import { updateMetrics } from './metrics.js';
-import { renderChart } from './chart.js';
+import { renderCharts } from './chart.js';
 import { filterByRange } from './timeFilters.js';
 
 document.addEventListener('DOMContentLoaded', async () => {
     const buttons = document.querySelectorAll('.time-filters button');
 
     const data = await fetchMetrics();
-    if (!data.length) return;
+    if (!Array.isArray(data) || !data.length) return;
 
     updateMetrics(data[data.length - 1]);
 
     function update(range) {
-        window.currentRange = range;   // 👈 AQUI é o ponto certo
+        window.currentRange = range;
         const filtered = filterByRange(data, range);
-        renderChart(filtered);
+        renderCharts(filtered);
     }
-
 
     buttons.forEach(btn => {
         btn.addEventListener('click', () => {

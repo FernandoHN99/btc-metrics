@@ -6,13 +6,13 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
    <title>BTC Metrics Dashboard</title>
 
-   <link rel="stylesheet" href="styles.css">
+   <link rel="stylesheet" href="./frontend/styles.css">
    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
 <body>
    <header>
-      <h1>📊 BTC Metrics</h1>
+      <h1>📊 Bitcoin Metrics</h1>
    </header>
 
    <main>
@@ -53,12 +53,10 @@
          </div>
 
          <div class="chart-container">
-            <canvas id="marketChart"></canvas>
+            <canvas class="graph-main" id="marketChart"></canvas>
          </div>
 
       </section>
-
-
 
    </main>
 
@@ -66,7 +64,7 @@
       Dados on-chain • GitHub Pages
    </footer>
 
-   <script type="module" src="js/main.js"></script>
+   <script type="module" src="/frontend/js/main.js"></script>
 </body>
 
 </html>

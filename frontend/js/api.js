@@ -1,12 +1,7 @@
-const username = 'FernandoHN99';
-const repo = 'btc-metrics';
-const branch = 'main';
-const file = 'metrics.jsonl';
-const url = `https://raw.githubusercontent.com/${username}/${repo}/${branch}/${file}`;
-
 export async function fetchMetrics() {
   try {
-    const response = await fetch(url, { cache: 'no-store' })
+    const response = await fetch('https://raw.githubusercontent.com/FernandoHN99/btc-metrics/main/metrics.jsonl', { cache: 'no-store' })
+    console.log('response: ', response)
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
     const text = await response.text();

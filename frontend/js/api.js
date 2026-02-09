@@ -4,8 +4,6 @@ const branch = 'main';
 const file = 'metrics.jsonl';
 const url = `https://raw.githubusercontent.com/${username}/${repo}/${branch}/${file}`;
 
-const response = await fetch(url);
-
 export async function fetchMetrics() {
   try {
     const response = await fetch(url, { cache: 'no-store' })

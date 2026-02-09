@@ -1,9 +1,6 @@
 export async function fetchMetrics() {
   try {
-    const url = new URL('metrics.jsonl', window.location.href);
-
-    const response = await fetch(url, { cache: 'no-store' });
-
+    const response = await fetch('https://raw.githubusercontent.com/{username}/{repo}/{branch}/{file}', { cache: 'no-store' })
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
     const text = await response.text();

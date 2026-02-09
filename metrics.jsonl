@@ -40,6 +40,7 @@
 {"date": "2026-02-08T19:31:30.891494+00:00", "price": 71165.0, "mayer": 0.7, "fear_greed": {"value": "7", "classification": "Extreme Fear"}, "mvrv": 1.2542864998384384}
 {"date": "2026-02-08T20:36:19.832369+00:00", "price": 71069.0, "mayer": 0.69, "fear_greed": {"value": "7", "classification": "Extreme Fear"}, "mvrv": 1.2542864998384384}
 {"date": "2026-02-08T21:34:41.557052+00:00", "price": 70854.0, "mayer": 0.69, "fear_greed": {"value": "7", "classification": "Extreme Fear"}, "mvrv": 1.2542864998384384}
-{"date": "2026-02-08T22:35:12.371288+00:00", "price": 70739.0, "mayer": 0.69, "fear_greed": {"value": "7", "classification": "Extreme Fear"}, "mvrv": 1.2542864998384384}{"date": "2026-02-08T23:37:52.114500+00:00", "price": 70246.0, "mayer": 0.69, "fear_greed": {"value": "7", "classification": "Extreme Fear"}, "mvrv": 1.2542864998384384}
+{"date": "2026-02-08T22:35:12.371288+00:00", "price": 70739.0, "mayer": 0.69, "fear_greed": {"value": "7", "classification": "Extreme Fear"}, "mvrv": 1.2542864998384384}
+{"date": "2026-02-08T23:37:52.114500+00:00", "price": 70246.0, "mayer": 0.69, "fear_greed": {"value": "7", "classification": "Extreme Fear"}, "mvrv": 1.2542864998384384}
 {"date": "2026-02-09T02:48:16.448466+00:00", "price": 70744.0, "mayer": 0.69, "fear_greed": {"value": "14", "classification": "Extreme Fear"}, "mvrv": 1.278752679408799}
 {"date": "2026-02-09T05:07:00.964838+00:00", "price": 70838.0, "mayer": 0.69, "fear_greed": {"value": "14", "classification": "Extreme Fear"}, "mvrv": 1.278752679408799}

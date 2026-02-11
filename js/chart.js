@@ -5,6 +5,7 @@ import { updateMetrics } from './metrics.js';
 let marketChart = null;
 
 export function renderCharts(data) {
+        window.lastChartData = data; // Armazena para o reset global
 
     const datasets = createDataIntoDatasets(data)
     const labels = data.map(d =>
@@ -76,4 +77,14 @@ export function renderCharts(data) {
             scales: scales
         }
     })
+
+    marketChartElement.addEventListener('touchend', () => {
+        marketChart.setActiveElements([]);
+        marketChart.tooltip.setActiveElements([], { x: 0, y: 0 });
+        
+        marketChart.update();
+
+        updateMetrics(data[data.length - 1], true);
+    });
 }
+

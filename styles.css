@@ -101,7 +101,7 @@ main {
 }
 
 .larger-metric{
-   flex-grow: 1.5;
+   flex-grow: 2;
 }
 
 /* ===== CHART ===== */
@@ -134,7 +134,7 @@ main {
    border: 1px solid var(--border);
    color: var(--muted);
    padding: 0.4rem 0.7rem;
-   border-radius: 999px;
+   border-radius: 1rem;
    cursor: pointer;
 }
 

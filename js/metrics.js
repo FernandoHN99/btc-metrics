@@ -20,7 +20,7 @@ export function updateMetrics(latest, isHover) {
 
     const element = document.getElementById('metric-score')
     element.style.color = `${indicatorLabel.color}`;
-    element.innerHTML = `  ${indicatorLabel.label} <br> ${indicatorValue} / 10`;
+    element.innerHTML = `  ${indicatorLabel.label} - ${indicatorValue} / 10`;
 
     if(!isHover){
         document.getElementById('last-update-datetime').textContent =

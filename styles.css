@@ -85,14 +85,10 @@ main {
    border-radius: 1rem;
    padding: 0.5rem;
    text-align: center;
+   display: flex;
+   flex-direction: column;
+   justify-content: center
 }
-
-@media (max-width: 768px){
-   .metric-card{
-      flex-basis: 30%;
-   }
-}
-
 
 .metric-card > span {
    display: block;
@@ -153,8 +149,8 @@ main {
 
 .chart-container {
    flex: 1;
-   min-height: 700px; /* Garante que o gráfico tenha corpo no celular */
-   position: relative; /* Importante para o Chart.js responsivo */
+   min-height: min(100%, 700px);
+   position: relative;
 }
 
 #last-update-datetime {
@@ -163,4 +159,13 @@ main {
    font-size: 0.8rem;
    color: var(--muted);
    font-weight: bold;
+}
+
+@media (max-width: 768px){
+   .metric-card{
+      flex-basis: 30%;
+   }
+   .chart-container {
+      min-height: 400px; /* No celular, talvez você queira ele mais alto */
+   }
 }

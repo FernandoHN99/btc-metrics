@@ -4,6 +4,8 @@ const datasetsBase = [
         data: [],
         borderColor: '#f7931a',
         tension: 0.2,
+        pointRadius: 0,
+        borderWidth: 2,
         yAxisID: 'yPrice',
         order: 1
     },
@@ -12,6 +14,8 @@ const datasetsBase = [
         data: [],
         borderColor: '#4ade80',
         tension: 0.2,
+        pointRadius: 0,
+        borderWidth: 2,
         yAxisID: 'yMayer',
         order: 5
     },
@@ -20,6 +24,7 @@ const datasetsBase = [
         data: [],
         borderColor: '#60a5fa',
         tension: 0.2,
+        pointRadius: 0,
         borderWidth: 2,
         yAxisID: 'yMvrv',
         order: 3
@@ -29,6 +34,7 @@ const datasetsBase = [
         data: [],
         borderColor: '#f87171',
         tension: 0.2,
+        pointRadius: 0,
         borderWidth: 2,
         yAxisID: 'yFearGreed',
         order: 7
@@ -78,7 +84,7 @@ export const scales = {
         position: 'left',
         stack: 'charts',
         stackWeight: 1,
-        title: { display: true, text: 'Fear & Greed' ,color: '#f87171' },
+        title: { display: false, text: 'Fear & Greed', color: '#f87171' },
         grid: { drawOnChartArea: false }
     },
 
@@ -93,7 +99,7 @@ export const scales = {
         position: 'left',
         stack: 'charts',
         stackWeight: 1,
-        title: { display: true, text: 'Mayer Multiple' , color:'#4ade80' },
+        title: { display: false, text: 'Mayer Multiple' , color:'#4ade80' },
         grid: { drawOnChartArea: false }
     },
 
@@ -108,7 +114,7 @@ export const scales = {
         position: 'left',
         stack: 'charts',
         stackWeight: 1,
-        title: { display: true, text: 'MVRV', color: '#60a5fa' },
+        title: { display: false, text: 'MVRV', color: '#60a5fa' },
         grid: { drawOnChartArea: false }
     },
 
@@ -123,6 +129,6 @@ export const scales = {
         position: 'left',
         stack: 'charts',
         stackWeight: 5,
-        title: { display: true, text: 'BTC Price', color: '#f7931a' }
+        title: { display: false, text: 'BTC Price', color: '#f7931a' }
     },
 }

@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const data = await fetchMetrics();
     if (!Array.isArray(data) || !data.length) return;
 
-    updateMetrics(data[data.length - 1]);
+    updateMetrics(data[data.length - 1], false);
 
     function update(range) {
         window.currentRange = range;

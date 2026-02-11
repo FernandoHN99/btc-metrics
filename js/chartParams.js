@@ -4,16 +4,16 @@ const datasetsBase = [
         data: [],
         borderColor: '#f7931a',
         tension: 0.2,
-        borderWidth: 2,
         yAxisID: 'yPrice',
+        order: 1
     },
     {
         label: 'Mayer Multiple',
         data: [],
         borderColor: '#4ade80',
         tension: 0.2,
-        borderWidth: 2,
         yAxisID: 'yMayer',
+        order: 5
     },
     {
         label: 'MVRV',
@@ -21,7 +21,8 @@ const datasetsBase = [
         borderColor: '#60a5fa',
         tension: 0.2,
         borderWidth: 2,
-        yAxisID: 'yMvrv'
+        yAxisID: 'yMvrv',
+        order: 3
     },
     {
         label: 'Fear & Greed',
@@ -29,25 +30,26 @@ const datasetsBase = [
         borderColor: '#f87171',
         tension: 0.2,
         borderWidth: 2,
-        yAxisID: 'yFearGreed'
+        yAxisID: 'yFearGreed',
+        order: 7
     },
     {   label: '',
         data: [],
         borderWidth: 0,
-        stackWeight: 0.25,
-        yAxisID: 'spacer1'
+        yAxisID: 'spacer1',
+        order: 4
     },
     {   label: '',
         data: [],
         borderWidth: 0,
-        stackWeight: 0.25,
-        yAxisID: 'spacer2'
+        yAxisID: 'spacer2',
+        order: 6
     },
     {   label: '',
         data: [],
         borderWidth: 0,
-        stackWeight: 0.25,
-        yAxisID: 'spacer3'
+        yAxisID: 'spacer3',
+        order: 2
     },
 ]
 

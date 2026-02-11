@@ -1,5 +1,6 @@
 import { createDataIntoDatasets } from './chartParams.js';
 import { scales } from './chartParams.js';
+import { updateMetrics } from './metrics.js';
 
 let marketChart = null;
 
@@ -34,11 +35,22 @@ export function renderCharts(data) {
                 intersect: false,
                 includeInvisible: false
             },
+            events: ['mouseout', 'mousemove'],  
+
+            // onHover(chart, args, pluginOptions) {
+            //     const event = args;
+            //     console.log('event: ', event)
+            //     if (event.type === 'mouseout') {
+            //         console.log('ola')
+            //     // updateMetrics(latest, false);
+            //     return;
+            //     }
+            // },
 
             plugins: {
                 legend: {
                     display: true,
-                    position: 'top',
+                    position: 'top'
                 },
                 tooltip: {
                     enabled: true,
@@ -53,6 +65,7 @@ export function renderCharts(data) {
                         title(items) {
                             if (!items.length) return '';
                             const index = items[0].dataIndex;
+                            updateMetrics(data[index]);
                             const date = new Date(data[index].date);
                             if (window.currentRange === '1D') {
                                 return date.toLocaleString('pt-BR');
@@ -60,6 +73,7 @@ export function renderCharts(data) {
                             return date.toLocaleDateString('pt-BR');
                         }
                     }
+                    
                 }
             },
 

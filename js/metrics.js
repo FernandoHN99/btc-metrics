@@ -24,6 +24,6 @@ export function updateMetrics(latest, isHover) {
 
     if(!isHover){
         document.getElementById('last-update-datetime').textContent =
-        `Última Atualização: ${new Date(latest.date).toLocaleString('pt-BR')}`;
+        `Última Atualização: ${new Date(latest.date).toLocaleString('pt-BR').slice(0,10)}`;
     }
 }

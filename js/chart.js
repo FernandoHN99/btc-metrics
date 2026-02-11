@@ -44,7 +44,7 @@ export function renderCharts(data) {
                 intersect: false,
                 includeInvisible: false
             },
-                    
+
             plugins: {
                 legend: {
                     display: true,

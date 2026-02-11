@@ -34,6 +34,11 @@ body {
    flex-direction: column;
    background: linear-gradient(180deg, #020617, var(--bg));
    min-height: 100vh;
+
+   -webkit-user-select: none; /* Safari */
+   -ms-user-select: none;     /* IE 10+ */
+   user-select: none;         /* Standard */
+   -webkit-tap-highlight-color: transparent;
 }
 
 a {

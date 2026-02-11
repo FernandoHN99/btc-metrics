@@ -39,19 +39,22 @@ const datasetsBase = [
         yAxisID: 'yFearGreed',
         order: 7
     },
-    {   label: '',
+    {
+        label: '',
         data: [],
         borderWidth: 0,
         yAxisID: 'spacer1',
         order: 4
     },
-    {   label: '',
+    {
+        label: '',
         data: [],
         borderWidth: 0,
         yAxisID: 'spacer2',
         order: 6
     },
-    {   label: '',
+    {
+        label: '',
         data: [],
         borderWidth: 0,
         yAxisID: 'spacer3',
@@ -85,7 +88,17 @@ export const scales = {
         stack: 'charts',
         stackWeight: 1,
         title: { display: false, text: 'Fear & Greed', color: '#f87171' },
-        grid: { drawOnChartArea: false }
+        grid: {
+            display: false,
+            drawBorder: false,
+            drawTicks: false
+        },
+        border: { display: false },
+        ticks: {
+            color: '#f87171',
+              align: 'start',
+              padding: 10
+        },
     },
 
     spacer1: {
@@ -99,8 +112,18 @@ export const scales = {
         position: 'left',
         stack: 'charts',
         stackWeight: 1,
-        title: { display: false, text: 'Mayer Multiple' , color:'#4ade80' },
-        grid: { drawOnChartArea: false }
+        title: { display: false, text: 'Mayer Multiple', color: '#4ade80' },
+        grid: {
+            display: false,
+            drawBorder: false,
+            drawTicks: false
+        },
+        border: { display: false },
+        ticks: {
+            color: '#4ade80',
+              align: 'start',
+              padding: 10
+        },
     },
 
     spacer3: {
@@ -115,7 +138,17 @@ export const scales = {
         stack: 'charts',
         stackWeight: 1,
         title: { display: false, text: 'MVRV', color: '#60a5fa' },
-        grid: { drawOnChartArea: false }
+        grid: {
+            display: false,
+            drawBorder: false,
+            drawTicks: false
+        },
+        border: { display: false },
+        ticks: {
+            color: '#60a5fa',
+              align: 'start',
+              padding: 10
+        },
     },
 
     spacer2: {
@@ -129,6 +162,19 @@ export const scales = {
         position: 'left',
         stack: 'charts',
         stackWeight: 5,
-        title: { display: false, text: 'BTC Price', color: '#f7931a' }
+        title: { display: false, text: 'BTC Price', color: '#f7931a' },
+        grid: {
+            display: false,
+            drawBorder: false,
+            drawTicks: false
+        },
+        border: { display: false },
+        ticks: {
+            color: '#f7931a',
+              align: 'start',
+              padding: 10
+        },
     },
+
+
 }

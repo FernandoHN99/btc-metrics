@@ -14,7 +14,6 @@
 
 html {
    font-size: 16px;
-   height: 100%;
    overscroll-behavior: none;
 }
 
@@ -31,10 +30,15 @@ p {
 }
 
 body {
-   background: linear-gradient(180deg, #020617, var(--bg));
-   min-height: 100vh;
    display: flex;
    flex-direction: column;
+   background: linear-gradient(180deg, #020617, var(--bg));
+   min-height: 100vh;
+
+   -webkit-user-select: none; /* Safari */
+   -ms-user-select: none;     /* IE 10+ */
+   user-select: none;         /* Standard */
+   -webkit-tap-highlight-color: transparent;
 }
 
 a {
@@ -45,45 +49,43 @@ a {
 /* ===== HEADER ===== */
 
 header {
-   margin-top: 1.5rem;
+   padding-top: 1.5rem;
    margin-bottom: 1rem;
    text-align: center;
-   /* border-bottom: 1px solid var(--border); */
+   flex-grow: 0;
 }
 
-header h1 {
+header > h1 {
    margin: 0;
    font-size: 1.8rem;
    color: var(--accent);
 }
 
-/* ===== METRICS ===== */
-
+/* ===== MAIN ===== */
 main {
    margin: 0 auto;
-   max-width: 72rem; /* Reudundante */
-   width: min(100% - 2rem, 72rem);
+   width: min(100% - 1.2rem, 72rem);
    flex-grow: 1;
    display: flex;
    flex-direction: column;
-   /* margin-bottom: 1.5rem; */
 }
 
+/* ===== METRICS ===== */
 .metrics {
+   margin-bottom: 1rem;
+   flex-grow: 0;
    display: flex;
    flex-flow: row wrap;
    gap: 1rem;
-   margin-bottom: 1rem;
 }
 
 .metric-card {
    flex-grow: 1;
-   flex-shrink: 1;
    background: var(--card);
    border: 1px solid var(--border);
    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
    border-radius: 1rem;
-   padding: 0.5rem;
+   padding: 0.5rem 0.25rem;
    text-align: center;
    display: flex;
    flex-direction: column;
@@ -103,12 +105,15 @@ main {
    color: var(--accent);
 }
 
+.larger-metric{
+   flex-grow: 2;
+}
 
 /* ===== CHART ===== */
 .chart {
-   flex-grow: 1;
    display: flex;
    flex-direction: column;
+   flex-grow: 2;
 }
 
 .chart-card {
@@ -134,7 +139,7 @@ main {
    border: 1px solid var(--border);
    color: var(--muted);
    padding: 0.4rem 0.7rem;
-   border-radius: 999px;
+   border-radius: 1rem;
    cursor: pointer;
 }
 
@@ -145,8 +150,10 @@ main {
 }
 
 .chart-container {
+   display: flex;
    flex: 1;
-   min-height: 100%;
+   touch-action: none;
+   flex-direction: column;
 }
 
 #last-update-datetime {
@@ -158,10 +165,13 @@ main {
 }
 
 @media (max-width: 768px){
+   html {
+      font-size: 13px;
+   }
    .metric-card{
       flex-basis: 30%;
    }
-   .chart-container {
-      min-height: 550px; /* No celular, talvez você queira ele mais alto */
+   body {
+      min-height: 91vh;
    }
 }

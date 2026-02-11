@@ -25,5 +25,5 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
     });
 
-    buttons[1].click(); // 7D default
+    buttons[1].click();
 });

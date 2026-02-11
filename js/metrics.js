@@ -19,11 +19,11 @@ export function updateMetrics(latest, isHover) {
         `${latest.fear_greed.value} – ${latest.fear_greed.classification}`;
 
     const element = document.getElementById('metric-score')
-    element.textContent = `${indicatorLabel.label} - ${indicatorValue}/10`;
     element.style.color = `${indicatorLabel.color}`;
+    element.innerHTML = `  ${indicatorLabel.label} - ${indicatorValue} / 10`;
 
     if(!isHover){
         document.getElementById('last-update-datetime').textContent =
-        `Última Atualização: ${new Date(latest.date).toLocaleString('pt-BR')}`;
+        `Última Atualização: ${new Date(latest.date).toLocaleString('pt-BR').slice(0,10)}`;
     }
 }

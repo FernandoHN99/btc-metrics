@@ -5,6 +5,7 @@ import { updateMetrics } from './metrics.js';
 let marketChart = null;
 
 export function renderCharts(data) {
+    window.lastChartData = data; // Armazena para o reset global
 
     const datasets = createDataIntoDatasets(data)
     const labels = data.map(d =>
@@ -32,23 +33,71 @@ export function renderCharts(data) {
                 if (event.type === 'mouseout') {
                     updateMetrics(data[data.length - 1], true);
                 }
+            },
+        },
+        {
+            id: 'verticalHoverLine',
+            beforeDatasetsDraw(chart, args, plugins) {
+                const { ctx, chartArea: { top, bottom, height } } = chart;
+
+                ctx.save();
+
+                chart.getDatasetMeta(0).data.forEach((dataPoint, index) => {
+                    if (dataPoint.active === true) {
+                        ctx.beginPath();
+                        ctx.strokeStyle = 'gray';
+                        ctx.moveTo(dataPoint.x, top);
+                        ctx.lineTo(dataPoint.x, bottom);
+                        ctx.stroke();
+                    }
+                })
             }
-        }],
+        },
+            // {
+            //     id: 'stackSeparators',
+            //     afterDraw: (chart) => {
+            //         const { ctx, chartArea: { left, right }, scales } = chart;
+            //         const stackScales = ['yFearGreed', 'yPrice', 'yMvrv'];
+
+            //         ctx.save();
+            //         ctx.strokeStyle = '#1f2933'; // Cor da linha separadora
+            //         ctx.lineWidth = 1;
+
+            //         stackScales.forEach((scaleId) => {
+            //             const scale = scales[scaleId];
+            //             if (scale) {
+            //                 // Desenha uma linha no topo de cada área de gráfico
+            //                 ctx.beginPath();
+            //                 ctx.moveTo(left, scale.top);
+            //                 ctx.lineTo(right, scale.top);
+            //                 ctx.stroke();
+            //             }
+            //         });
+            //         ctx.restore();
+            //     }
+            // }
+        ],
         options: {
             responsive: true,
             maintainAspectRatio: false,
             animation: false,
 
             interaction: {
-                mode: 'nearest',
+                mode: 'index',
                 intersect: false,
-                includeInvisible: false
+                includeInvisible: false,
             },
 
             plugins: {
                 legend: {
                     display: true,
-                    position: 'top'
+                    position: 'top',
+                    labels: {
+                        // Filtra e remove qualquer dataset que tenha label vazia
+                        filter: (legendItem, chartData) => {
+                            return legendItem.text !== '';
+                        }
+                    }
                 },
                 tooltip: {
                     enabled: true,
@@ -76,4 +125,14 @@ export function renderCharts(data) {
             scales: scales
         }
     })
+
+    marketChartElement.addEventListener('touchend', () => {
+        marketChart.setActiveElements([]);
+        marketChart.tooltip.setActiveElements([], { x: 0, y: 0 });
+
+        marketChart.update();
+
+        updateMetrics(data[data.length - 1], true);
+    });
 }
+

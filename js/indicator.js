@@ -65,53 +65,47 @@ export function calculateIndicator({ fearGreed, mayer, mvrv }) {
     return Number(finalScore.toFixed(1));
 }
 
-
 export function getIndicatorLabel(score) {
   if (score <= 2.0) {
     return {
-      label: "Venda Forte",
-      description:
-        "Indicador sugere risco elevado de correção. Reduza exposição",
+      label: "Strong Sell",
+      description: "Indicator suggests high correction risk. Reduce exposure.",
       color: "darkred",
-      sentiment: "Euforia extrema"
+      sentiment: "Extreme Euphoria"
     };
   }
 
   if (score <= 4.0) {
     return {
-      label: "Venda Moderada",
-      description:
-        "Indicador sugere risco moderado de correção. Avalie reduzir exposição.",
+      label: "Moderate Sell",
+      description: "Indicator suggests moderate correction risk. Evaluate reducing exposure.",
       color: "red",
-      sentiment: "Otimismo elevado"
+      sentiment: "High Optimism"
     };
   }
 
   if (score <= 6.0) {
     return {
-      label: "Neutro / Manutenção",
-      description:
-        "Indicador saudável. Manter posição ou rebalancear.",
+      label: "Hold",
+      description: "Healthy indicators. Maintain position or rebalance.",
       color: "orange",
-      sentiment: "Equilíbrio"
+      sentiment: "Balanced"
     };
   }
 
-  if (score <= 8.0) {
+  if (score <= 8.0 ) {
     return {
-      label: "Compra Moderada",
-      description:
-        "Indicador sugere moderada valorização. Avalie aumentar exposição.",
+      label: "Moderate Buy",
+      description: "Indicator suggests moderate upside. Evaluate increasing exposure.",
       color: "yellow",
-      sentiment: "Cautela com viés de oportunidade"
+      sentiment: "Caution with Opportunity bias"
     };
   }
 
   return {
-    label: "Compra Forte",
-    description:
-      "Indicador sugere forte valorização. Aumente exposição.",
-    color: "green", //24af24ff
-    sentiment: "Medo / Capitulação"
+    label: "Strong Buy",
+    description: "Indicator suggests strong upside potential. Accumulate/Increase exposure.",
+    color: "green",
+    sentiment: "Fear / Capitulation"
   };
 }

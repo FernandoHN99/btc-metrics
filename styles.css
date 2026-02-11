@@ -152,7 +152,9 @@ main {
 }
 
 .chart-container {
-   flex: 1; 
+   flex: 1;
+   min-height: 700px; /* Garante que o gráfico tenha corpo no celular */
+   position: relative; /* Importante para o Chart.js responsivo */
 }
 
 #last-update-datetime {

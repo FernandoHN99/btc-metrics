@@ -30,7 +30,7 @@ p {
 }
 
 body {
-   overflow: hidden;
+   overflow: scroll;
    height: 100%;
    display: flex;
    flex-direction: column;
@@ -41,24 +41,27 @@ a {
    color: white;
 }
 
-header {
-   padding: 0.5rem;
-   text-align: center;
-   border-bottom: 1px solid var(--border);
-}
-
 /* ===== HEADER ===== */
+
+header {
+   /* padding: 0.5rem; */
+   text-align: center;
+   /* border-bottom: 1px solid var(--border); */
+}
 
 header h1 {
    margin: 0;
    font-size: 1.8rem;
    color: var(--accent);
+   margin-bottom: 0.5rem;
+   margin-top: 1.5rem;
+
 }
 
 /* ===== METRICS ===== */
 
 main {
-   margin: auto auto;
+   margin: 0 auto;
    max-width: 72rem;
    width: min(100% - 2rem, 72rem);
    display: flex;
@@ -71,18 +74,19 @@ main {
    gap: 1rem;
    /* justify-content: space-between; */
    /* background-color: #9ca3af; */
-   margin-bottom: 1rem;
+   margin: 1rem 0;
 }
 
 .metric-card {
    flex-grow: 1;
+   flex-shrink: 1;
    background: var(--card);
    border: 1px solid var(--border);
    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
    border-radius: 1rem;
    padding: 0.5rem;
    text-align: center;
-   flex-basis: 13rem;
+   /* flex-basis: 13rem; */
 }
 
 .metric-card > span {

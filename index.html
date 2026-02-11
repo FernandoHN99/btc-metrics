@@ -44,31 +44,31 @@
       </section>
 
       <!-- CHART -->
-      <section class="chart-card">
-         <div class="time-filters">
-            <button data-range="1D">1D</button>
-            <button data-range="7D">7D</button>
-            <button data-range="1M">1M</button>
-            <button data-range="6M">6M</button>
-            <button data-range="YTD">YTD</button>
-            <button data-range="1Y">1Y</button>
-            <button data-range="3Y">3Y</button>
-            <button data-range="5Y">5Y</button>
+      <section class="chart">
+
+         <div class="chart-card">
+            <div class="time-filters">
+               <button data-range="1D">1D</button>
+               <button data-range="7D">7D</button>
+               <button data-range="1M">1M</button>
+               <button data-range="6M">6M</button>
+               <button data-range="YTD">YTD</button>
+               <button data-range="1Y">1Y</button>
+               <button data-range="3Y">3Y</button>
+               <button data-range="5Y">5Y</button>
+            </div>
+            <div class="chart-container">
+               <canvas class="graph-main" id="marketChart"></canvas>
+            </div>
          </div>
 
-         <div class="chart-container">
-            <canvas class="graph-main" id="marketChart"></canvas>
-         </div>
-
-         <div id="last-update-datetime">
-         </div>
-
+         <div id="last-update-datetime"></div>
       </section>
+
    </main>
-   <!-- 
-      <footer>
-         Desenvolvido por Fernando Neto
-      </footer> -->
+   
+      <!-- <footer> -->
+      <!-- </footer> -->
 
    <script type="module" src="./js/main.js"></script>
 </body>

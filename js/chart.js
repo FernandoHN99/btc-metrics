@@ -35,7 +35,7 @@ export function renderCharts(data) {
                 intersect: false,
                 includeInvisible: false
             },
-            events: ['mouseout', 'mousemove'],  
+            //events: ['mouseout', 'mousemove'],  
 
             // onHover(chart, args, pluginOptions) {
             //     const event = args;

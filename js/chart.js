@@ -25,6 +25,15 @@ export function renderCharts(data) {
             labels,
             datasets: datasets
         },
+        plugins: [{
+            id: 'handleMouseOut',
+            afterEvent: (chart, args) => {
+                const { event } = args;
+                if (event.type === 'mouseout') {
+                    updateMetrics(data[data.length - 1], true);
+                }
+            }
+        }],
         options: {
             responsive: true,
             maintainAspectRatio: false,
@@ -35,17 +44,6 @@ export function renderCharts(data) {
                 intersect: false,
                 includeInvisible: false
             },
-            //events: ['mouseout', 'mousemove'],  
-
-            // onHover(chart, args, pluginOptions) {
-            //     const event = args;
-            //     console.log('event: ', event)
-            //     if (event.type === 'mouseout') {
-            //         console.log('ola')
-            //     // updateMetrics(latest, false);
-            //     return;
-            //     }
-            // },
 
             plugins: {
                 legend: {
@@ -65,7 +63,7 @@ export function renderCharts(data) {
                         title(items) {
                             if (!items.length) return '';
                             const index = items[0].dataIndex;
-                            updateMetrics(data[index]);
+                            updateMetrics(data[index], true);
                             const date = new Date(data[index].date);
                             if (window.currentRange === '1D') {
                                 return date.toLocaleString('pt-BR');
@@ -73,10 +71,8 @@ export function renderCharts(data) {
                             return date.toLocaleDateString('pt-BR');
                         }
                     }
-                    
                 }
             },
-
             scales: scales
         }
     })

@@ -87,6 +87,13 @@ main {
    text-align: center;
 }
 
+@media (max-width: 768px){
+   .metric-card{
+      flex-basis: 30%;
+   }
+}
+
+
 .metric-card > span {
    display: block;
    font-size: 1rem;

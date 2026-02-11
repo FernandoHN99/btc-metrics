@@ -1,6 +1,6 @@
 import { calculateIndicator, getIndicatorLabel } from "./indicator.js";
 
-export function updateMetrics(latest) {
+export function updateMetrics(latest, isHover) {
     if (!latest) return;
 
     const indicatorValue = calculateIndicator({fearGreed: latest.fear_greed.value, mayer: latest.mayer, mvrv: latest.mvrv});
@@ -22,6 +22,8 @@ export function updateMetrics(latest) {
     element.textContent = `${indicatorLabel.label} - ${indicatorValue}/10`;
     element.style.color = `${indicatorLabel.color}`;
 
-    document.getElementById('last-update-datetime').textContent =
+    if(!isHover){
+        document.getElementById('last-update-datetime').textContent =
         `Última Atualização: ${new Date(latest.date).toLocaleString('pt-BR')}`;
+    }
 }

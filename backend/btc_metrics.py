@@ -86,5 +86,5 @@ data_to_save = {
 
 # Salva no arquivo metrics.json
 with open("metrics.jsonl", "a") as f:  # 'a' = append
-    f.write(json.dumps(data_to_save) + "\n")
+    f.write("\n" + json.dumps(data_to_save))
     

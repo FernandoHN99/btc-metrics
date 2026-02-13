@@ -1,547 +1,547 @@
-{"date": "2024-08-30T00:00:00", "price": 59119.0, "mayer": 0.93, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.88}
-{"date": "2024-08-31T00:00:00", "price": 58970.0, "mayer": 0.93, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.87}
-{"date": "2024-09-01T00:00:00", "price": 57325.0, "mayer": 0.9, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.82}
-{"date": "2024-09-02T00:00:00", "price": 59112.0, "mayer": 0.93, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.88}
-{"date": "2024-09-03T00:00:00", "price": 57431.0, "mayer": 0.9, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.83}
-{"date": "2024-09-04T00:00:00", "price": 57972.0, "mayer": 0.91, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 1.84}
-{"date": "2024-09-05T00:00:00", "price": 56160.0, "mayer": 0.88, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.78}
-{"date": "2024-09-06T00:00:00", "price": 53949.0, "mayer": 0.85, "fear_greed": {"value": 22, "classification": "Extreme Fear"}, "mvrv": 1.71}
-{"date": "2024-09-07T00:00:00", "price": 54140.0, "mayer": 0.85, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.72}
-{"date": "2024-09-08T00:00:00", "price": 54842.0, "mayer": 0.86, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.74}
-{"date": "2024-09-09T00:00:00", "price": 57020.0, "mayer": 0.89, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.81}
-{"date": "2024-09-10T00:00:00", "price": 57649.0, "mayer": 0.9, "fear_greed": {"value": 33, "classification": "Fear"}, "mvrv": 1.83}
-{"date": "2024-09-11T00:00:00", "price": 57343.0, "mayer": 0.9, "fear_greed": {"value": 37, "classification": "Fear"}, "mvrv": 1.82}
-{"date": "2024-09-12T00:00:00", "price": 58127.0, "mayer": 0.91, "fear_greed": {"value": 31, "classification": "Fear"}, "mvrv": 1.84}
-{"date": "2024-09-13T00:00:00", "price": 60571.0, "mayer": 0.95, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.92}
-{"date": "2024-09-14T00:00:00", "price": 60005.0, "mayer": 0.94, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 1.9}
-{"date": "2024-09-15T00:00:00", "price": 59183.0, "mayer": 0.92, "fear_greed": {"value": 51, "classification": "Neutral"}, "mvrv": 1.87}
-{"date": "2024-09-16T00:00:00", "price": 58193.0, "mayer": 0.91, "fear_greed": {"value": 39, "classification": "Fear"}, "mvrv": 1.84}
-{"date": "2024-09-17T00:00:00", "price": 60309.0, "mayer": 0.94, "fear_greed": {"value": 33, "classification": "Fear"}, "mvrv": 1.91}
-{"date": "2024-09-18T00:00:00", "price": 61650.0, "mayer": 0.96, "fear_greed": {"value": 45, "classification": "Fear"}, "mvrv": 1.94}
-{"date": "2024-09-19T00:00:00", "price": 62940.0, "mayer": 0.98, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.99}
-{"date": "2024-09-20T00:00:00", "price": 63193.0, "mayer": 0.99, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 1.99}
-{"date": "2024-09-21T00:00:00", "price": 63395.0, "mayer": 0.99, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.0}
-{"date": "2024-09-22T00:00:00", "price": 63649.0, "mayer": 1.0, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.0}
-{"date": "2024-09-23T00:00:00", "price": 63330.0, "mayer": 0.99, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 1.99}
-{"date": "2024-09-24T00:00:00", "price": 64302.0, "mayer": 1.01, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.02}
-{"date": "2024-09-25T00:00:00", "price": 63143.0, "mayer": 0.99, "fear_greed": {"value": 59, "classification": "Greed"}, "mvrv": 1.98}
-{"date": "2024-09-26T00:00:00", "price": 65181.0, "mayer": 1.02, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.04}
-{"date": "2024-09-27T00:00:00", "price": 65791.0, "mayer": 1.03, "fear_greed": {"value": 61, "classification": "Greed"}, "mvrv": 2.06}
-{"date": "2024-09-28T00:00:00", "price": 65888.0, "mayer": 1.03, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.06}
-{"date": "2024-09-29T00:00:00", "price": 65635.0, "mayer": 1.03, "fear_greed": {"value": 63, "classification": "Greed"}, "mvrv": 2.05}
-{"date": "2024-09-30T00:00:00", "price": 63330.0, "mayer": 0.99, "fear_greed": {"value": 61, "classification": "Greed"}, "mvrv": 1.98}
-{"date": "2024-10-01T00:00:00", "price": 60837.0, "mayer": 0.96, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 1.91}
-{"date": "2024-10-02T00:00:00", "price": 60633.0, "mayer": 0.95, "fear_greed": {"value": 42, "classification": "Fear"}, "mvrv": 1.9}
-{"date": "2024-10-03T00:00:00", "price": 60759.0, "mayer": 0.96, "fear_greed": {"value": 37, "classification": "Fear"}, "mvrv": 1.9}
-{"date": "2024-10-04T00:00:00", "price": 62067.0, "mayer": 0.98, "fear_greed": {"value": 41, "classification": "Fear"}, "mvrv": 1.94}
-{"date": "2024-10-05T00:00:00", "price": 62090.0, "mayer": 0.98, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.94}
-{"date": "2024-10-06T00:00:00", "price": 62819.0, "mayer": 0.99, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 1.96}
-{"date": "2024-10-07T00:00:00", "price": 62237.0, "mayer": 0.98, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 1.95}
-{"date": "2024-10-08T00:00:00", "price": 62132.0, "mayer": 0.98, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.93}
-{"date": "2024-10-09T00:00:00", "price": 60582.0, "mayer": 0.95, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.88}
-{"date": "2024-10-10T00:00:00", "price": 60274.0, "mayer": 0.95, "fear_greed": {"value": 39, "classification": "Fear"}, "mvrv": 1.87}
-{"date": "2024-10-11T00:00:00", "price": 62445.0, "mayer": 0.98, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.93}
-{"date": "2024-10-12T00:00:00", "price": 63193.0, "mayer": 1.0, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.95}
-{"date": "2024-10-13T00:00:00", "price": 62851.0, "mayer": 0.99, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 1.94}
-{"date": "2024-10-14T00:00:00", "price": 66046.0, "mayer": 1.04, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.04}
-{"date": "2024-10-15T00:00:00", "price": 67041.0, "mayer": 1.06, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.06}
-{"date": "2024-10-16T00:00:00", "price": 67613.0, "mayer": 1.07, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.08}
-{"date": "2024-10-17T00:00:00", "price": 67400.0, "mayer": 1.06, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.07}
-{"date": "2024-10-18T00:00:00", "price": 68419.0, "mayer": 1.08, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.1}
-{"date": "2024-10-19T00:00:00", "price": 68363.0, "mayer": 1.08, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.1}
-{"date": "2024-10-20T00:00:00", "price": 69002.0, "mayer": 1.09, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.11}
-{"date": "2024-10-21T00:00:00", "price": 67368.0, "mayer": 1.06, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.06}
-{"date": "2024-10-22T00:00:00", "price": 67361.0, "mayer": 1.06, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.05}
-{"date": "2024-10-23T00:00:00", "price": 66432.0, "mayer": 1.05, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.03}
-{"date": "2024-10-24T00:00:00", "price": 68161.0, "mayer": 1.08, "fear_greed": {"value": 69, "classification": "Greed"}, "mvrv": 2.07}
-{"date": "2024-10-25T00:00:00", "price": 66642.0, "mayer": 1.05, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.02}
-{"date": "2024-10-26T00:00:00", "price": 67015.0, "mayer": 1.06, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.04}
-{"date": "2024-10-27T00:00:00", "price": 67929.0, "mayer": 1.07, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.07}
-{"date": "2024-10-28T00:00:00", "price": 69908.0, "mayer": 1.11, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.12}
-{"date": "2024-10-29T00:00:00", "price": 72720.0, "mayer": 1.15, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.2}
-{"date": "2024-10-30T00:00:00", "price": 72340.0, "mayer": 1.14, "fear_greed": {"value": 77, "classification": "Extreme Greed"}, "mvrv": 2.19}
-{"date": "2024-10-31T00:00:00", "price": 70215.0, "mayer": 1.11, "fear_greed": {"value": 77, "classification": "Extreme Greed"}, "mvrv": 2.13}
-{"date": "2024-11-01T00:00:00", "price": 69482.0, "mayer": 1.1, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.1}
-{"date": "2024-11-02T00:00:00", "price": 69289.0, "mayer": 1.09, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.09}
-{"date": "2024-11-03T00:00:00", "price": 68741.0, "mayer": 1.08, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.07}
-{"date": "2024-11-04T00:00:00", "price": 67812.0, "mayer": 1.07, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.04}
-{"date": "2024-11-05T00:00:00", "price": 69360.0, "mayer": 1.09, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.09}
-{"date": "2024-11-06T00:00:00", "price": 75639.0, "mayer": 1.19, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.27}
-{"date": "2024-11-07T00:00:00", "price": 75905.0, "mayer": 1.19, "fear_greed": {"value": 77, "classification": "Extreme Greed"}, "mvrv": 2.27}
-{"date": "2024-11-08T00:00:00", "price": 76545.0, "mayer": 1.2, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.28}
-{"date": "2024-11-09T00:00:00", "price": 76779.0, "mayer": 1.21, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.29}
-{"date": "2024-11-10T00:00:00", "price": 80474.0, "mayer": 1.26, "fear_greed": {"value": 78, "classification": "Extreme Greed"}, "mvrv": 2.39}
-{"date": "2024-11-11T00:00:00", "price": 88701.0, "mayer": 1.39, "fear_greed": {"value": 76, "classification": "Extreme Greed"}, "mvrv": 2.61}
-{"date": "2024-11-12T00:00:00", "price": 87956.0, "mayer": 1.37, "fear_greed": {"value": 80, "classification": "Extreme Greed"}, "mvrv": 2.57}
-{"date": "2024-11-13T00:00:00", "price": 90584.0, "mayer": 1.41, "fear_greed": {"value": 84, "classification": "Extreme Greed"}, "mvrv": 2.62}
-{"date": "2024-11-14T00:00:00", "price": 87250.0, "mayer": 1.36, "fear_greed": {"value": 88, "classification": "Extreme Greed"}, "mvrv": 2.52}
-{"date": "2024-11-15T00:00:00", "price": 91066.0, "mayer": 1.41, "fear_greed": {"value": 80, "classification": "Extreme Greed"}, "mvrv": 2.62}
-{"date": "2024-11-16T00:00:00", "price": 90558.0, "mayer": 1.4, "fear_greed": {"value": 86, "classification": "Extreme Greed"}, "mvrv": 2.6}
-{"date": "2024-11-17T00:00:00", "price": 89846.0, "mayer": 1.39, "fear_greed": {"value": 90, "classification": "Extreme Greed"}, "mvrv": 2.57}
-{"date": "2024-11-18T00:00:00", "price": 90543.0, "mayer": 1.4, "fear_greed": {"value": 83, "classification": "Extreme Greed"}, "mvrv": 2.59}
-{"date": "2024-11-19T00:00:00", "price": 92344.0, "mayer": 1.42, "fear_greed": {"value": 90, "classification": "Extreme Greed"}, "mvrv": 2.62}
-{"date": "2024-11-20T00:00:00", "price": 94339.0, "mayer": 1.45, "fear_greed": {"value": 83, "classification": "Extreme Greed"}, "mvrv": 2.65}
-{"date": "2024-11-21T00:00:00", "price": 98505.0, "mayer": 1.51, "fear_greed": {"value": 82, "classification": "Extreme Greed"}, "mvrv": 2.74}
-{"date": "2024-11-22T00:00:00", "price": 98998.0, "mayer": 1.51, "fear_greed": {"value": 94, "classification": "Extreme Greed"}, "mvrv": 2.73}
-{"date": "2024-11-23T00:00:00", "price": 97777.0, "mayer": 1.49, "fear_greed": {"value": 93, "classification": "Extreme Greed"}, "mvrv": 2.68}
-{"date": "2024-11-24T00:00:00", "price": 98014.0, "mayer": 1.49, "fear_greed": {"value": 80, "classification": "Extreme Greed"}, "mvrv": 2.68}
-{"date": "2024-11-25T00:00:00", "price": 93102.0, "mayer": 1.41, "fear_greed": {"value": 82, "classification": "Extreme Greed"}, "mvrv": 2.55}
-{"date": "2024-11-26T00:00:00", "price": 91985.0, "mayer": 1.39, "fear_greed": {"value": 79, "classification": "Extreme Greed"}, "mvrv": 2.5}
-{"date": "2024-11-27T00:00:00", "price": 95963.0, "mayer": 1.45, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.61}
-{"date": "2024-11-28T00:00:00", "price": 95652.0, "mayer": 1.44, "fear_greed": {"value": 77, "classification": "Extreme Greed"}, "mvrv": 2.59}
-{"date": "2024-11-29T00:00:00", "price": 97462.0, "mayer": 1.46, "fear_greed": {"value": 78, "classification": "Extreme Greed"}, "mvrv": 2.63}
-{"date": "2024-11-30T00:00:00", "price": 96449.0, "mayer": 1.44, "fear_greed": {"value": 84, "classification": "Extreme Greed"}, "mvrv": 2.6}
-{"date": "2024-12-01T00:00:00", "price": 97280.0, "mayer": 1.45, "fear_greed": {"value": 81, "classification": "Extreme Greed"}, "mvrv": 2.63}
-{"date": "2024-12-02T00:00:00", "price": 95865.0, "mayer": 1.43, "fear_greed": {"value": 80, "classification": "Extreme Greed"}, "mvrv": 2.57}
-{"date": "2024-12-03T00:00:00", "price": 96002.0, "mayer": 1.43, "fear_greed": {"value": 76, "classification": "Extreme Greed"}, "mvrv": 2.57}
-{"date": "2024-12-04T00:00:00", "price": 98769.0, "mayer": 1.46, "fear_greed": {"value": 78, "classification": "Extreme Greed"}, "mvrv": 2.64}
-{"date": "2024-12-05T00:00:00", "price": 96594.0, "mayer": 1.43, "fear_greed": {"value": 84, "classification": "Extreme Greed"}, "mvrv": 2.56}
-{"date": "2024-12-06T00:00:00", "price": 99921.0, "mayer": 1.47, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.62}
-{"date": "2024-12-07T00:00:00", "price": 99923.0, "mayer": 1.47, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.62}
-{"date": "2024-12-08T00:00:00", "price": 101236.0, "mayer": 1.49, "fear_greed": {"value": 79, "classification": "Extreme Greed"}, "mvrv": 2.64}
-{"date": "2024-12-09T00:00:00", "price": 97433.0, "mayer": 1.43, "fear_greed": {"value": 78, "classification": "Extreme Greed"}, "mvrv": 2.53}
-{"date": "2024-12-10T00:00:00", "price": 96675.0, "mayer": 1.41, "fear_greed": {"value": 78, "classification": "Extreme Greed"}, "mvrv": 2.5}
-{"date": "2024-12-11T00:00:00", "price": 101173.0, "mayer": 1.48, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.61}
-{"date": "2024-12-12T00:00:00", "price": 100043.0, "mayer": 1.46, "fear_greed": {"value": 83, "classification": "Extreme Greed"}, "mvrv": 2.57}
-{"date": "2024-12-13T00:00:00", "price": 101459.0, "mayer": 1.47, "fear_greed": {"value": 76, "classification": "Extreme Greed"}, "mvrv": 2.6}
-{"date": "2024-12-14T00:00:00", "price": 101373.0, "mayer": 1.47, "fear_greed": {"value": 83, "classification": "Extreme Greed"}, "mvrv": 2.6}
-{"date": "2024-12-15T00:00:00", "price": 104299.0, "mayer": 1.51, "fear_greed": {"value": 80, "classification": "Extreme Greed"}, "mvrv": 2.67}
-{"date": "2024-12-16T00:00:00", "price": 106030.0, "mayer": 1.53, "fear_greed": {"value": 83, "classification": "Extreme Greed"}, "mvrv": 2.69}
-{"date": "2024-12-17T00:00:00", "price": 106141.0, "mayer": 1.52, "fear_greed": {"value": 87, "classification": "Extreme Greed"}, "mvrv": 2.68}
-{"date": "2024-12-18T00:00:00", "price": 100042.0, "mayer": 1.43, "fear_greed": {"value": 81, "classification": "Extreme Greed"}, "mvrv": 2.53}
-{"date": "2024-12-19T00:00:00", "price": 97491.0, "mayer": 1.39, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.45}
-{"date": "2024-12-20T00:00:00", "price": 97756.0, "mayer": 1.4, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.44}
-{"date": "2024-12-21T00:00:00", "price": 97225.0, "mayer": 1.38, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.42}
-{"date": "2024-12-22T00:00:00", "price": 95105.0, "mayer": 1.35, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.37}
-{"date": "2024-12-23T00:00:00", "price": 94686.0, "mayer": 1.34, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.35}
-{"date": "2024-12-24T00:00:00", "price": 98676.0, "mayer": 1.4, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.43}
-{"date": "2024-12-25T00:00:00", "price": 99299.0, "mayer": 1.4, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.45}
-{"date": "2024-12-26T00:00:00", "price": 95796.0, "mayer": 1.35, "fear_greed": {"value": 79, "classification": "Extreme Greed"}, "mvrv": 2.35}
-{"date": "2024-12-27T00:00:00", "price": 94165.0, "mayer": 1.33, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.32}
-{"date": "2024-12-28T00:00:00", "price": 95164.0, "mayer": 1.34, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.34}
-{"date": "2024-12-29T00:00:00", "price": 93530.0, "mayer": 1.31, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.29}
-{"date": "2024-12-30T00:00:00", "price": 92643.0, "mayer": 1.3, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.26}
-{"date": "2024-12-31T00:00:00", "price": 93429.0, "mayer": 1.31, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.28}
-{"date": "2025-01-01T00:00:00", "price": 94420.0, "mayer": 1.32, "fear_greed": {"value": 66, "classification": "Greed"}, "mvrv": 2.3}
-{"date": "2025-01-02T00:00:00", "price": 96887.0, "mayer": 1.35, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.36}
-{"date": "2025-01-03T00:00:00", "price": 98107.0, "mayer": 1.36, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.39}
-{"date": "2025-01-04T00:00:00", "price": 98236.0, "mayer": 1.36, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.39}
-{"date": "2025-01-05T00:00:00", "price": 98315.0, "mayer": 1.36, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.39}
-{"date": "2025-01-06T00:00:00", "price": 102078.0, "mayer": 1.41, "fear_greed": {"value": 76, "classification": "Extreme Greed"}, "mvrv": 2.48}
-{"date": "2025-01-07T00:00:00", "price": 96923.0, "mayer": 1.33, "fear_greed": {"value": 78, "classification": "Extreme Greed"}, "mvrv": 2.35}
-{"date": "2025-01-08T00:00:00", "price": 95044.0, "mayer": 1.31, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.3}
-{"date": "2025-01-09T00:00:00", "price": 92484.0, "mayer": 1.27, "fear_greed": {"value": 69, "classification": "Greed"}, "mvrv": 2.23}
-{"date": "2025-01-10T00:00:00", "price": 94701.0, "mayer": 1.29, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.29}
-{"date": "2025-01-11T00:00:00", "price": 94567.0, "mayer": 1.29, "fear_greed": {"value": 69, "classification": "Greed"}, "mvrv": 2.29}
-{"date": "2025-01-12T00:00:00", "price": 94488.0, "mayer": 1.29, "fear_greed": {"value": 62, "classification": "Greed"}, "mvrv": 2.28}
-{"date": "2025-01-13T00:00:00", "price": 94517.0, "mayer": 1.28, "fear_greed": {"value": 61, "classification": "Greed"}, "mvrv": 2.28}
-{"date": "2025-01-14T00:00:00", "price": 96534.0, "mayer": 1.31, "fear_greed": {"value": 63, "classification": "Greed"}, "mvrv": 2.33}
-{"date": "2025-01-15T00:00:00", "price": 100504.0, "mayer": 1.36, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.41}
-{"date": "2025-01-16T00:00:00", "price": 99757.0, "mayer": 1.34, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.4}
-{"date": "2025-01-17T00:00:00", "price": 104462.0, "mayer": 1.4, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.5}
-{"date": "2025-01-18T00:00:00", "price": 104408.0, "mayer": 1.4, "fear_greed": {"value": 77, "classification": "Extreme Greed"}, "mvrv": 2.49}
-{"date": "2025-01-19T00:00:00", "price": 101090.0, "mayer": 1.35, "fear_greed": {"value": 77, "classification": "Extreme Greed"}, "mvrv": 2.41}
-{"date": "2025-01-20T00:00:00", "price": 102017.0, "mayer": 1.36, "fear_greed": {"value": 76, "classification": "Extreme Greed"}, "mvrv": 2.45}
-{"date": "2025-01-21T00:00:00", "price": 106146.0, "mayer": 1.41, "fear_greed": {"value": 76, "classification": "Extreme Greed"}, "mvrv": 2.52}
-{"date": "2025-01-22T00:00:00", "price": 103653.0, "mayer": 1.37, "fear_greed": {"value": 84, "classification": "Extreme Greed"}, "mvrv": 2.46}
-{"date": "2025-01-23T00:00:00", "price": 103960.0, "mayer": 1.37, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.46}
-{"date": "2025-01-24T00:00:00", "price": 104819.0, "mayer": 1.38, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.47}
-{"date": "2025-01-25T00:00:00", "price": 104715.0, "mayer": 1.37, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.47}
-{"date": "2025-01-26T00:00:00", "price": 102682.0, "mayer": 1.34, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.42}
-{"date": "2025-01-27T00:00:00", "price": 102088.0, "mayer": 1.33, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.39}
-{"date": "2025-01-28T00:00:00", "price": 101332.0, "mayer": 1.32, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.37}
-{"date": "2025-01-29T00:00:00", "price": 103703.0, "mayer": 1.34, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.44}
-{"date": "2025-01-30T00:00:00", "price": 104735.0, "mayer": 1.35, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.46}
-{"date": "2025-01-31T00:00:00", "price": 102405.0, "mayer": 1.32, "fear_greed": {"value": 76, "classification": "Extreme Greed"}, "mvrv": 2.39}
-{"date": "2025-02-01T00:00:00", "price": 100656.0, "mayer": 1.3, "fear_greed": {"value": 68, "classification": "Greed"}, "mvrv": 2.35}
-{"date": "2025-02-02T00:00:00", "price": 97689.0, "mayer": 1.25, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.28}
-{"date": "2025-02-03T00:00:00", "price": 101405.0, "mayer": 1.3, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.37}
-{"date": "2025-02-04T00:00:00", "price": 97872.0, "mayer": 1.25, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.28}
-{"date": "2025-02-05T00:00:00", "price": 96615.0, "mayer": 1.23, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.25}
-{"date": "2025-02-06T00:00:00", "price": 96593.0, "mayer": 1.23, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.24}
-{"date": "2025-02-07T00:00:00", "price": 96529.0, "mayer": 1.23, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.24}
-{"date": "2025-02-08T00:00:00", "price": 96482.0, "mayer": 1.22, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.24}
-{"date": "2025-02-09T00:00:00", "price": 96500.0, "mayer": 1.22, "fear_greed": {"value": 46, "classification": "Fear"}, "mvrv": 2.23}
-{"date": "2025-02-10T00:00:00", "price": 97438.0, "mayer": 1.23, "fear_greed": {"value": 43, "classification": "Fear"}, "mvrv": 2.26}
-{"date": "2025-02-11T00:00:00", "price": 95747.0, "mayer": 1.21, "fear_greed": {"value": 47, "classification": "Neutral"}, "mvrv": 2.22}
-{"date": "2025-02-12T00:00:00", "price": 97886.0, "mayer": 1.23, "fear_greed": {"value": 46, "classification": "Fear"}, "mvrv": 2.26}
-{"date": "2025-02-13T00:00:00", "price": 96624.0, "mayer": 1.21, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.23}
-{"date": "2025-02-14T00:00:00", "price": 97509.0, "mayer": 1.22, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.25}
-{"date": "2025-02-15T00:00:00", "price": 97580.0, "mayer": 1.22, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.25}
-{"date": "2025-02-16T00:00:00", "price": 96175.0, "mayer": 1.2, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.22}
-{"date": "2025-02-17T00:00:00", "price": 95773.0, "mayer": 1.19, "fear_greed": {"value": 51, "classification": "Neutral"}, "mvrv": 2.21}
-{"date": "2025-02-18T00:00:00", "price": 95540.0, "mayer": 1.19, "fear_greed": {"value": 47, "classification": "Neutral"}, "mvrv": 2.2}
-{"date": "2025-02-19T00:00:00", "price": 96636.0, "mayer": 1.2, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.23}
-{"date": "2025-02-20T00:00:00", "price": 98334.0, "mayer": 1.22, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.27}
-{"date": "2025-02-21T00:00:00", "price": 96126.0, "mayer": 1.19, "fear_greed": {"value": 55, "classification": "Greed"}, "mvrv": 2.21}
-{"date": "2025-02-22T00:00:00", "price": 96578.0, "mayer": 1.19, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.23}
-{"date": "2025-02-23T00:00:00", "price": 96274.0, "mayer": 1.18, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.21}
-{"date": "2025-02-24T00:00:00", "price": 91418.0, "mayer": 1.12, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.12}
-{"date": "2025-02-25T00:00:00", "price": 88736.0, "mayer": 1.09, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 2.05}
-{"date": "2025-02-26T00:00:00", "price": 84347.0, "mayer": 1.03, "fear_greed": {"value": 21, "classification": "Extreme Fear"}, "mvrv": 1.94}
-{"date": "2025-02-27T00:00:00", "price": 84704.0, "mayer": 1.03, "fear_greed": {"value": 10, "classification": "Extreme Fear"}, "mvrv": 1.95}
-{"date": "2025-02-28T00:00:00", "price": 84373.0, "mayer": 1.03, "fear_greed": {"value": 16, "classification": "Extreme Fear"}, "mvrv": 1.94}
-{"date": "2025-03-01T00:00:00", "price": 86032.0, "mayer": 1.05, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.98}
-{"date": "2025-03-02T00:00:00", "price": 94248.0, "mayer": 1.15, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 2.17}
-{"date": "2025-03-03T00:00:00", "price": 86066.0, "mayer": 1.04, "fear_greed": {"value": 33, "classification": "Fear"}, "mvrv": 1.99}
-{"date": "2025-03-04T00:00:00", "price": 87222.0, "mayer": 1.06, "fear_greed": {"value": 15, "classification": "Extreme Fear"}, "mvrv": 2.01}
-{"date": "2025-03-05T00:00:00", "price": 90624.0, "mayer": 1.1, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 2.09}
-{"date": "2025-03-06T00:00:00", "price": 89962.0, "mayer": 1.09, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 2.07}
-{"date": "2025-03-07T00:00:00", "price": 86743.0, "mayer": 1.04, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.99}
-{"date": "2025-03-08T00:00:00", "price": 86155.0, "mayer": 1.04, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.98}
-{"date": "2025-03-09T00:00:00", "price": 80601.0, "mayer": 0.97, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 1.86}
-{"date": "2025-03-10T00:00:00", "price": 78532.0, "mayer": 0.94, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.82}
-{"date": "2025-03-11T00:00:00", "price": 82862.0, "mayer": 0.99, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.9}
-{"date": "2025-03-12T00:00:00", "price": 83722.0, "mayer": 1.0, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.92}
-{"date": "2025-03-13T00:00:00", "price": 81067.0, "mayer": 0.97, "fear_greed": {"value": 45, "classification": "Fear"}, "mvrv": 1.86}
-{"date": "2025-03-14T00:00:00", "price": 83969.0, "mayer": 1.0, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 1.93}
-{"date": "2025-03-15T00:00:00", "price": 84343.0, "mayer": 1.01, "fear_greed": {"value": 46, "classification": "Fear"}, "mvrv": 1.94}
-{"date": "2025-03-16T00:00:00", "price": 82580.0, "mayer": 0.98, "fear_greed": {"value": 30, "classification": "Fear"}, "mvrv": 1.89}
-{"date": "2025-03-17T00:00:00", "price": 84076.0, "mayer": 1.0, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.93}
-{"date": "2025-03-18T00:00:00", "price": 82718.0, "mayer": 0.98, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.9}
-{"date": "2025-03-19T00:00:00", "price": 86854.0, "mayer": 1.03, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.99}
-{"date": "2025-03-20T00:00:00", "price": 84167.0, "mayer": 1.0, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.93}
-{"date": "2025-03-21T00:00:00", "price": 84043.0, "mayer": 0.99, "fear_greed": {"value": 31, "classification": "Fear"}, "mvrv": 1.93}
-{"date": "2025-03-22T00:00:00", "price": 83832.0, "mayer": 0.99, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.92}
-{"date": "2025-03-23T00:00:00", "price": 86054.0, "mayer": 1.01, "fear_greed": {"value": 30, "classification": "Fear"}, "mvrv": 1.97}
-{"date": "2025-03-24T00:00:00", "price": 87499.0, "mayer": 1.03, "fear_greed": {"value": 45, "classification": "Fear"}, "mvrv": 2.0}
-{"date": "2025-03-25T00:00:00", "price": 87472.0, "mayer": 1.03, "fear_greed": {"value": 46, "classification": "Fear"}, "mvrv": 2.0}
-{"date": "2025-03-26T00:00:00", "price": 86901.0, "mayer": 1.02, "fear_greed": {"value": 47, "classification": "Neutral"}, "mvrv": 1.99}
-{"date": "2025-03-27T00:00:00", "price": 87177.0, "mayer": 1.02, "fear_greed": {"value": 40, "classification": "Fear"}, "mvrv": 2.0}
-{"date": "2025-03-28T00:00:00", "price": 84353.0, "mayer": 0.98, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 1.93}
-{"date": "2025-03-29T00:00:00", "price": 82598.0, "mayer": 0.96, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.89}
-{"date": "2025-03-30T00:00:00", "price": 82335.0, "mayer": 0.96, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.88}
-{"date": "2025-03-31T00:00:00", "price": 82549.0, "mayer": 0.96, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.89}
-{"date": "2025-04-01T00:00:00", "price": 85169.0, "mayer": 0.99, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.95}
-{"date": "2025-04-02T00:00:00", "price": 82486.0, "mayer": 0.96, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 1.89}
-{"date": "2025-04-03T00:00:00", "price": 83103.0, "mayer": 0.96, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.89}
-{"date": "2025-04-04T00:00:00", "price": 83844.0, "mayer": 0.97, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.91}
-{"date": "2025-04-05T00:00:00", "price": 83505.0, "mayer": 0.96, "fear_greed": {"value": 30, "classification": "Fear"}, "mvrv": 1.9}
-{"date": "2025-04-06T00:00:00", "price": 78214.0, "mayer": 0.9, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.78}
-{"date": "2025-04-07T00:00:00", "price": 79235.0, "mayer": 0.91, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.81}
-{"date": "2025-04-08T00:00:00", "price": 76272.0, "mayer": 0.88, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.74}
-{"date": "2025-04-09T00:00:00", "price": 82574.0, "mayer": 0.95, "fear_greed": {"value": 18, "classification": "Extreme Fear"}, "mvrv": 1.89}
-{"date": "2025-04-10T00:00:00", "price": 79626.0, "mayer": 0.91, "fear_greed": {"value": 39, "classification": "Fear"}, "mvrv": 1.81}
-{"date": "2025-04-11T00:00:00", "price": 83405.0, "mayer": 0.96, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.9}
-{"date": "2025-04-12T00:00:00", "price": 85287.0, "mayer": 0.98, "fear_greed": {"value": 43, "classification": "Fear"}, "mvrv": 1.94}
-{"date": "2025-04-13T00:00:00", "price": 83685.0, "mayer": 0.96, "fear_greed": {"value": 45, "classification": "Fear"}, "mvrv": 1.9}
-{"date": "2025-04-14T00:00:00", "price": 84542.0, "mayer": 0.97, "fear_greed": {"value": 31, "classification": "Fear"}, "mvrv": 1.93}
-{"date": "2025-04-15T00:00:00", "price": 83669.0, "mayer": 0.96, "fear_greed": {"value": 38, "classification": "Fear"}, "mvrv": 1.91}
-{"date": "2025-04-16T00:00:00", "price": 84034.0, "mayer": 0.96, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.92}
-{"date": "2025-04-17T00:00:00", "price": 84896.0, "mayer": 0.97, "fear_greed": {"value": 30, "classification": "Fear"}, "mvrv": 1.94}
-{"date": "2025-04-18T00:00:00", "price": 84451.0, "mayer": 0.96, "fear_greed": {"value": 33, "classification": "Fear"}, "mvrv": 1.93}
-{"date": "2025-04-19T00:00:00", "price": 85063.0, "mayer": 0.97, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.94}
-{"date": "2025-04-20T00:00:00", "price": 85174.0, "mayer": 0.97, "fear_greed": {"value": 37, "classification": "Fear"}, "mvrv": 1.94}
-{"date": "2025-04-21T00:00:00", "price": 87519.0, "mayer": 0.99, "fear_greed": {"value": 39, "classification": "Fear"}, "mvrv": 1.99}
-{"date": "2025-04-22T00:00:00", "price": 93442.0, "mayer": 1.06, "fear_greed": {"value": 47, "classification": "Neutral"}, "mvrv": 2.13}
-{"date": "2025-04-23T00:00:00", "price": 93699.0, "mayer": 1.06, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.13}
-{"date": "2025-04-24T00:00:00", "price": 93944.0, "mayer": 1.06, "fear_greed": {"value": 63, "classification": "Greed"}, "mvrv": 2.13}
-{"date": "2025-04-25T00:00:00", "price": 94720.0, "mayer": 1.07, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.14}
-{"date": "2025-04-26T00:00:00", "price": 94647.0, "mayer": 1.06, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.14}
-{"date": "2025-04-27T00:00:00", "price": 93755.0, "mayer": 1.05, "fear_greed": {"value": 61, "classification": "Greed"}, "mvrv": 2.12}
-{"date": "2025-04-28T00:00:00", "price": 94979.0, "mayer": 1.06, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.14}
-{"date": "2025-04-29T00:00:00", "price": 94285.0, "mayer": 1.05, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.12}
-{"date": "2025-04-30T00:00:00", "price": 94207.0, "mayer": 1.05, "fear_greed": {"value": 56, "classification": "Greed"}, "mvrv": 2.12}
-{"date": "2025-05-01T00:00:00", "price": 96492.0, "mayer": 1.07, "fear_greed": {"value": 53, "classification": "Neutral"}, "mvrv": 2.16}
-{"date": "2025-05-02T00:00:00", "price": 96910.0, "mayer": 1.08, "fear_greed": {"value": 67, "classification": "Greed"}, "mvrv": 2.17}
-{"date": "2025-05-03T00:00:00", "price": 95892.0, "mayer": 1.06, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.15}
-{"date": "2025-05-04T00:00:00", "price": 94316.0, "mayer": 1.04, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.11}
-{"date": "2025-05-05T00:00:00", "price": 94748.0, "mayer": 1.05, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.12}
-{"date": "2025-05-06T00:00:00", "price": 96802.0, "mayer": 1.07, "fear_greed": {"value": 59, "classification": "Greed"}, "mvrv": 2.16}
-{"date": "2025-05-07T00:00:00", "price": 97032.0, "mayer": 1.07, "fear_greed": {"value": 67, "classification": "Greed"}, "mvrv": 2.16}
-{"date": "2025-05-08T00:00:00", "price": 103241.0, "mayer": 1.14, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.29}
-{"date": "2025-05-09T00:00:00", "price": 102971.0, "mayer": 1.13, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.28}
-{"date": "2025-05-10T00:00:00", "price": 104696.0, "mayer": 1.15, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.32}
-{"date": "2025-05-11T00:00:00", "price": 104106.0, "mayer": 1.14, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.3}
-{"date": "2025-05-12T00:00:00", "price": 102813.0, "mayer": 1.12, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.28}
-{"date": "2025-05-13T00:00:00", "price": 104170.0, "mayer": 1.14, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.3}
-{"date": "2025-05-14T00:00:00", "price": 103539.0, "mayer": 1.13, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.28}
-{"date": "2025-05-15T00:00:00", "price": 103745.0, "mayer": 1.13, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.28}
-{"date": "2025-05-16T00:00:00", "price": 103489.0, "mayer": 1.12, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.27}
-{"date": "2025-05-17T00:00:00", "price": 103191.0, "mayer": 1.12, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.26}
-{"date": "2025-05-18T00:00:00", "price": 106446.0, "mayer": 1.15, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.32}
-{"date": "2025-05-19T00:00:00", "price": 105606.0, "mayer": 1.14, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.31}
-{"date": "2025-05-20T00:00:00", "price": 106791.0, "mayer": 1.15, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.33}
-{"date": "2025-05-21T00:00:00", "price": 109678.0, "mayer": 1.18, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.39}
-{"date": "2025-05-22T00:00:00", "price": 111673.0, "mayer": 1.2, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.42}
-{"date": "2025-05-23T00:00:00", "price": 107288.0, "mayer": 1.15, "fear_greed": {"value": 78, "classification": "Extreme Greed"}, "mvrv": 2.33}
-{"date": "2025-05-24T00:00:00", "price": 107791.0, "mayer": 1.15, "fear_greed": {"value": 66, "classification": "Greed"}, "mvrv": 2.34}
-{"date": "2025-05-25T00:00:00", "price": 109035.0, "mayer": 1.16, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.36}
-{"date": "2025-05-26T00:00:00", "price": 109440.0, "mayer": 1.16, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.36}
-{"date": "2025-05-27T00:00:00", "price": 108995.0, "mayer": 1.16, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.35}
-{"date": "2025-05-28T00:00:00", "price": 107802.0, "mayer": 1.14, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.32}
-{"date": "2025-05-29T00:00:00", "price": 105642.0, "mayer": 1.12, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.27}
-{"date": "2025-05-30T00:00:00", "price": 103999.0, "mayer": 1.1, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.23}
-{"date": "2025-05-31T00:00:00", "price": 104638.0, "mayer": 1.1, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.25}
-{"date": "2025-06-01T00:00:00", "price": 105652.0, "mayer": 1.11, "fear_greed": {"value": 56, "classification": "Greed"}, "mvrv": 2.27}
-{"date": "2025-06-02T00:00:00", "price": 105882.0, "mayer": 1.12, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.26}
-{"date": "2025-06-03T00:00:00", "price": 105432.0, "mayer": 1.11, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.25}
-{"date": "2025-06-04T00:00:00", "price": 104732.0, "mayer": 1.1, "fear_greed": {"value": 62, "classification": "Greed"}, "mvrv": 2.23}
-{"date": "2025-06-05T00:00:00", "price": 101576.0, "mayer": 1.07, "fear_greed": {"value": 57, "classification": "Greed"}, "mvrv": 2.16}
-{"date": "2025-06-06T00:00:00", "price": 104390.0, "mayer": 1.1, "fear_greed": {"value": 45, "classification": "Fear"}, "mvrv": 2.22}
-{"date": "2025-06-07T00:00:00", "price": 105616.0, "mayer": 1.11, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.25}
-{"date": "2025-06-08T00:00:00", "price": 105794.0, "mayer": 1.11, "fear_greed": {"value": 62, "classification": "Greed"}, "mvrv": 2.25}
-{"date": "2025-06-09T00:00:00", "price": 110294.0, "mayer": 1.16, "fear_greed": {"value": 62, "classification": "Greed"}, "mvrv": 2.34}
-{"date": "2025-06-10T00:00:00", "price": 110257.0, "mayer": 1.16, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.33}
-{"date": "2025-06-11T00:00:00", "price": 108687.0, "mayer": 1.14, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.3}
-{"date": "2025-06-12T00:00:00", "price": 105929.0, "mayer": 1.11, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.24}
-{"date": "2025-06-13T00:00:00", "price": 106091.0, "mayer": 1.11, "fear_greed": {"value": 61, "classification": "Greed"}, "mvrv": 2.24}
-{"date": "2025-06-14T00:00:00", "price": 105472.0, "mayer": 1.1, "fear_greed": {"value": 63, "classification": "Greed"}, "mvrv": 2.23}
-{"date": "2025-06-15T00:00:00", "price": 105552.0, "mayer": 1.1, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.23}
-{"date": "2025-06-16T00:00:00", "price": 106797.0, "mayer": 1.12, "fear_greed": {"value": 61, "classification": "Greed"}, "mvrv": 2.26}
-{"date": "2025-06-17T00:00:00", "price": 104601.0, "mayer": 1.09, "fear_greed": {"value": 68, "classification": "Greed"}, "mvrv": 2.2}
-{"date": "2025-06-18T00:00:00", "price": 104883.0, "mayer": 1.09, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.21}
-{"date": "2025-06-19T00:00:00", "price": 104684.0, "mayer": 1.09, "fear_greed": {"value": 57, "classification": "Greed"}, "mvrv": 2.2}
-{"date": "2025-06-20T00:00:00", "price": 103310.0, "mayer": 1.08, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.17}
-{"date": "2025-06-21T00:00:00", "price": 102257.0, "mayer": 1.07, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.13}
-{"date": "2025-06-22T00:00:00", "price": 100987.0, "mayer": 1.05, "fear_greed": {"value": 42, "classification": "Fear"}, "mvrv": 2.12}
-{"date": "2025-06-23T00:00:00", "price": 105578.0, "mayer": 1.1, "fear_greed": {"value": 47, "classification": "Neutral"}, "mvrv": 2.21}
-{"date": "2025-06-24T00:00:00", "price": 106046.0, "mayer": 1.1, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.22}
-{"date": "2025-06-25T00:00:00", "price": 107361.0, "mayer": 1.12, "fear_greed": {"value": 66, "classification": "Greed"}, "mvrv": 2.25}
-{"date": "2025-06-26T00:00:00", "price": 106960.0, "mayer": 1.11, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.23}
-{"date": "2025-06-27T00:00:00", "price": 107088.0, "mayer": 1.11, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.23}
-{"date": "2025-06-28T00:00:00", "price": 107328.0, "mayer": 1.12, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.24}
-{"date": "2025-06-29T00:00:00", "price": 108386.0, "mayer": 1.13, "fear_greed": {"value": 68, "classification": "Greed"}, "mvrv": 2.26}
-{"date": "2025-06-30T00:00:00", "price": 107135.0, "mayer": 1.11, "fear_greed": {"value": 66, "classification": "Greed"}, "mvrv": 2.22}
-{"date": "2025-07-01T00:00:00", "price": 105698.0, "mayer": 1.1, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.19}
-{"date": "2025-07-02T00:00:00", "price": 108859.0, "mayer": 1.13, "fear_greed": {"value": 63, "classification": "Greed"}, "mvrv": 2.26}
-{"date": "2025-07-03T00:00:00", "price": 109648.0, "mayer": 1.14, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.27}
-{"date": "2025-07-04T00:00:00", "price": 108034.0, "mayer": 1.12, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.22}
-{"date": "2025-07-05T00:00:00", "price": 108231.0, "mayer": 1.12, "fear_greed": {"value": 67, "classification": "Greed"}, "mvrv": 2.22}
-{"date": "2025-07-06T00:00:00", "price": 109232.0, "mayer": 1.13, "fear_greed": {"value": 66, "classification": "Greed"}, "mvrv": 2.24}
-{"date": "2025-07-07T00:00:00", "price": 108300.0, "mayer": 1.12, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.21}
-{"date": "2025-07-08T00:00:00", "price": 108950.0, "mayer": 1.13, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.22}
-{"date": "2025-07-09T00:00:00", "price": 111327.0, "mayer": 1.15, "fear_greed": {"value": 66, "classification": "Greed"}, "mvrv": 2.27}
-{"date": "2025-07-10T00:00:00", "price": 115987.0, "mayer": 1.2, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.35}
-{"date": "2025-07-11T00:00:00", "price": 117517.0, "mayer": 1.21, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.38}
-{"date": "2025-07-12T00:00:00", "price": 117435.0, "mayer": 1.21, "fear_greed": {"value": 79, "classification": "Extreme Greed"}, "mvrv": 2.37}
-{"date": "2025-07-13T00:00:00", "price": 119116.0, "mayer": 1.23, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.4}
-{"date": "2025-07-14T00:00:00", "price": 119850.0, "mayer": 1.23, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.41}
-{"date": "2025-07-15T00:00:00", "price": 117777.0, "mayer": 1.21, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.36}
-{"date": "2025-07-16T00:00:00", "price": 118739.0, "mayer": 1.22, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.37}
-{"date": "2025-07-17T00:00:00", "price": 119290.0, "mayer": 1.22, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.37}
-{"date": "2025-07-18T00:00:00", "price": 118003.0, "mayer": 1.21, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.34}
-{"date": "2025-07-19T00:00:00", "price": 117940.0, "mayer": 1.21, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.34}
-{"date": "2025-07-20T00:00:00", "price": 117301.0, "mayer": 1.2, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.32}
-{"date": "2025-07-21T00:00:00", "price": 117440.0, "mayer": 1.2, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.32}
-{"date": "2025-07-22T00:00:00", "price": 119995.0, "mayer": 1.22, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.37}
-{"date": "2025-07-23T00:00:00", "price": 118755.0, "mayer": 1.21, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.33}
-{"date": "2025-07-24T00:00:00", "price": 118368.0, "mayer": 1.2, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.33}
-{"date": "2025-07-25T00:00:00", "price": 117636.0, "mayer": 1.2, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.3}
-{"date": "2025-07-26T00:00:00", "price": 117947.0, "mayer": 1.2, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.31}
-{"date": "2025-07-27T00:00:00", "price": 119448.0, "mayer": 1.21, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.34}
-{"date": "2025-07-28T00:00:00", "price": 117924.0, "mayer": 1.19, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.31}
-{"date": "2025-07-29T00:00:00", "price": 117922.0, "mayer": 1.19, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.3}
-{"date": "2025-07-30T00:00:00", "price": 117831.0, "mayer": 1.19, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.3}
-{"date": "2025-07-31T00:00:00", "price": 115758.0, "mayer": 1.17, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.26}
-{"date": "2025-08-01T00:00:00", "price": 113320.0, "mayer": 1.14, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.21}
-{"date": "2025-08-02T00:00:00", "price": 112527.0, "mayer": 1.13, "fear_greed": {"value": 55, "classification": "Greed"}, "mvrv": 2.19}
-{"date": "2025-08-03T00:00:00", "price": 114218.0, "mayer": 1.15, "fear_greed": {"value": 53, "classification": "Neutral"}, "mvrv": 2.22}
-{"date": "2025-08-04T00:00:00", "price": 115072.0, "mayer": 1.16, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.24}
-{"date": "2025-08-05T00:00:00", "price": 114141.0, "mayer": 1.15, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.22}
-{"date": "2025-08-06T00:00:00", "price": 115028.0, "mayer": 1.16, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.23}
-{"date": "2025-08-07T00:00:00", "price": 117497.0, "mayer": 1.18, "fear_greed": {"value": 62, "classification": "Greed"}, "mvrv": 2.28}
-{"date": "2025-08-08T00:00:00", "price": 116689.0, "mayer": 1.17, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.26}
-{"date": "2025-08-09T00:00:00", "price": 116500.0, "mayer": 1.17, "fear_greed": {"value": 67, "classification": "Greed"}, "mvrv": 2.26}
-{"date": "2025-08-10T00:00:00", "price": 119307.0, "mayer": 1.2, "fear_greed": {"value": 69, "classification": "Greed"}, "mvrv": 2.31}
-{"date": "2025-08-11T00:00:00", "price": 118731.0, "mayer": 1.19, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.3}
-{"date": "2025-08-12T00:00:00", "price": 120173.0, "mayer": 1.2, "fear_greed": {"value": 68, "classification": "Greed"}, "mvrv": 2.32}
-{"date": "2025-08-13T00:00:00", "price": 123344.0, "mayer": 1.23, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.38}
-{"date": "2025-08-14T00:00:00", "price": 118360.0, "mayer": 1.18, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.28}
-{"date": "2025-08-15T00:00:00", "price": 117398.0, "mayer": 1.17, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.26}
-{"date": "2025-08-16T00:00:00", "price": 117491.0, "mayer": 1.17, "fear_greed": {"value": 56, "classification": "Greed"}, "mvrv": 2.25}
-{"date": "2025-08-17T00:00:00", "price": 117453.0, "mayer": 1.17, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.26}
-{"date": "2025-08-18T00:00:00", "price": 116252.0, "mayer": 1.16, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.23}
-{"date": "2025-08-19T00:00:00", "price": 112831.0, "mayer": 1.12, "fear_greed": {"value": 56, "classification": "Greed"}, "mvrv": 2.16}
-{"date": "2025-08-20T00:00:00", "price": 114275.0, "mayer": 1.14, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.19}
-{"date": "2025-08-21T00:00:00", "price": 112419.0, "mayer": 1.12, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.15}
-{"date": "2025-08-22T00:00:00", "price": 116874.0, "mayer": 1.16, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.23}
-{"date": "2025-08-23T00:00:00", "price": 115374.0, "mayer": 1.15, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.2}
-{"date": "2025-08-24T00:00:00", "price": 113458.0, "mayer": 1.13, "fear_greed": {"value": 53, "classification": "Neutral"}, "mvrv": 2.17}
-{"date": "2025-08-25T00:00:00", "price": 110124.0, "mayer": 1.09, "fear_greed": {"value": 47, "classification": "Neutral"}, "mvrv": 2.1}
-{"date": "2025-08-26T00:00:00", "price": 111803.0, "mayer": 1.11, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.13}
-{"date": "2025-08-27T00:00:00", "price": 111222.0, "mayer": 1.1, "fear_greed": {"value": 51, "classification": "Neutral"}, "mvrv": 2.12}
-{"date": "2025-08-28T00:00:00", "price": 112545.0, "mayer": 1.11, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.14}
-{"date": "2025-08-29T00:00:00", "price": 108411.0, "mayer": 1.07, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.06}
-{"date": "2025-08-30T00:00:00", "price": 108808.0, "mayer": 1.08, "fear_greed": {"value": 39, "classification": "Fear"}, "mvrv": 2.06}
-{"date": "2025-08-31T00:00:00", "price": 108237.0, "mayer": 1.07, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.05}
-{"date": "2025-09-01T00:00:00", "price": 109251.0, "mayer": 1.08, "fear_greed": {"value": 46, "classification": "Fear"}, "mvrv": 2.07}
-{"date": "2025-09-02T00:00:00", "price": 111201.0, "mayer": 1.1, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.11}
-{"date": "2025-09-03T00:00:00", "price": 111723.0, "mayer": 1.1, "fear_greed": {"value": 55, "classification": "Greed"}, "mvrv": 2.12}
-{"date": "2025-09-04T00:00:00", "price": 110724.0, "mayer": 1.09, "fear_greed": {"value": 51, "classification": "Neutral"}, "mvrv": 2.1}
-{"date": "2025-09-05T00:00:00", "price": 110651.0, "mayer": 1.09, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.09}
-{"date": "2025-09-06T00:00:00", "price": 110225.0, "mayer": 1.08, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.08}
-{"date": "2025-09-07T00:00:00", "price": 111168.0, "mayer": 1.09, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.1}
-{"date": "2025-09-08T00:00:00", "price": 112071.0, "mayer": 1.1, "fear_greed": {"value": 51, "classification": "Neutral"}, "mvrv": 2.11}
-{"date": "2025-09-09T00:00:00", "price": 111531.0, "mayer": 1.09, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.1}
-{"date": "2025-09-10T00:00:00", "price": 113955.0, "mayer": 1.12, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.15}
-{"date": "2025-09-11T00:00:00", "price": 115508.0, "mayer": 1.13, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.17}
-{"date": "2025-09-12T00:00:00", "price": 116102.0, "mayer": 1.14, "fear_greed": {"value": 57, "classification": "Greed"}, "mvrv": 2.18}
-{"date": "2025-09-13T00:00:00", "price": 115951.0, "mayer": 1.13, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.18}
-{"date": "2025-09-14T00:00:00", "price": 115408.0, "mayer": 1.13, "fear_greed": {"value": 55, "classification": "Greed"}, "mvrv": 2.17}
-{"date": "2025-09-15T00:00:00", "price": 115445.0, "mayer": 1.12, "fear_greed": {"value": 53, "classification": "Neutral"}, "mvrv": 2.17}
-{"date": "2025-09-16T00:00:00", "price": 116843.0, "mayer": 1.14, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.19}
-{"date": "2025-09-17T00:00:00", "price": 116469.0, "mayer": 1.13, "fear_greed": {"value": 53, "classification": "Neutral"}, "mvrv": 2.18}
-{"date": "2025-09-18T00:00:00", "price": 117137.0, "mayer": 1.14, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.19}
-{"date": "2025-09-19T00:00:00", "price": 115689.0, "mayer": 1.12, "fear_greed": {"value": 53, "classification": "Neutral"}, "mvrv": 2.16}
-{"date": "2025-09-20T00:00:00", "price": 115722.0, "mayer": 1.12, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.16}
-{"date": "2025-09-21T00:00:00", "price": 115306.0, "mayer": 1.11, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.15}
-{"date": "2025-09-22T00:00:00", "price": 112749.0, "mayer": 1.09, "fear_greed": {"value": 45, "classification": "Fear"}, "mvrv": 2.1}
-{"date": "2025-09-23T00:00:00", "price": 112014.0, "mayer": 1.08, "fear_greed": {"value": 43, "classification": "Fear"}, "mvrv": 2.09}
-{"date": "2025-09-24T00:00:00", "price": 113329.0, "mayer": 1.09, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.11}
-{"date": "2025-09-25T00:00:00", "price": 109049.0, "mayer": 1.05, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.03}
-{"date": "2025-09-26T00:00:00", "price": 109713.0, "mayer": 1.05, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 2.04}
-{"date": "2025-09-27T00:00:00", "price": 109682.0, "mayer": 1.05, "fear_greed": {"value": 33, "classification": "Fear"}, "mvrv": 2.04}
-{"date": "2025-09-28T00:00:00", "price": 112123.0, "mayer": 1.07, "fear_greed": {"value": 37, "classification": "Fear"}, "mvrv": 2.08}
-{"date": "2025-09-29T00:00:00", "price": 114400.0, "mayer": 1.09, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.12}
-{"date": "2025-09-30T00:00:00", "price": 114056.0, "mayer": 1.09, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.11}
-{"date": "2025-10-01T00:00:00", "price": 118649.0, "mayer": 1.13, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.19}
-{"date": "2025-10-02T00:00:00", "price": 120681.0, "mayer": 1.15, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.22}
-{"date": "2025-10-03T00:00:00", "price": 122267.0, "mayer": 1.16, "fear_greed": {"value": 63, "classification": "Greed"}, "mvrv": 2.25}
-{"date": "2025-10-04T00:00:00", "price": 122425.0, "mayer": 1.16, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.25}
-{"date": "2025-10-05T00:00:00", "price": 123513.0, "mayer": 1.17, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.27}
-{"date": "2025-10-06T00:00:00", "price": 124753.0, "mayer": 1.18, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.29}
-{"date": "2025-10-07T00:00:00", "price": 121451.0, "mayer": 1.14, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.22}
-{"date": "2025-10-08T00:00:00", "price": 123355.0, "mayer": 1.16, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.25}
-{"date": "2025-10-09T00:00:00", "price": 121706.0, "mayer": 1.14, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.21}
-{"date": "2025-10-10T00:00:00", "price": 113214.0, "mayer": 1.06, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.07}
-{"date": "2025-10-11T00:00:00", "price": 110808.0, "mayer": 1.04, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 2.02}
-{"date": "2025-10-12T00:00:00", "price": 115170.0, "mayer": 1.08, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 2.1}
-{"date": "2025-10-13T00:00:00", "price": 115271.0, "mayer": 1.08, "fear_greed": {"value": 38, "classification": "Fear"}, "mvrv": 2.1}
-{"date": "2025-10-14T00:00:00", "price": 113119.0, "mayer": 1.06, "fear_greed": {"value": 38, "classification": "Fear"}, "mvrv": 2.06}
-{"date": "2025-10-15T00:00:00", "price": 110783.0, "mayer": 1.03, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 2.01}
-{"date": "2025-10-16T00:00:00", "price": 108186.0, "mayer": 1.01, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.96}
-{"date": "2025-10-17T00:00:00", "price": 106468.0, "mayer": 0.99, "fear_greed": {"value": 22, "classification": "Extreme Fear"}, "mvrv": 1.93}
-{"date": "2025-10-18T00:00:00", "price": 107198.0, "mayer": 1.0, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.94}
-{"date": "2025-10-19T00:00:00", "price": 108667.0, "mayer": 1.01, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.97}
-{"date": "2025-10-20T00:00:00", "price": 110589.0, "mayer": 1.02, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 2.0}
-{"date": "2025-10-21T00:00:00", "price": 108477.0, "mayer": 1.0, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.96}
-{"date": "2025-10-22T00:00:00", "price": 107689.0, "mayer": 1.0, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.94}
-{"date": "2025-10-23T00:00:00", "price": 110070.0, "mayer": 1.02, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 1.98}
-{"date": "2025-10-24T00:00:00", "price": 111034.0, "mayer": 1.02, "fear_greed": {"value": 30, "classification": "Fear"}, "mvrv": 2.0}
-{"date": "2025-10-25T00:00:00", "price": 111642.0, "mayer": 1.03, "fear_greed": {"value": 37, "classification": "Fear"}, "mvrv": 2.01}
-{"date": "2025-10-26T00:00:00", "price": 114472.0, "mayer": 1.05, "fear_greed": {"value": 40, "classification": "Fear"}, "mvrv": 2.06}
-{"date": "2025-10-27T00:00:00", "price": 114119.0, "mayer": 1.05, "fear_greed": {"value": 51, "classification": "Neutral"}, "mvrv": 2.05}
-{"date": "2025-10-28T00:00:00", "price": 112956.0, "mayer": 1.04, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.03}
-{"date": "2025-10-29T00:00:00", "price": 110055.0, "mayer": 1.01, "fear_greed": {"value": 51, "classification": "Neutral"}, "mvrv": 1.97}
-{"date": "2025-10-30T00:00:00", "price": 108306.0, "mayer": 0.99, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.93}
-{"date": "2025-10-31T00:00:00", "price": 109556.0, "mayer": 1.0, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.96}
-{"date": "2025-11-01T00:00:00", "price": 110064.0, "mayer": 1.0, "fear_greed": {"value": 33, "classification": "Fear"}, "mvrv": 1.97}
-{"date": "2025-11-02T00:00:00", "price": 110640.0, "mayer": 1.01, "fear_greed": {"value": 37, "classification": "Fear"}, "mvrv": 1.97}
-{"date": "2025-11-03T00:00:00", "price": 106548.0, "mayer": 0.97, "fear_greed": {"value": 42, "classification": "Fear"}, "mvrv": 1.9}
-{"date": "2025-11-04T00:00:00", "price": 101591.0, "mayer": 0.92, "fear_greed": {"value": 21, "classification": "Extreme Fear"}, "mvrv": 1.81}
-{"date": "2025-11-05T00:00:00", "price": 103892.0, "mayer": 0.94, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.86}
-{"date": "2025-11-06T00:00:00", "price": 101301.0, "mayer": 0.92, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 1.81}
-{"date": "2025-11-07T00:00:00", "price": 103372.0, "mayer": 0.94, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.84}
-{"date": "2025-11-08T00:00:00", "price": 102282.0, "mayer": 0.93, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.82}
-{"date": "2025-11-09T00:00:00", "price": 104720.0, "mayer": 0.95, "fear_greed": {"value": 22, "classification": "Extreme Fear"}, "mvrv": 1.86}
-{"date": "2025-11-10T00:00:00", "price": 105997.0, "mayer": 0.96, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.89}
-{"date": "2025-11-11T00:00:00", "price": 102997.0, "mayer": 0.93, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.83}
-{"date": "2025-11-12T00:00:00", "price": 101663.0, "mayer": 0.92, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.81}
-{"date": "2025-11-13T00:00:00", "price": 99697.0, "mayer": 0.9, "fear_greed": {"value": 15, "classification": "Extreme Fear"}, "mvrv": 1.78}
-{"date": "2025-11-14T00:00:00", "price": 94398.0, "mayer": 0.85, "fear_greed": {"value": 16, "classification": "Extreme Fear"}, "mvrv": 1.68}
-{"date": "2025-11-15T00:00:00", "price": 95549.0, "mayer": 0.86, "fear_greed": {"value": 10, "classification": "Extreme Fear"}, "mvrv": 1.7}
-{"date": "2025-11-16T00:00:00", "price": 94177.0, "mayer": 0.85, "fear_greed": {"value": 10, "classification": "Extreme Fear"}, "mvrv": 1.68}
-{"date": "2025-11-17T00:00:00", "price": 92094.0, "mayer": 0.83, "fear_greed": {"value": 14, "classification": "Extreme Fear"}, "mvrv": 1.64}
-{"date": "2025-11-18T00:00:00", "price": 92949.0, "mayer": 0.84, "fear_greed": {"value": 11, "classification": "Extreme Fear"}, "mvrv": 1.65}
-{"date": "2025-11-19T00:00:00", "price": 91466.0, "mayer": 0.83, "fear_greed": {"value": 15, "classification": "Extreme Fear"}, "mvrv": 1.63}
-{"date": "2025-11-20T00:00:00", "price": 86632.0, "mayer": 0.78, "fear_greed": {"value": 11, "classification": "Extreme Fear"}, "mvrv": 1.55}
-{"date": "2025-11-21T00:00:00", "price": 85091.0, "mayer": 0.77, "fear_greed": {"value": 14, "classification": "Extreme Fear"}, "mvrv": 1.52}
-{"date": "2025-11-22T00:00:00", "price": 84648.0, "mayer": 0.77, "fear_greed": {"value": 11, "classification": "Extreme Fear"}, "mvrv": 1.51}
-{"date": "2025-11-23T00:00:00", "price": 86805.0, "mayer": 0.79, "fear_greed": {"value": 13, "classification": "Extreme Fear"}, "mvrv": 1.54}
-{"date": "2025-11-24T00:00:00", "price": 88271.0, "mayer": 0.8, "fear_greed": {"value": 19, "classification": "Extreme Fear"}, "mvrv": 1.57}
-{"date": "2025-11-25T00:00:00", "price": 87342.0, "mayer": 0.79, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.55}
-{"date": "2025-11-26T00:00:00", "price": 90518.0, "mayer": 0.82, "fear_greed": {"value": 15, "classification": "Extreme Fear"}, "mvrv": 1.6}
-{"date": "2025-11-27T00:00:00", "price": 91285.0, "mayer": 0.83, "fear_greed": {"value": 22, "classification": "Extreme Fear"}, "mvrv": 1.62}
-{"date": "2025-11-28T00:00:00", "price": 90919.0, "mayer": 0.83, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.61}
-{"date": "2025-11-29T00:00:00", "price": 90852.0, "mayer": 0.83, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.61}
-{"date": "2025-11-30T00:00:00", "price": 90394.0, "mayer": 0.82, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.61}
-{"date": "2025-12-01T00:00:00", "price": 86322.0, "mayer": 0.79, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.53}
-{"date": "2025-12-02T00:00:00", "price": 91350.0, "mayer": 0.83, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.62}
-{"date": "2025-12-03T00:00:00", "price": 93528.0, "mayer": 0.85, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.66}
-{"date": "2025-12-04T00:00:00", "price": 92142.0, "mayer": 0.84, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.63}
-{"date": "2025-12-05T00:00:00", "price": 89388.0, "mayer": 0.82, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.58}
-{"date": "2025-12-06T00:00:00", "price": 89272.0, "mayer": 0.82, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.58}
-{"date": "2025-12-07T00:00:00", "price": 90406.0, "mayer": 0.83, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.6}
-{"date": "2025-12-08T00:00:00", "price": 90640.0, "mayer": 0.83, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.61}
-{"date": "2025-12-09T00:00:00", "price": 92692.0, "mayer": 0.85, "fear_greed": {"value": 22, "classification": "Extreme Fear"}, "mvrv": 1.65}
-{"date": "2025-12-10T00:00:00", "price": 92021.0, "mayer": 0.84, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.63}
-{"date": "2025-12-11T00:00:00", "price": 92511.0, "mayer": 0.85, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.64}
-{"date": "2025-12-12T00:00:00", "price": 90270.0, "mayer": 0.83, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.6}
-{"date": "2025-12-13T00:00:00", "price": 90299.0, "mayer": 0.83, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.6}
-{"date": "2025-12-14T00:00:00", "price": 88175.0, "mayer": 0.81, "fear_greed": {"value": 21, "classification": "Extreme Fear"}, "mvrv": 1.56}
-{"date": "2025-12-15T00:00:00", "price": 86420.0, "mayer": 0.8, "fear_greed": {"value": 16, "classification": "Extreme Fear"}, "mvrv": 1.53}
-{"date": "2025-12-16T00:00:00", "price": 87844.0, "mayer": 0.81, "fear_greed": {"value": 11, "classification": "Extreme Fear"}, "mvrv": 1.56}
-{"date": "2025-12-17T00:00:00", "price": 86144.0, "mayer": 0.8, "fear_greed": {"value": 16, "classification": "Extreme Fear"}, "mvrv": 1.53}
-{"date": "2025-12-18T00:00:00", "price": 85463.0, "mayer": 0.79, "fear_greed": {"value": 17, "classification": "Extreme Fear"}, "mvrv": 1.52}
-{"date": "2025-12-19T00:00:00", "price": 88103.0, "mayer": 0.81, "fear_greed": {"value": 16, "classification": "Extreme Fear"}, "mvrv": 1.57}
-{"date": "2025-12-20T00:00:00", "price": 88344.0, "mayer": 0.82, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.57}
-{"date": "2025-12-21T00:00:00", "price": 88622.0, "mayer": 0.82, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.57}
-{"date": "2025-12-22T00:00:00", "price": 88490.0, "mayer": 0.82, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.57}
-{"date": "2025-12-23T00:00:00", "price": 87414.0, "mayer": 0.81, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.55}
-{"date": "2025-12-24T00:00:00", "price": 87612.0, "mayer": 0.81, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.56}
-{"date": "2025-12-25T00:00:00", "price": 87235.0, "mayer": 0.81, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.55}
-{"date": "2025-12-26T00:00:00", "price": 87301.0, "mayer": 0.81, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.55}
-{"date": "2025-12-27T00:00:00", "price": 87802.0, "mayer": 0.82, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.56}
-{"date": "2025-12-28T00:00:00", "price": 87836.0, "mayer": 0.82, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.56}
-{"date": "2025-12-29T00:00:00", "price": 87138.0, "mayer": 0.81, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.55}
-{"date": "2025-12-30T00:00:00", "price": 88430.0, "mayer": 0.83, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.58}
-{"date": "2025-12-31T00:00:00", "price": 87509.0, "mayer": 0.82, "fear_greed": {"value": 21, "classification": "Extreme Fear"}, "mvrv": 1.56}
-{"date": "2026-01-01T00:00:00", "price": 88732.0, "mayer": 0.83, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.58}
-{"date": "2026-01-02T00:00:00", "price": 89945.0, "mayer": 0.84, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.6}
-{"date": "2026-01-03T00:00:00", "price": 90603.0, "mayer": 0.85, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.61}
-{"date": "2026-01-04T00:00:00", "price": 91413.0, "mayer": 0.86, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.63}
-{"date": "2026-01-05T00:00:00", "price": 93883.0, "mayer": 0.88, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.67}
-{"date": "2026-01-06T00:00:00", "price": 93729.0, "mayer": 0.88, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 1.67}
-{"date": "2026-01-07T00:00:00", "price": 91308.0, "mayer": 0.86, "fear_greed": {"value": 42, "classification": "Fear"}, "mvrv": 1.62}
-{"date": "2026-01-08T00:00:00", "price": 91027.0, "mayer": 0.85, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.62}
-{"date": "2026-01-09T00:00:00", "price": 90513.0, "mayer": 0.85, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 1.61}
-{"date": "2026-01-10T00:00:00", "price": 90387.0, "mayer": 0.85, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.61}
-{"date": "2026-01-11T00:00:00", "price": 90827.0, "mayer": 0.85, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.62}
-{"date": "2026-01-12T00:00:00", "price": 91193.0, "mayer": 0.86, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 1.62}
-{"date": "2026-01-13T00:00:00", "price": 95322.0, "mayer": 0.9, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.7}
-{"date": "2026-01-14T00:00:00", "price": 96929.0, "mayer": 0.91, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 1.73}
-{"date": "2026-01-15T00:00:00", "price": 95551.0, "mayer": 0.9, "fear_greed": {"value": 61, "classification": "Greed"}, "mvrv": 1.7}
-{"date": "2026-01-16T00:00:00", "price": 95525.0, "mayer": 0.9, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.7}
-{"date": "2026-01-17T00:00:00", "price": 95100.0, "mayer": 0.9, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 1.69}
-{"date": "2026-01-18T00:00:00", "price": 93634.0, "mayer": 0.88, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.67}
-{"date": "2026-01-19T00:00:00", "price": 92554.0, "mayer": 0.88, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 1.64}
-{"date": "2026-01-20T00:00:00", "price": 88311.0, "mayer": 0.84, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.57}
-{"date": "2026-01-21T00:00:00", "price": 89377.0, "mayer": 0.85, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.59}
-{"date": "2026-01-22T00:00:00", "price": 89462.0, "mayer": 0.85, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.59}
-{"date": "2026-01-23T00:00:00", "price": 89504.0, "mayer": 0.85, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.6}
-{"date": "2026-01-24T00:00:00", "price": 89111.0, "mayer": 0.85, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.59}
-{"date": "2026-01-25T00:00:00", "price": 86572.0, "mayer": 0.82, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.54}
-{"date": "2026-01-26T00:00:00", "price": 88267.0, "mayer": 0.84, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.58}
-{"date": "2026-01-27T00:00:00", "price": 89103.0, "mayer": 0.85, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.59}
-{"date": "2026-01-28T00:00:00", "price": 89185.0, "mayer": 0.85, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.59}
-{"date": "2026-01-29T00:00:00", "price": 84562.0, "mayer": 0.81, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.51}
-{"date": "2026-01-30T00:00:00", "price": 84129.0, "mayer": 0.81, "fear_greed": {"value": 16, "classification": "Extreme Fear"}, "mvrv": 1.5}
-{"date": "2026-01-31T00:00:00", "price": 78621.0, "mayer": 0.75, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.41}
-{"date": "2026-02-01T00:00:00", "price": 76974.0, "mayer": 0.74, "fear_greed": {"value": 14, "classification": "Extreme Fear"}, "mvrv": 1.38}
-{"date": "2026-02-02T00:00:00", "price": 78689.0, "mayer": 0.76, "fear_greed": {"value": 14, "classification": "Extreme Fear"}, "mvrv": 1.41}
-{"date": "2026-02-03T00:00:00", "price": 75634.0, "mayer": 0.73, "fear_greed": {"value": 17, "classification": "Extreme Fear"}, "mvrv": 1.36}
-{"date": "2026-02-04T00:00:00", "price": 73020.0, "mayer": 0.71, "fear_greed": {"value": 14, "classification": "Extreme Fear"}, "mvrv": 1.32}
-{"date": "2026-02-05T00:00:00", "price": 62702.0, "mayer": 0.61, "fear_greed": {"value": 12, "classification": "Extreme Fear"}, "mvrv": 1.15}
-{"date": "2026-02-06T00:00:00", "price": 70555.0, "mayer": 0.69, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.28}
-{"date": "2026-02-07T00:00:00", "price": 69282.0, "mayer": 0.68, "fear_greed": {"value": 6, "classification": "Extreme Fear"}, "mvrv": 1.25}
-{"date": "2026-02-08T00:00:00", "price": 70265.0, "mayer": 0.69, "fear_greed": {"value": 7, "classification": "Extreme Fear"}, "mvrv": 1.28}
-{"date": "2026-02-09T00:00:00", "price": 70121.0, "mayer": 0.69, "fear_greed": {"value": 14, "classification": "Extreme Fear"}, "mvrv": 1.27}
-{"date": "2026-02-10T00:00:00", "price": 68794.0, "mayer": 0.68, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.25}
-{"date": "2026-02-11T00:00:00", "price": 66992.0, "mayer": 0.66, "fear_greed": {"value": 11, "classification": "Extreme Fear"}, "mvrv": 1.22}
-{"date": "2026-02-12T00:00:00", "price": 66222.0, "mayer": 0.65, "fear_greed": {"value": 5, "classification": "Extreme Fear"}, "mvrv": 1.21}
-{"date": "2026-02-13T01:30:14", "price": 66069.0, "mayer": 0.65, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.21}
-{"date": "2026-02-13T05:54:55", "price": 66356.0, "mayer": 0.66, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
-{"date": "2026-02-13T06:52:07", "price": 66081.0, "mayer": 0.65, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
-{"date": "2026-02-13T07:45:19", "price": 66108.0, "mayer": 0.65, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
-{"date": "2026-02-13T08:35:10", "price": 66378.0, "mayer": 0.66, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
-{"date": "2026-02-13T09:36:50", "price": 66835.0, "mayer": 0.66, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
-{"date": "2026-02-13T10:33:22", "price": 66835.0, "mayer": 0.66, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
-{"date": "2026-02-13T11:26:18", "price": 66864.0, "mayer": 0.66, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
-{"date": "2026-02-13T12:41:27", "price": 67057.0, "mayer": 0.66, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
-{"date": "2026-02-13T13:58:01", "price": 67345.0, "mayer": 0.67, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
-{"date": "2026-02-13T14:40:37", "price": 67459.0, "mayer": 0.67, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
-{"date": "2026-02-13T15:35:39", "price": 69077.0, "mayer": 0.68, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
+{"date": "2024-08-30T00:00:00+00:00", "price": 59119.0, "mayer": 0.93, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.88}
+{"date": "2024-08-31T00:00:00+00:00", "price": 58970.0, "mayer": 0.93, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.87}
+{"date": "2024-09-01T00:00:00+00:00", "price": 57325.0, "mayer": 0.9, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.82}
+{"date": "2024-09-02T00:00:00+00:00", "price": 59112.0, "mayer": 0.93, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.88}
+{"date": "2024-09-03T00:00:00+00:00", "price": 57431.0, "mayer": 0.9, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.83}
+{"date": "2024-09-04T00:00:00+00:00", "price": 57972.0, "mayer": 0.91, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 1.84}
+{"date": "2024-09-05T00:00:00+00:00", "price": 56160.0, "mayer": 0.88, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.78}
+{"date": "2024-09-06T00:00:00+00:00", "price": 53949.0, "mayer": 0.85, "fear_greed": {"value": 22, "classification": "Extreme Fear"}, "mvrv": 1.71}
+{"date": "2024-09-07T00:00:00+00:00", "price": 54140.0, "mayer": 0.85, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.72}
+{"date": "2024-09-08T00:00:00+00:00", "price": 54842.0, "mayer": 0.86, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.74}
+{"date": "2024-09-09T00:00:00+00:00", "price": 57020.0, "mayer": 0.89, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.81}
+{"date": "2024-09-10T00:00:00+00:00", "price": 57649.0, "mayer": 0.9, "fear_greed": {"value": 33, "classification": "Fear"}, "mvrv": 1.83}
+{"date": "2024-09-11T00:00:00+00:00", "price": 57343.0, "mayer": 0.9, "fear_greed": {"value": 37, "classification": "Fear"}, "mvrv": 1.82}
+{"date": "2024-09-12T00:00:00+00:00", "price": 58127.0, "mayer": 0.91, "fear_greed": {"value": 31, "classification": "Fear"}, "mvrv": 1.84}
+{"date": "2024-09-13T00:00:00+00:00", "price": 60571.0, "mayer": 0.95, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.92}
+{"date": "2024-09-14T00:00:00+00:00", "price": 60005.0, "mayer": 0.94, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 1.9}
+{"date": "2024-09-15T00:00:00+00:00", "price": 59183.0, "mayer": 0.92, "fear_greed": {"value": 51, "classification": "Neutral"}, "mvrv": 1.87}
+{"date": "2024-09-16T00:00:00+00:00", "price": 58193.0, "mayer": 0.91, "fear_greed": {"value": 39, "classification": "Fear"}, "mvrv": 1.84}
+{"date": "2024-09-17T00:00:00+00:00", "price": 60309.0, "mayer": 0.94, "fear_greed": {"value": 33, "classification": "Fear"}, "mvrv": 1.91}
+{"date": "2024-09-18T00:00:00+00:00", "price": 61650.0, "mayer": 0.96, "fear_greed": {"value": 45, "classification": "Fear"}, "mvrv": 1.94}
+{"date": "2024-09-19T00:00:00+00:00", "price": 62940.0, "mayer": 0.98, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.99}
+{"date": "2024-09-20T00:00:00+00:00", "price": 63193.0, "mayer": 0.99, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 1.99}
+{"date": "2024-09-21T00:00:00+00:00", "price": 63395.0, "mayer": 0.99, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.0}
+{"date": "2024-09-22T00:00:00+00:00", "price": 63649.0, "mayer": 1.0, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.0}
+{"date": "2024-09-23T00:00:00+00:00", "price": 63330.0, "mayer": 0.99, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 1.99}
+{"date": "2024-09-24T00:00:00+00:00", "price": 64302.0, "mayer": 1.01, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.02}
+{"date": "2024-09-25T00:00:00+00:00", "price": 63143.0, "mayer": 0.99, "fear_greed": {"value": 59, "classification": "Greed"}, "mvrv": 1.98}
+{"date": "2024-09-26T00:00:00+00:00", "price": 65181.0, "mayer": 1.02, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.04}
+{"date": "2024-09-27T00:00:00+00:00", "price": 65791.0, "mayer": 1.03, "fear_greed": {"value": 61, "classification": "Greed"}, "mvrv": 2.06}
+{"date": "2024-09-28T00:00:00+00:00", "price": 65888.0, "mayer": 1.03, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.06}
+{"date": "2024-09-29T00:00:00+00:00", "price": 65635.0, "mayer": 1.03, "fear_greed": {"value": 63, "classification": "Greed"}, "mvrv": 2.05}
+{"date": "2024-09-30T00:00:00+00:00", "price": 63330.0, "mayer": 0.99, "fear_greed": {"value": 61, "classification": "Greed"}, "mvrv": 1.98}
+{"date": "2024-10-01T00:00:00+00:00", "price": 60837.0, "mayer": 0.96, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 1.91}
+{"date": "2024-10-02T00:00:00+00:00", "price": 60633.0, "mayer": 0.95, "fear_greed": {"value": 42, "classification": "Fear"}, "mvrv": 1.9}
+{"date": "2024-10-03T00:00:00+00:00", "price": 60759.0, "mayer": 0.96, "fear_greed": {"value": 37, "classification": "Fear"}, "mvrv": 1.9}
+{"date": "2024-10-04T00:00:00+00:00", "price": 62067.0, "mayer": 0.98, "fear_greed": {"value": 41, "classification": "Fear"}, "mvrv": 1.94}
+{"date": "2024-10-05T00:00:00+00:00", "price": 62090.0, "mayer": 0.98, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.94}
+{"date": "2024-10-06T00:00:00+00:00", "price": 62819.0, "mayer": 0.99, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 1.96}
+{"date": "2024-10-07T00:00:00+00:00", "price": 62237.0, "mayer": 0.98, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 1.95}
+{"date": "2024-10-08T00:00:00+00:00", "price": 62132.0, "mayer": 0.98, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.93}
+{"date": "2024-10-09T00:00:00+00:00", "price": 60582.0, "mayer": 0.95, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.88}
+{"date": "2024-10-10T00:00:00+00:00", "price": 60274.0, "mayer": 0.95, "fear_greed": {"value": 39, "classification": "Fear"}, "mvrv": 1.87}
+{"date": "2024-10-11T00:00:00+00:00", "price": 62445.0, "mayer": 0.98, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.93}
+{"date": "2024-10-12T00:00:00+00:00", "price": 63193.0, "mayer": 1.0, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.95}
+{"date": "2024-10-13T00:00:00+00:00", "price": 62851.0, "mayer": 0.99, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 1.94}
+{"date": "2024-10-14T00:00:00+00:00", "price": 66046.0, "mayer": 1.04, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.04}
+{"date": "2024-10-15T00:00:00+00:00", "price": 67041.0, "mayer": 1.06, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.06}
+{"date": "2024-10-16T00:00:00+00:00", "price": 67613.0, "mayer": 1.07, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.08}
+{"date": "2024-10-17T00:00:00+00:00", "price": 67400.0, "mayer": 1.06, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.07}
+{"date": "2024-10-18T00:00:00+00:00", "price": 68419.0, "mayer": 1.08, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.1}
+{"date": "2024-10-19T00:00:00+00:00", "price": 68363.0, "mayer": 1.08, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.1}
+{"date": "2024-10-20T00:00:00+00:00", "price": 69002.0, "mayer": 1.09, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.11}
+{"date": "2024-10-21T00:00:00+00:00", "price": 67368.0, "mayer": 1.06, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.06}
+{"date": "2024-10-22T00:00:00+00:00", "price": 67361.0, "mayer": 1.06, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.05}
+{"date": "2024-10-23T00:00:00+00:00", "price": 66432.0, "mayer": 1.05, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.03}
+{"date": "2024-10-24T00:00:00+00:00", "price": 68161.0, "mayer": 1.08, "fear_greed": {"value": 69, "classification": "Greed"}, "mvrv": 2.07}
+{"date": "2024-10-25T00:00:00+00:00", "price": 66642.0, "mayer": 1.05, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.02}
+{"date": "2024-10-26T00:00:00+00:00", "price": 67015.0, "mayer": 1.06, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.04}
+{"date": "2024-10-27T00:00:00+00:00", "price": 67929.0, "mayer": 1.07, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.07}
+{"date": "2024-10-28T00:00:00+00:00", "price": 69908.0, "mayer": 1.11, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.12}
+{"date": "2024-10-29T00:00:00+00:00", "price": 72720.0, "mayer": 1.15, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.2}
+{"date": "2024-10-30T00:00:00+00:00", "price": 72340.0, "mayer": 1.14, "fear_greed": {"value": 77, "classification": "Extreme Greed"}, "mvrv": 2.19}
+{"date": "2024-10-31T00:00:00+00:00", "price": 70215.0, "mayer": 1.11, "fear_greed": {"value": 77, "classification": "Extreme Greed"}, "mvrv": 2.13}
+{"date": "2024-11-01T00:00:00+00:00", "price": 69482.0, "mayer": 1.1, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.1}
+{"date": "2024-11-02T00:00:00+00:00", "price": 69289.0, "mayer": 1.09, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.09}
+{"date": "2024-11-03T00:00:00+00:00", "price": 68741.0, "mayer": 1.08, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.07}
+{"date": "2024-11-04T00:00:00+00:00", "price": 67812.0, "mayer": 1.07, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.04}
+{"date": "2024-11-05T00:00:00+00:00", "price": 69360.0, "mayer": 1.09, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.09}
+{"date": "2024-11-06T00:00:00+00:00", "price": 75639.0, "mayer": 1.19, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.27}
+{"date": "2024-11-07T00:00:00+00:00", "price": 75905.0, "mayer": 1.19, "fear_greed": {"value": 77, "classification": "Extreme Greed"}, "mvrv": 2.27}
+{"date": "2024-11-08T00:00:00+00:00", "price": 76545.0, "mayer": 1.2, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.28}
+{"date": "2024-11-09T00:00:00+00:00", "price": 76779.0, "mayer": 1.21, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.29}
+{"date": "2024-11-10T00:00:00+00:00", "price": 80474.0, "mayer": 1.26, "fear_greed": {"value": 78, "classification": "Extreme Greed"}, "mvrv": 2.39}
+{"date": "2024-11-11T00:00:00+00:00", "price": 88701.0, "mayer": 1.39, "fear_greed": {"value": 76, "classification": "Extreme Greed"}, "mvrv": 2.61}
+{"date": "2024-11-12T00:00:00+00:00", "price": 87956.0, "mayer": 1.37, "fear_greed": {"value": 80, "classification": "Extreme Greed"}, "mvrv": 2.57}
+{"date": "2024-11-13T00:00:00+00:00", "price": 90584.0, "mayer": 1.41, "fear_greed": {"value": 84, "classification": "Extreme Greed"}, "mvrv": 2.62}
+{"date": "2024-11-14T00:00:00+00:00", "price": 87250.0, "mayer": 1.36, "fear_greed": {"value": 88, "classification": "Extreme Greed"}, "mvrv": 2.52}
+{"date": "2024-11-15T00:00:00+00:00", "price": 91066.0, "mayer": 1.41, "fear_greed": {"value": 80, "classification": "Extreme Greed"}, "mvrv": 2.62}
+{"date": "2024-11-16T00:00:00+00:00", "price": 90558.0, "mayer": 1.4, "fear_greed": {"value": 86, "classification": "Extreme Greed"}, "mvrv": 2.6}
+{"date": "2024-11-17T00:00:00+00:00", "price": 89846.0, "mayer": 1.39, "fear_greed": {"value": 90, "classification": "Extreme Greed"}, "mvrv": 2.57}
+{"date": "2024-11-18T00:00:00+00:00", "price": 90543.0, "mayer": 1.4, "fear_greed": {"value": 83, "classification": "Extreme Greed"}, "mvrv": 2.59}
+{"date": "2024-11-19T00:00:00+00:00", "price": 92344.0, "mayer": 1.42, "fear_greed": {"value": 90, "classification": "Extreme Greed"}, "mvrv": 2.62}
+{"date": "2024-11-20T00:00:00+00:00", "price": 94339.0, "mayer": 1.45, "fear_greed": {"value": 83, "classification": "Extreme Greed"}, "mvrv": 2.65}
+{"date": "2024-11-21T00:00:00+00:00", "price": 98505.0, "mayer": 1.51, "fear_greed": {"value": 82, "classification": "Extreme Greed"}, "mvrv": 2.74}
+{"date": "2024-11-22T00:00:00+00:00", "price": 98998.0, "mayer": 1.51, "fear_greed": {"value": 94, "classification": "Extreme Greed"}, "mvrv": 2.73}
+{"date": "2024-11-23T00:00:00+00:00", "price": 97777.0, "mayer": 1.49, "fear_greed": {"value": 93, "classification": "Extreme Greed"}, "mvrv": 2.68}
+{"date": "2024-11-24T00:00:00+00:00", "price": 98014.0, "mayer": 1.49, "fear_greed": {"value": 80, "classification": "Extreme Greed"}, "mvrv": 2.68}
+{"date": "2024-11-25T00:00:00+00:00", "price": 93102.0, "mayer": 1.41, "fear_greed": {"value": 82, "classification": "Extreme Greed"}, "mvrv": 2.55}
+{"date": "2024-11-26T00:00:00+00:00", "price": 91985.0, "mayer": 1.39, "fear_greed": {"value": 79, "classification": "Extreme Greed"}, "mvrv": 2.5}
+{"date": "2024-11-27T00:00:00+00:00", "price": 95963.0, "mayer": 1.45, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.61}
+{"date": "2024-11-28T00:00:00+00:00", "price": 95652.0, "mayer": 1.44, "fear_greed": {"value": 77, "classification": "Extreme Greed"}, "mvrv": 2.59}
+{"date": "2024-11-29T00:00:00+00:00", "price": 97462.0, "mayer": 1.46, "fear_greed": {"value": 78, "classification": "Extreme Greed"}, "mvrv": 2.63}
+{"date": "2024-11-30T00:00:00+00:00", "price": 96449.0, "mayer": 1.44, "fear_greed": {"value": 84, "classification": "Extreme Greed"}, "mvrv": 2.6}
+{"date": "2024-12-01T00:00:00+00:00", "price": 97280.0, "mayer": 1.45, "fear_greed": {"value": 81, "classification": "Extreme Greed"}, "mvrv": 2.63}
+{"date": "2024-12-02T00:00:00+00:00", "price": 95865.0, "mayer": 1.43, "fear_greed": {"value": 80, "classification": "Extreme Greed"}, "mvrv": 2.57}
+{"date": "2024-12-03T00:00:00+00:00", "price": 96002.0, "mayer": 1.43, "fear_greed": {"value": 76, "classification": "Extreme Greed"}, "mvrv": 2.57}
+{"date": "2024-12-04T00:00:00+00:00", "price": 98769.0, "mayer": 1.46, "fear_greed": {"value": 78, "classification": "Extreme Greed"}, "mvrv": 2.64}
+{"date": "2024-12-05T00:00:00+00:00", "price": 96594.0, "mayer": 1.43, "fear_greed": {"value": 84, "classification": "Extreme Greed"}, "mvrv": 2.56}
+{"date": "2024-12-06T00:00:00+00:00", "price": 99921.0, "mayer": 1.47, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.62}
+{"date": "2024-12-07T00:00:00+00:00", "price": 99923.0, "mayer": 1.47, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.62}
+{"date": "2024-12-08T00:00:00+00:00", "price": 101236.0, "mayer": 1.49, "fear_greed": {"value": 79, "classification": "Extreme Greed"}, "mvrv": 2.64}
+{"date": "2024-12-09T00:00:00+00:00", "price": 97433.0, "mayer": 1.43, "fear_greed": {"value": 78, "classification": "Extreme Greed"}, "mvrv": 2.53}
+{"date": "2024-12-10T00:00:00+00:00", "price": 96675.0, "mayer": 1.41, "fear_greed": {"value": 78, "classification": "Extreme Greed"}, "mvrv": 2.5}
+{"date": "2024-12-11T00:00:00+00:00", "price": 101173.0, "mayer": 1.48, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.61}
+{"date": "2024-12-12T00:00:00+00:00", "price": 100043.0, "mayer": 1.46, "fear_greed": {"value": 83, "classification": "Extreme Greed"}, "mvrv": 2.57}
+{"date": "2024-12-13T00:00:00+00:00", "price": 101459.0, "mayer": 1.47, "fear_greed": {"value": 76, "classification": "Extreme Greed"}, "mvrv": 2.6}
+{"date": "2024-12-14T00:00:00+00:00", "price": 101373.0, "mayer": 1.47, "fear_greed": {"value": 83, "classification": "Extreme Greed"}, "mvrv": 2.6}
+{"date": "2024-12-15T00:00:00+00:00", "price": 104299.0, "mayer": 1.51, "fear_greed": {"value": 80, "classification": "Extreme Greed"}, "mvrv": 2.67}
+{"date": "2024-12-16T00:00:00+00:00", "price": 106030.0, "mayer": 1.53, "fear_greed": {"value": 83, "classification": "Extreme Greed"}, "mvrv": 2.69}
+{"date": "2024-12-17T00:00:00+00:00", "price": 106141.0, "mayer": 1.52, "fear_greed": {"value": 87, "classification": "Extreme Greed"}, "mvrv": 2.68}
+{"date": "2024-12-18T00:00:00+00:00", "price": 100042.0, "mayer": 1.43, "fear_greed": {"value": 81, "classification": "Extreme Greed"}, "mvrv": 2.53}
+{"date": "2024-12-19T00:00:00+00:00", "price": 97491.0, "mayer": 1.39, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.45}
+{"date": "2024-12-20T00:00:00+00:00", "price": 97756.0, "mayer": 1.4, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.44}
+{"date": "2024-12-21T00:00:00+00:00", "price": 97225.0, "mayer": 1.38, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.42}
+{"date": "2024-12-22T00:00:00+00:00", "price": 95105.0, "mayer": 1.35, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.37}
+{"date": "2024-12-23T00:00:00+00:00", "price": 94686.0, "mayer": 1.34, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.35}
+{"date": "2024-12-24T00:00:00+00:00", "price": 98676.0, "mayer": 1.4, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.43}
+{"date": "2024-12-25T00:00:00+00:00", "price": 99299.0, "mayer": 1.4, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.45}
+{"date": "2024-12-26T00:00:00+00:00", "price": 95796.0, "mayer": 1.35, "fear_greed": {"value": 79, "classification": "Extreme Greed"}, "mvrv": 2.35}
+{"date": "2024-12-27T00:00:00+00:00", "price": 94165.0, "mayer": 1.33, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.32}
+{"date": "2024-12-28T00:00:00+00:00", "price": 95164.0, "mayer": 1.34, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.34}
+{"date": "2024-12-29T00:00:00+00:00", "price": 93530.0, "mayer": 1.31, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.29}
+{"date": "2024-12-30T00:00:00+00:00", "price": 92643.0, "mayer": 1.3, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.26}
+{"date": "2024-12-31T00:00:00+00:00", "price": 93429.0, "mayer": 1.31, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.28}
+{"date": "2025-01-01T00:00:00+00:00", "price": 94420.0, "mayer": 1.32, "fear_greed": {"value": 66, "classification": "Greed"}, "mvrv": 2.3}
+{"date": "2025-01-02T00:00:00+00:00", "price": 96887.0, "mayer": 1.35, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.36}
+{"date": "2025-01-03T00:00:00+00:00", "price": 98107.0, "mayer": 1.36, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.39}
+{"date": "2025-01-04T00:00:00+00:00", "price": 98236.0, "mayer": 1.36, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.39}
+{"date": "2025-01-05T00:00:00+00:00", "price": 98315.0, "mayer": 1.36, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.39}
+{"date": "2025-01-06T00:00:00+00:00", "price": 102078.0, "mayer": 1.41, "fear_greed": {"value": 76, "classification": "Extreme Greed"}, "mvrv": 2.48}
+{"date": "2025-01-07T00:00:00+00:00", "price": 96923.0, "mayer": 1.33, "fear_greed": {"value": 78, "classification": "Extreme Greed"}, "mvrv": 2.35}
+{"date": "2025-01-08T00:00:00+00:00", "price": 95044.0, "mayer": 1.31, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.3}
+{"date": "2025-01-09T00:00:00+00:00", "price": 92484.0, "mayer": 1.27, "fear_greed": {"value": 69, "classification": "Greed"}, "mvrv": 2.23}
+{"date": "2025-01-10T00:00:00+00:00", "price": 94701.0, "mayer": 1.29, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.29}
+{"date": "2025-01-11T00:00:00+00:00", "price": 94567.0, "mayer": 1.29, "fear_greed": {"value": 69, "classification": "Greed"}, "mvrv": 2.29}
+{"date": "2025-01-12T00:00:00+00:00", "price": 94488.0, "mayer": 1.29, "fear_greed": {"value": 62, "classification": "Greed"}, "mvrv": 2.28}
+{"date": "2025-01-13T00:00:00+00:00", "price": 94517.0, "mayer": 1.28, "fear_greed": {"value": 61, "classification": "Greed"}, "mvrv": 2.28}
+{"date": "2025-01-14T00:00:00+00:00", "price": 96534.0, "mayer": 1.31, "fear_greed": {"value": 63, "classification": "Greed"}, "mvrv": 2.33}
+{"date": "2025-01-15T00:00:00+00:00", "price": 100504.0, "mayer": 1.36, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.41}
+{"date": "2025-01-16T00:00:00+00:00", "price": 99757.0, "mayer": 1.34, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.4}
+{"date": "2025-01-17T00:00:00+00:00", "price": 104462.0, "mayer": 1.4, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.5}
+{"date": "2025-01-18T00:00:00+00:00", "price": 104408.0, "mayer": 1.4, "fear_greed": {"value": 77, "classification": "Extreme Greed"}, "mvrv": 2.49}
+{"date": "2025-01-19T00:00:00+00:00", "price": 101090.0, "mayer": 1.35, "fear_greed": {"value": 77, "classification": "Extreme Greed"}, "mvrv": 2.41}
+{"date": "2025-01-20T00:00:00+00:00", "price": 102017.0, "mayer": 1.36, "fear_greed": {"value": 76, "classification": "Extreme Greed"}, "mvrv": 2.45}
+{"date": "2025-01-21T00:00:00+00:00", "price": 106146.0, "mayer": 1.41, "fear_greed": {"value": 76, "classification": "Extreme Greed"}, "mvrv": 2.52}
+{"date": "2025-01-22T00:00:00+00:00", "price": 103653.0, "mayer": 1.37, "fear_greed": {"value": 84, "classification": "Extreme Greed"}, "mvrv": 2.46}
+{"date": "2025-01-23T00:00:00+00:00", "price": 103960.0, "mayer": 1.37, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.46}
+{"date": "2025-01-24T00:00:00+00:00", "price": 104819.0, "mayer": 1.38, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.47}
+{"date": "2025-01-25T00:00:00+00:00", "price": 104715.0, "mayer": 1.37, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.47}
+{"date": "2025-01-26T00:00:00+00:00", "price": 102682.0, "mayer": 1.34, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.42}
+{"date": "2025-01-27T00:00:00+00:00", "price": 102088.0, "mayer": 1.33, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.39}
+{"date": "2025-01-28T00:00:00+00:00", "price": 101332.0, "mayer": 1.32, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.37}
+{"date": "2025-01-29T00:00:00+00:00", "price": 103703.0, "mayer": 1.34, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.44}
+{"date": "2025-01-30T00:00:00+00:00", "price": 104735.0, "mayer": 1.35, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.46}
+{"date": "2025-01-31T00:00:00+00:00", "price": 102405.0, "mayer": 1.32, "fear_greed": {"value": 76, "classification": "Extreme Greed"}, "mvrv": 2.39}
+{"date": "2025-02-01T00:00:00+00:00", "price": 100656.0, "mayer": 1.3, "fear_greed": {"value": 68, "classification": "Greed"}, "mvrv": 2.35}
+{"date": "2025-02-02T00:00:00+00:00", "price": 97689.0, "mayer": 1.25, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.28}
+{"date": "2025-02-03T00:00:00+00:00", "price": 101405.0, "mayer": 1.3, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.37}
+{"date": "2025-02-04T00:00:00+00:00", "price": 97872.0, "mayer": 1.25, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.28}
+{"date": "2025-02-05T00:00:00+00:00", "price": 96615.0, "mayer": 1.23, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.25}
+{"date": "2025-02-06T00:00:00+00:00", "price": 96593.0, "mayer": 1.23, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.24}
+{"date": "2025-02-07T00:00:00+00:00", "price": 96529.0, "mayer": 1.23, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.24}
+{"date": "2025-02-08T00:00:00+00:00", "price": 96482.0, "mayer": 1.22, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.24}
+{"date": "2025-02-09T00:00:00+00:00", "price": 96500.0, "mayer": 1.22, "fear_greed": {"value": 46, "classification": "Fear"}, "mvrv": 2.23}
+{"date": "2025-02-10T00:00:00+00:00", "price": 97438.0, "mayer": 1.23, "fear_greed": {"value": 43, "classification": "Fear"}, "mvrv": 2.26}
+{"date": "2025-02-11T00:00:00+00:00", "price": 95747.0, "mayer": 1.21, "fear_greed": {"value": 47, "classification": "Neutral"}, "mvrv": 2.22}
+{"date": "2025-02-12T00:00:00+00:00", "price": 97886.0, "mayer": 1.23, "fear_greed": {"value": 46, "classification": "Fear"}, "mvrv": 2.26}
+{"date": "2025-02-13T00:00:00+00:00", "price": 96624.0, "mayer": 1.21, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.23}
+{"date": "2025-02-14T00:00:00+00:00", "price": 97509.0, "mayer": 1.22, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.25}
+{"date": "2025-02-15T00:00:00+00:00", "price": 97580.0, "mayer": 1.22, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.25}
+{"date": "2025-02-16T00:00:00+00:00", "price": 96175.0, "mayer": 1.2, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.22}
+{"date": "2025-02-17T00:00:00+00:00", "price": 95773.0, "mayer": 1.19, "fear_greed": {"value": 51, "classification": "Neutral"}, "mvrv": 2.21}
+{"date": "2025-02-18T00:00:00+00:00", "price": 95540.0, "mayer": 1.19, "fear_greed": {"value": 47, "classification": "Neutral"}, "mvrv": 2.2}
+{"date": "2025-02-19T00:00:00+00:00", "price": 96636.0, "mayer": 1.2, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.23}
+{"date": "2025-02-20T00:00:00+00:00", "price": 98334.0, "mayer": 1.22, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.27}
+{"date": "2025-02-21T00:00:00+00:00", "price": 96126.0, "mayer": 1.19, "fear_greed": {"value": 55, "classification": "Greed"}, "mvrv": 2.21}
+{"date": "2025-02-22T00:00:00+00:00", "price": 96578.0, "mayer": 1.19, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.23}
+{"date": "2025-02-23T00:00:00+00:00", "price": 96274.0, "mayer": 1.18, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.21}
+{"date": "2025-02-24T00:00:00+00:00", "price": 91418.0, "mayer": 1.12, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.12}
+{"date": "2025-02-25T00:00:00+00:00", "price": 88736.0, "mayer": 1.09, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 2.05}
+{"date": "2025-02-26T00:00:00+00:00", "price": 84347.0, "mayer": 1.03, "fear_greed": {"value": 21, "classification": "Extreme Fear"}, "mvrv": 1.94}
+{"date": "2025-02-27T00:00:00+00:00", "price": 84704.0, "mayer": 1.03, "fear_greed": {"value": 10, "classification": "Extreme Fear"}, "mvrv": 1.95}
+{"date": "2025-02-28T00:00:00+00:00", "price": 84373.0, "mayer": 1.03, "fear_greed": {"value": 16, "classification": "Extreme Fear"}, "mvrv": 1.94}
+{"date": "2025-03-01T00:00:00+00:00", "price": 86032.0, "mayer": 1.05, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.98}
+{"date": "2025-03-02T00:00:00+00:00", "price": 94248.0, "mayer": 1.15, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 2.17}
+{"date": "2025-03-03T00:00:00+00:00", "price": 86066.0, "mayer": 1.04, "fear_greed": {"value": 33, "classification": "Fear"}, "mvrv": 1.99}
+{"date": "2025-03-04T00:00:00+00:00", "price": 87222.0, "mayer": 1.06, "fear_greed": {"value": 15, "classification": "Extreme Fear"}, "mvrv": 2.01}
+{"date": "2025-03-05T00:00:00+00:00", "price": 90624.0, "mayer": 1.1, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 2.09}
+{"date": "2025-03-06T00:00:00+00:00", "price": 89962.0, "mayer": 1.09, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 2.07}
+{"date": "2025-03-07T00:00:00+00:00", "price": 86743.0, "mayer": 1.04, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.99}
+{"date": "2025-03-08T00:00:00+00:00", "price": 86155.0, "mayer": 1.04, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.98}
+{"date": "2025-03-09T00:00:00+00:00", "price": 80601.0, "mayer": 0.97, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 1.86}
+{"date": "2025-03-10T00:00:00+00:00", "price": 78532.0, "mayer": 0.94, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.82}
+{"date": "2025-03-11T00:00:00+00:00", "price": 82862.0, "mayer": 0.99, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.9}
+{"date": "2025-03-12T00:00:00+00:00", "price": 83722.0, "mayer": 1.0, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.92}
+{"date": "2025-03-13T00:00:00+00:00", "price": 81067.0, "mayer": 0.97, "fear_greed": {"value": 45, "classification": "Fear"}, "mvrv": 1.86}
+{"date": "2025-03-14T00:00:00+00:00", "price": 83969.0, "mayer": 1.0, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 1.93}
+{"date": "2025-03-15T00:00:00+00:00", "price": 84343.0, "mayer": 1.01, "fear_greed": {"value": 46, "classification": "Fear"}, "mvrv": 1.94}
+{"date": "2025-03-16T00:00:00+00:00", "price": 82580.0, "mayer": 0.98, "fear_greed": {"value": 30, "classification": "Fear"}, "mvrv": 1.89}
+{"date": "2025-03-17T00:00:00+00:00", "price": 84076.0, "mayer": 1.0, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.93}
+{"date": "2025-03-18T00:00:00+00:00", "price": 82718.0, "mayer": 0.98, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.9}
+{"date": "2025-03-19T00:00:00+00:00", "price": 86854.0, "mayer": 1.03, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.99}
+{"date": "2025-03-20T00:00:00+00:00", "price": 84167.0, "mayer": 1.0, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.93}
+{"date": "2025-03-21T00:00:00+00:00", "price": 84043.0, "mayer": 0.99, "fear_greed": {"value": 31, "classification": "Fear"}, "mvrv": 1.93}
+{"date": "2025-03-22T00:00:00+00:00", "price": 83832.0, "mayer": 0.99, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.92}
+{"date": "2025-03-23T00:00:00+00:00", "price": 86054.0, "mayer": 1.01, "fear_greed": {"value": 30, "classification": "Fear"}, "mvrv": 1.97}
+{"date": "2025-03-24T00:00:00+00:00", "price": 87499.0, "mayer": 1.03, "fear_greed": {"value": 45, "classification": "Fear"}, "mvrv": 2.0}
+{"date": "2025-03-25T00:00:00+00:00", "price": 87472.0, "mayer": 1.03, "fear_greed": {"value": 46, "classification": "Fear"}, "mvrv": 2.0}
+{"date": "2025-03-26T00:00:00+00:00", "price": 86901.0, "mayer": 1.02, "fear_greed": {"value": 47, "classification": "Neutral"}, "mvrv": 1.99}
+{"date": "2025-03-27T00:00:00+00:00", "price": 87177.0, "mayer": 1.02, "fear_greed": {"value": 40, "classification": "Fear"}, "mvrv": 2.0}
+{"date": "2025-03-28T00:00:00+00:00", "price": 84353.0, "mayer": 0.98, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 1.93}
+{"date": "2025-03-29T00:00:00+00:00", "price": 82598.0, "mayer": 0.96, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.89}
+{"date": "2025-03-30T00:00:00+00:00", "price": 82335.0, "mayer": 0.96, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.88}
+{"date": "2025-03-31T00:00:00+00:00", "price": 82549.0, "mayer": 0.96, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.89}
+{"date": "2025-04-01T00:00:00+00:00", "price": 85169.0, "mayer": 0.99, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.95}
+{"date": "2025-04-02T00:00:00+00:00", "price": 82486.0, "mayer": 0.96, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 1.89}
+{"date": "2025-04-03T00:00:00+00:00", "price": 83103.0, "mayer": 0.96, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.89}
+{"date": "2025-04-04T00:00:00+00:00", "price": 83844.0, "mayer": 0.97, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.91}
+{"date": "2025-04-05T00:00:00+00:00", "price": 83505.0, "mayer": 0.96, "fear_greed": {"value": 30, "classification": "Fear"}, "mvrv": 1.9}
+{"date": "2025-04-06T00:00:00+00:00", "price": 78214.0, "mayer": 0.9, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.78}
+{"date": "2025-04-07T00:00:00+00:00", "price": 79235.0, "mayer": 0.91, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.81}
+{"date": "2025-04-08T00:00:00+00:00", "price": 76272.0, "mayer": 0.88, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.74}
+{"date": "2025-04-09T00:00:00+00:00", "price": 82574.0, "mayer": 0.95, "fear_greed": {"value": 18, "classification": "Extreme Fear"}, "mvrv": 1.89}
+{"date": "2025-04-10T00:00:00+00:00", "price": 79626.0, "mayer": 0.91, "fear_greed": {"value": 39, "classification": "Fear"}, "mvrv": 1.81}
+{"date": "2025-04-11T00:00:00+00:00", "price": 83405.0, "mayer": 0.96, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.9}
+{"date": "2025-04-12T00:00:00+00:00", "price": 85287.0, "mayer": 0.98, "fear_greed": {"value": 43, "classification": "Fear"}, "mvrv": 1.94}
+{"date": "2025-04-13T00:00:00+00:00", "price": 83685.0, "mayer": 0.96, "fear_greed": {"value": 45, "classification": "Fear"}, "mvrv": 1.9}
+{"date": "2025-04-14T00:00:00+00:00", "price": 84542.0, "mayer": 0.97, "fear_greed": {"value": 31, "classification": "Fear"}, "mvrv": 1.93}
+{"date": "2025-04-15T00:00:00+00:00", "price": 83669.0, "mayer": 0.96, "fear_greed": {"value": 38, "classification": "Fear"}, "mvrv": 1.91}
+{"date": "2025-04-16T00:00:00+00:00", "price": 84034.0, "mayer": 0.96, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.92}
+{"date": "2025-04-17T00:00:00+00:00", "price": 84896.0, "mayer": 0.97, "fear_greed": {"value": 30, "classification": "Fear"}, "mvrv": 1.94}
+{"date": "2025-04-18T00:00:00+00:00", "price": 84451.0, "mayer": 0.96, "fear_greed": {"value": 33, "classification": "Fear"}, "mvrv": 1.93}
+{"date": "2025-04-19T00:00:00+00:00", "price": 85063.0, "mayer": 0.97, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.94}
+{"date": "2025-04-20T00:00:00+00:00", "price": 85174.0, "mayer": 0.97, "fear_greed": {"value": 37, "classification": "Fear"}, "mvrv": 1.94}
+{"date": "2025-04-21T00:00:00+00:00", "price": 87519.0, "mayer": 0.99, "fear_greed": {"value": 39, "classification": "Fear"}, "mvrv": 1.99}
+{"date": "2025-04-22T00:00:00+00:00", "price": 93442.0, "mayer": 1.06, "fear_greed": {"value": 47, "classification": "Neutral"}, "mvrv": 2.13}
+{"date": "2025-04-23T00:00:00+00:00", "price": 93699.0, "mayer": 1.06, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.13}
+{"date": "2025-04-24T00:00:00+00:00", "price": 93944.0, "mayer": 1.06, "fear_greed": {"value": 63, "classification": "Greed"}, "mvrv": 2.13}
+{"date": "2025-04-25T00:00:00+00:00", "price": 94720.0, "mayer": 1.07, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.14}
+{"date": "2025-04-26T00:00:00+00:00", "price": 94647.0, "mayer": 1.06, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.14}
+{"date": "2025-04-27T00:00:00+00:00", "price": 93755.0, "mayer": 1.05, "fear_greed": {"value": 61, "classification": "Greed"}, "mvrv": 2.12}
+{"date": "2025-04-28T00:00:00+00:00", "price": 94979.0, "mayer": 1.06, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.14}
+{"date": "2025-04-29T00:00:00+00:00", "price": 94285.0, "mayer": 1.05, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.12}
+{"date": "2025-04-30T00:00:00+00:00", "price": 94207.0, "mayer": 1.05, "fear_greed": {"value": 56, "classification": "Greed"}, "mvrv": 2.12}
+{"date": "2025-05-01T00:00:00+00:00", "price": 96492.0, "mayer": 1.07, "fear_greed": {"value": 53, "classification": "Neutral"}, "mvrv": 2.16}
+{"date": "2025-05-02T00:00:00+00:00", "price": 96910.0, "mayer": 1.08, "fear_greed": {"value": 67, "classification": "Greed"}, "mvrv": 2.17}
+{"date": "2025-05-03T00:00:00+00:00", "price": 95892.0, "mayer": 1.06, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.15}
+{"date": "2025-05-04T00:00:00+00:00", "price": 94316.0, "mayer": 1.04, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.11}
+{"date": "2025-05-05T00:00:00+00:00", "price": 94748.0, "mayer": 1.05, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.12}
+{"date": "2025-05-06T00:00:00+00:00", "price": 96802.0, "mayer": 1.07, "fear_greed": {"value": 59, "classification": "Greed"}, "mvrv": 2.16}
+{"date": "2025-05-07T00:00:00+00:00", "price": 97032.0, "mayer": 1.07, "fear_greed": {"value": 67, "classification": "Greed"}, "mvrv": 2.16}
+{"date": "2025-05-08T00:00:00+00:00", "price": 103241.0, "mayer": 1.14, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.29}
+{"date": "2025-05-09T00:00:00+00:00", "price": 102971.0, "mayer": 1.13, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.28}
+{"date": "2025-05-10T00:00:00+00:00", "price": 104696.0, "mayer": 1.15, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.32}
+{"date": "2025-05-11T00:00:00+00:00", "price": 104106.0, "mayer": 1.14, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.3}
+{"date": "2025-05-12T00:00:00+00:00", "price": 102813.0, "mayer": 1.12, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.28}
+{"date": "2025-05-13T00:00:00+00:00", "price": 104170.0, "mayer": 1.14, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.3}
+{"date": "2025-05-14T00:00:00+00:00", "price": 103539.0, "mayer": 1.13, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.28}
+{"date": "2025-05-15T00:00:00+00:00", "price": 103745.0, "mayer": 1.13, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.28}
+{"date": "2025-05-16T00:00:00+00:00", "price": 103489.0, "mayer": 1.12, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.27}
+{"date": "2025-05-17T00:00:00+00:00", "price": 103191.0, "mayer": 1.12, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.26}
+{"date": "2025-05-18T00:00:00+00:00", "price": 106446.0, "mayer": 1.15, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.32}
+{"date": "2025-05-19T00:00:00+00:00", "price": 105606.0, "mayer": 1.14, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.31}
+{"date": "2025-05-20T00:00:00+00:00", "price": 106791.0, "mayer": 1.15, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.33}
+{"date": "2025-05-21T00:00:00+00:00", "price": 109678.0, "mayer": 1.18, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.39}
+{"date": "2025-05-22T00:00:00+00:00", "price": 111673.0, "mayer": 1.2, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.42}
+{"date": "2025-05-23T00:00:00+00:00", "price": 107288.0, "mayer": 1.15, "fear_greed": {"value": 78, "classification": "Extreme Greed"}, "mvrv": 2.33}
+{"date": "2025-05-24T00:00:00+00:00", "price": 107791.0, "mayer": 1.15, "fear_greed": {"value": 66, "classification": "Greed"}, "mvrv": 2.34}
+{"date": "2025-05-25T00:00:00+00:00", "price": 109035.0, "mayer": 1.16, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.36}
+{"date": "2025-05-26T00:00:00+00:00", "price": 109440.0, "mayer": 1.16, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.36}
+{"date": "2025-05-27T00:00:00+00:00", "price": 108995.0, "mayer": 1.16, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.35}
+{"date": "2025-05-28T00:00:00+00:00", "price": 107802.0, "mayer": 1.14, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.32}
+{"date": "2025-05-29T00:00:00+00:00", "price": 105642.0, "mayer": 1.12, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.27}
+{"date": "2025-05-30T00:00:00+00:00", "price": 103999.0, "mayer": 1.1, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.23}
+{"date": "2025-05-31T00:00:00+00:00", "price": 104638.0, "mayer": 1.1, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.25}
+{"date": "2025-06-01T00:00:00+00:00", "price": 105652.0, "mayer": 1.11, "fear_greed": {"value": 56, "classification": "Greed"}, "mvrv": 2.27}
+{"date": "2025-06-02T00:00:00+00:00", "price": 105882.0, "mayer": 1.12, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.26}
+{"date": "2025-06-03T00:00:00+00:00", "price": 105432.0, "mayer": 1.11, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.25}
+{"date": "2025-06-04T00:00:00+00:00", "price": 104732.0, "mayer": 1.1, "fear_greed": {"value": 62, "classification": "Greed"}, "mvrv": 2.23}
+{"date": "2025-06-05T00:00:00+00:00", "price": 101576.0, "mayer": 1.07, "fear_greed": {"value": 57, "classification": "Greed"}, "mvrv": 2.16}
+{"date": "2025-06-06T00:00:00+00:00", "price": 104390.0, "mayer": 1.1, "fear_greed": {"value": 45, "classification": "Fear"}, "mvrv": 2.22}
+{"date": "2025-06-07T00:00:00+00:00", "price": 105616.0, "mayer": 1.11, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.25}
+{"date": "2025-06-08T00:00:00+00:00", "price": 105794.0, "mayer": 1.11, "fear_greed": {"value": 62, "classification": "Greed"}, "mvrv": 2.25}
+{"date": "2025-06-09T00:00:00+00:00", "price": 110294.0, "mayer": 1.16, "fear_greed": {"value": 62, "classification": "Greed"}, "mvrv": 2.34}
+{"date": "2025-06-10T00:00:00+00:00", "price": 110257.0, "mayer": 1.16, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.33}
+{"date": "2025-06-11T00:00:00+00:00", "price": 108687.0, "mayer": 1.14, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.3}
+{"date": "2025-06-12T00:00:00+00:00", "price": 105929.0, "mayer": 1.11, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.24}
+{"date": "2025-06-13T00:00:00+00:00", "price": 106091.0, "mayer": 1.11, "fear_greed": {"value": 61, "classification": "Greed"}, "mvrv": 2.24}
+{"date": "2025-06-14T00:00:00+00:00", "price": 105472.0, "mayer": 1.1, "fear_greed": {"value": 63, "classification": "Greed"}, "mvrv": 2.23}
+{"date": "2025-06-15T00:00:00+00:00", "price": 105552.0, "mayer": 1.1, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.23}
+{"date": "2025-06-16T00:00:00+00:00", "price": 106797.0, "mayer": 1.12, "fear_greed": {"value": 61, "classification": "Greed"}, "mvrv": 2.26}
+{"date": "2025-06-17T00:00:00+00:00", "price": 104601.0, "mayer": 1.09, "fear_greed": {"value": 68, "classification": "Greed"}, "mvrv": 2.2}
+{"date": "2025-06-18T00:00:00+00:00", "price": 104883.0, "mayer": 1.09, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.21}
+{"date": "2025-06-19T00:00:00+00:00", "price": 104684.0, "mayer": 1.09, "fear_greed": {"value": 57, "classification": "Greed"}, "mvrv": 2.2}
+{"date": "2025-06-20T00:00:00+00:00", "price": 103310.0, "mayer": 1.08, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.17}
+{"date": "2025-06-21T00:00:00+00:00", "price": 102257.0, "mayer": 1.07, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.13}
+{"date": "2025-06-22T00:00:00+00:00", "price": 100987.0, "mayer": 1.05, "fear_greed": {"value": 42, "classification": "Fear"}, "mvrv": 2.12}
+{"date": "2025-06-23T00:00:00+00:00", "price": 105578.0, "mayer": 1.1, "fear_greed": {"value": 47, "classification": "Neutral"}, "mvrv": 2.21}
+{"date": "2025-06-24T00:00:00+00:00", "price": 106046.0, "mayer": 1.1, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.22}
+{"date": "2025-06-25T00:00:00+00:00", "price": 107361.0, "mayer": 1.12, "fear_greed": {"value": 66, "classification": "Greed"}, "mvrv": 2.25}
+{"date": "2025-06-26T00:00:00+00:00", "price": 106960.0, "mayer": 1.11, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.23}
+{"date": "2025-06-27T00:00:00+00:00", "price": 107088.0, "mayer": 1.11, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.23}
+{"date": "2025-06-28T00:00:00+00:00", "price": 107328.0, "mayer": 1.12, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.24}
+{"date": "2025-06-29T00:00:00+00:00", "price": 108386.0, "mayer": 1.13, "fear_greed": {"value": 68, "classification": "Greed"}, "mvrv": 2.26}
+{"date": "2025-06-30T00:00:00+00:00", "price": 107135.0, "mayer": 1.11, "fear_greed": {"value": 66, "classification": "Greed"}, "mvrv": 2.22}
+{"date": "2025-07-01T00:00:00+00:00", "price": 105698.0, "mayer": 1.1, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.19}
+{"date": "2025-07-02T00:00:00+00:00", "price": 108859.0, "mayer": 1.13, "fear_greed": {"value": 63, "classification": "Greed"}, "mvrv": 2.26}
+{"date": "2025-07-03T00:00:00+00:00", "price": 109648.0, "mayer": 1.14, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.27}
+{"date": "2025-07-04T00:00:00+00:00", "price": 108034.0, "mayer": 1.12, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.22}
+{"date": "2025-07-05T00:00:00+00:00", "price": 108231.0, "mayer": 1.12, "fear_greed": {"value": 67, "classification": "Greed"}, "mvrv": 2.22}
+{"date": "2025-07-06T00:00:00+00:00", "price": 109232.0, "mayer": 1.13, "fear_greed": {"value": 66, "classification": "Greed"}, "mvrv": 2.24}
+{"date": "2025-07-07T00:00:00+00:00", "price": 108300.0, "mayer": 1.12, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.21}
+{"date": "2025-07-08T00:00:00+00:00", "price": 108950.0, "mayer": 1.13, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.22}
+{"date": "2025-07-09T00:00:00+00:00", "price": 111327.0, "mayer": 1.15, "fear_greed": {"value": 66, "classification": "Greed"}, "mvrv": 2.27}
+{"date": "2025-07-10T00:00:00+00:00", "price": 115987.0, "mayer": 1.2, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.35}
+{"date": "2025-07-11T00:00:00+00:00", "price": 117517.0, "mayer": 1.21, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.38}
+{"date": "2025-07-12T00:00:00+00:00", "price": 117435.0, "mayer": 1.21, "fear_greed": {"value": 79, "classification": "Extreme Greed"}, "mvrv": 2.37}
+{"date": "2025-07-13T00:00:00+00:00", "price": 119116.0, "mayer": 1.23, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.4}
+{"date": "2025-07-14T00:00:00+00:00", "price": 119850.0, "mayer": 1.23, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.41}
+{"date": "2025-07-15T00:00:00+00:00", "price": 117777.0, "mayer": 1.21, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.36}
+{"date": "2025-07-16T00:00:00+00:00", "price": 118739.0, "mayer": 1.22, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.37}
+{"date": "2025-07-17T00:00:00+00:00", "price": 119290.0, "mayer": 1.22, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.37}
+{"date": "2025-07-18T00:00:00+00:00", "price": 118003.0, "mayer": 1.21, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.34}
+{"date": "2025-07-19T00:00:00+00:00", "price": 117940.0, "mayer": 1.21, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.34}
+{"date": "2025-07-20T00:00:00+00:00", "price": 117301.0, "mayer": 1.2, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.32}
+{"date": "2025-07-21T00:00:00+00:00", "price": 117440.0, "mayer": 1.2, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.32}
+{"date": "2025-07-22T00:00:00+00:00", "price": 119995.0, "mayer": 1.22, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.37}
+{"date": "2025-07-23T00:00:00+00:00", "price": 118755.0, "mayer": 1.21, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.33}
+{"date": "2025-07-24T00:00:00+00:00", "price": 118368.0, "mayer": 1.2, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.33}
+{"date": "2025-07-25T00:00:00+00:00", "price": 117636.0, "mayer": 1.2, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.3}
+{"date": "2025-07-26T00:00:00+00:00", "price": 117947.0, "mayer": 1.2, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.31}
+{"date": "2025-07-27T00:00:00+00:00", "price": 119448.0, "mayer": 1.21, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.34}
+{"date": "2025-07-28T00:00:00+00:00", "price": 117924.0, "mayer": 1.19, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.31}
+{"date": "2025-07-29T00:00:00+00:00", "price": 117922.0, "mayer": 1.19, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.3}
+{"date": "2025-07-30T00:00:00+00:00", "price": 117831.0, "mayer": 1.19, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.3}
+{"date": "2025-07-31T00:00:00+00:00", "price": 115758.0, "mayer": 1.17, "fear_greed": {"value": 72, "classification": "Greed"}, "mvrv": 2.26}
+{"date": "2025-08-01T00:00:00+00:00", "price": 113320.0, "mayer": 1.14, "fear_greed": {"value": 65, "classification": "Greed"}, "mvrv": 2.21}
+{"date": "2025-08-02T00:00:00+00:00", "price": 112527.0, "mayer": 1.13, "fear_greed": {"value": 55, "classification": "Greed"}, "mvrv": 2.19}
+{"date": "2025-08-03T00:00:00+00:00", "price": 114218.0, "mayer": 1.15, "fear_greed": {"value": 53, "classification": "Neutral"}, "mvrv": 2.22}
+{"date": "2025-08-04T00:00:00+00:00", "price": 115072.0, "mayer": 1.16, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.24}
+{"date": "2025-08-05T00:00:00+00:00", "price": 114141.0, "mayer": 1.15, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.22}
+{"date": "2025-08-06T00:00:00+00:00", "price": 115028.0, "mayer": 1.16, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.23}
+{"date": "2025-08-07T00:00:00+00:00", "price": 117497.0, "mayer": 1.18, "fear_greed": {"value": 62, "classification": "Greed"}, "mvrv": 2.28}
+{"date": "2025-08-08T00:00:00+00:00", "price": 116689.0, "mayer": 1.17, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.26}
+{"date": "2025-08-09T00:00:00+00:00", "price": 116500.0, "mayer": 1.17, "fear_greed": {"value": 67, "classification": "Greed"}, "mvrv": 2.26}
+{"date": "2025-08-10T00:00:00+00:00", "price": 119307.0, "mayer": 1.2, "fear_greed": {"value": 69, "classification": "Greed"}, "mvrv": 2.31}
+{"date": "2025-08-11T00:00:00+00:00", "price": 118731.0, "mayer": 1.19, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.3}
+{"date": "2025-08-12T00:00:00+00:00", "price": 120173.0, "mayer": 1.2, "fear_greed": {"value": 68, "classification": "Greed"}, "mvrv": 2.32}
+{"date": "2025-08-13T00:00:00+00:00", "price": 123344.0, "mayer": 1.23, "fear_greed": {"value": 73, "classification": "Greed"}, "mvrv": 2.38}
+{"date": "2025-08-14T00:00:00+00:00", "price": 118360.0, "mayer": 1.18, "fear_greed": {"value": 75, "classification": "Greed"}, "mvrv": 2.28}
+{"date": "2025-08-15T00:00:00+00:00", "price": 117398.0, "mayer": 1.17, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.26}
+{"date": "2025-08-16T00:00:00+00:00", "price": 117491.0, "mayer": 1.17, "fear_greed": {"value": 56, "classification": "Greed"}, "mvrv": 2.25}
+{"date": "2025-08-17T00:00:00+00:00", "price": 117453.0, "mayer": 1.17, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.26}
+{"date": "2025-08-18T00:00:00+00:00", "price": 116252.0, "mayer": 1.16, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.23}
+{"date": "2025-08-19T00:00:00+00:00", "price": 112831.0, "mayer": 1.12, "fear_greed": {"value": 56, "classification": "Greed"}, "mvrv": 2.16}
+{"date": "2025-08-20T00:00:00+00:00", "price": 114275.0, "mayer": 1.14, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.19}
+{"date": "2025-08-21T00:00:00+00:00", "price": 112419.0, "mayer": 1.12, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.15}
+{"date": "2025-08-22T00:00:00+00:00", "price": 116874.0, "mayer": 1.16, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.23}
+{"date": "2025-08-23T00:00:00+00:00", "price": 115374.0, "mayer": 1.15, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.2}
+{"date": "2025-08-24T00:00:00+00:00", "price": 113458.0, "mayer": 1.13, "fear_greed": {"value": 53, "classification": "Neutral"}, "mvrv": 2.17}
+{"date": "2025-08-25T00:00:00+00:00", "price": 110124.0, "mayer": 1.09, "fear_greed": {"value": 47, "classification": "Neutral"}, "mvrv": 2.1}
+{"date": "2025-08-26T00:00:00+00:00", "price": 111803.0, "mayer": 1.11, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.13}
+{"date": "2025-08-27T00:00:00+00:00", "price": 111222.0, "mayer": 1.1, "fear_greed": {"value": 51, "classification": "Neutral"}, "mvrv": 2.12}
+{"date": "2025-08-28T00:00:00+00:00", "price": 112545.0, "mayer": 1.11, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.14}
+{"date": "2025-08-29T00:00:00+00:00", "price": 108411.0, "mayer": 1.07, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.06}
+{"date": "2025-08-30T00:00:00+00:00", "price": 108808.0, "mayer": 1.08, "fear_greed": {"value": 39, "classification": "Fear"}, "mvrv": 2.06}
+{"date": "2025-08-31T00:00:00+00:00", "price": 108237.0, "mayer": 1.07, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.05}
+{"date": "2025-09-01T00:00:00+00:00", "price": 109251.0, "mayer": 1.08, "fear_greed": {"value": 46, "classification": "Fear"}, "mvrv": 2.07}
+{"date": "2025-09-02T00:00:00+00:00", "price": 111201.0, "mayer": 1.1, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.11}
+{"date": "2025-09-03T00:00:00+00:00", "price": 111723.0, "mayer": 1.1, "fear_greed": {"value": 55, "classification": "Greed"}, "mvrv": 2.12}
+{"date": "2025-09-04T00:00:00+00:00", "price": 110724.0, "mayer": 1.09, "fear_greed": {"value": 51, "classification": "Neutral"}, "mvrv": 2.1}
+{"date": "2025-09-05T00:00:00+00:00", "price": 110651.0, "mayer": 1.09, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.09}
+{"date": "2025-09-06T00:00:00+00:00", "price": 110225.0, "mayer": 1.08, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.08}
+{"date": "2025-09-07T00:00:00+00:00", "price": 111168.0, "mayer": 1.09, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.1}
+{"date": "2025-09-08T00:00:00+00:00", "price": 112071.0, "mayer": 1.1, "fear_greed": {"value": 51, "classification": "Neutral"}, "mvrv": 2.11}
+{"date": "2025-09-09T00:00:00+00:00", "price": 111531.0, "mayer": 1.09, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.1}
+{"date": "2025-09-10T00:00:00+00:00", "price": 113955.0, "mayer": 1.12, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.15}
+{"date": "2025-09-11T00:00:00+00:00", "price": 115508.0, "mayer": 1.13, "fear_greed": {"value": 54, "classification": "Neutral"}, "mvrv": 2.17}
+{"date": "2025-09-12T00:00:00+00:00", "price": 116102.0, "mayer": 1.14, "fear_greed": {"value": 57, "classification": "Greed"}, "mvrv": 2.18}
+{"date": "2025-09-13T00:00:00+00:00", "price": 115951.0, "mayer": 1.13, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.18}
+{"date": "2025-09-14T00:00:00+00:00", "price": 115408.0, "mayer": 1.13, "fear_greed": {"value": 55, "classification": "Greed"}, "mvrv": 2.17}
+{"date": "2025-09-15T00:00:00+00:00", "price": 115445.0, "mayer": 1.12, "fear_greed": {"value": 53, "classification": "Neutral"}, "mvrv": 2.17}
+{"date": "2025-09-16T00:00:00+00:00", "price": 116843.0, "mayer": 1.14, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.19}
+{"date": "2025-09-17T00:00:00+00:00", "price": 116469.0, "mayer": 1.13, "fear_greed": {"value": 53, "classification": "Neutral"}, "mvrv": 2.18}
+{"date": "2025-09-18T00:00:00+00:00", "price": 117137.0, "mayer": 1.14, "fear_greed": {"value": 52, "classification": "Neutral"}, "mvrv": 2.19}
+{"date": "2025-09-19T00:00:00+00:00", "price": 115689.0, "mayer": 1.12, "fear_greed": {"value": 53, "classification": "Neutral"}, "mvrv": 2.16}
+{"date": "2025-09-20T00:00:00+00:00", "price": 115722.0, "mayer": 1.12, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 2.16}
+{"date": "2025-09-21T00:00:00+00:00", "price": 115306.0, "mayer": 1.11, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.15}
+{"date": "2025-09-22T00:00:00+00:00", "price": 112749.0, "mayer": 1.09, "fear_greed": {"value": 45, "classification": "Fear"}, "mvrv": 2.1}
+{"date": "2025-09-23T00:00:00+00:00", "price": 112014.0, "mayer": 1.08, "fear_greed": {"value": 43, "classification": "Fear"}, "mvrv": 2.09}
+{"date": "2025-09-24T00:00:00+00:00", "price": 113329.0, "mayer": 1.09, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.11}
+{"date": "2025-09-25T00:00:00+00:00", "price": 109049.0, "mayer": 1.05, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 2.03}
+{"date": "2025-09-26T00:00:00+00:00", "price": 109713.0, "mayer": 1.05, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 2.04}
+{"date": "2025-09-27T00:00:00+00:00", "price": 109682.0, "mayer": 1.05, "fear_greed": {"value": 33, "classification": "Fear"}, "mvrv": 2.04}
+{"date": "2025-09-28T00:00:00+00:00", "price": 112123.0, "mayer": 1.07, "fear_greed": {"value": 37, "classification": "Fear"}, "mvrv": 2.08}
+{"date": "2025-09-29T00:00:00+00:00", "price": 114400.0, "mayer": 1.09, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.12}
+{"date": "2025-09-30T00:00:00+00:00", "price": 114056.0, "mayer": 1.09, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.11}
+{"date": "2025-10-01T00:00:00+00:00", "price": 118649.0, "mayer": 1.13, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 2.19}
+{"date": "2025-10-02T00:00:00+00:00", "price": 120681.0, "mayer": 1.15, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.22}
+{"date": "2025-10-03T00:00:00+00:00", "price": 122267.0, "mayer": 1.16, "fear_greed": {"value": 63, "classification": "Greed"}, "mvrv": 2.25}
+{"date": "2025-10-04T00:00:00+00:00", "price": 122425.0, "mayer": 1.16, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.25}
+{"date": "2025-10-05T00:00:00+00:00", "price": 123513.0, "mayer": 1.17, "fear_greed": {"value": 74, "classification": "Greed"}, "mvrv": 2.27}
+{"date": "2025-10-06T00:00:00+00:00", "price": 124753.0, "mayer": 1.18, "fear_greed": {"value": 71, "classification": "Greed"}, "mvrv": 2.29}
+{"date": "2025-10-07T00:00:00+00:00", "price": 121451.0, "mayer": 1.14, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.22}
+{"date": "2025-10-08T00:00:00+00:00", "price": 123355.0, "mayer": 1.16, "fear_greed": {"value": 60, "classification": "Greed"}, "mvrv": 2.25}
+{"date": "2025-10-09T00:00:00+00:00", "price": 121706.0, "mayer": 1.14, "fear_greed": {"value": 70, "classification": "Greed"}, "mvrv": 2.21}
+{"date": "2025-10-10T00:00:00+00:00", "price": 113214.0, "mayer": 1.06, "fear_greed": {"value": 64, "classification": "Greed"}, "mvrv": 2.07}
+{"date": "2025-10-11T00:00:00+00:00", "price": 110808.0, "mayer": 1.04, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 2.02}
+{"date": "2025-10-12T00:00:00+00:00", "price": 115170.0, "mayer": 1.08, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 2.1}
+{"date": "2025-10-13T00:00:00+00:00", "price": 115271.0, "mayer": 1.08, "fear_greed": {"value": 38, "classification": "Fear"}, "mvrv": 2.1}
+{"date": "2025-10-14T00:00:00+00:00", "price": 113119.0, "mayer": 1.06, "fear_greed": {"value": 38, "classification": "Fear"}, "mvrv": 2.06}
+{"date": "2025-10-15T00:00:00+00:00", "price": 110783.0, "mayer": 1.03, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 2.01}
+{"date": "2025-10-16T00:00:00+00:00", "price": 108186.0, "mayer": 1.01, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.96}
+{"date": "2025-10-17T00:00:00+00:00", "price": 106468.0, "mayer": 0.99, "fear_greed": {"value": 22, "classification": "Extreme Fear"}, "mvrv": 1.93}
+{"date": "2025-10-18T00:00:00+00:00", "price": 107198.0, "mayer": 1.0, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.94}
+{"date": "2025-10-19T00:00:00+00:00", "price": 108667.0, "mayer": 1.01, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.97}
+{"date": "2025-10-20T00:00:00+00:00", "price": 110589.0, "mayer": 1.02, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 2.0}
+{"date": "2025-10-21T00:00:00+00:00", "price": 108477.0, "mayer": 1.0, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.96}
+{"date": "2025-10-22T00:00:00+00:00", "price": 107689.0, "mayer": 1.0, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.94}
+{"date": "2025-10-23T00:00:00+00:00", "price": 110070.0, "mayer": 1.02, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 1.98}
+{"date": "2025-10-24T00:00:00+00:00", "price": 111034.0, "mayer": 1.02, "fear_greed": {"value": 30, "classification": "Fear"}, "mvrv": 2.0}
+{"date": "2025-10-25T00:00:00+00:00", "price": 111642.0, "mayer": 1.03, "fear_greed": {"value": 37, "classification": "Fear"}, "mvrv": 2.01}
+{"date": "2025-10-26T00:00:00+00:00", "price": 114472.0, "mayer": 1.05, "fear_greed": {"value": 40, "classification": "Fear"}, "mvrv": 2.06}
+{"date": "2025-10-27T00:00:00+00:00", "price": 114119.0, "mayer": 1.05, "fear_greed": {"value": 51, "classification": "Neutral"}, "mvrv": 2.05}
+{"date": "2025-10-28T00:00:00+00:00", "price": 112956.0, "mayer": 1.04, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 2.03}
+{"date": "2025-10-29T00:00:00+00:00", "price": 110055.0, "mayer": 1.01, "fear_greed": {"value": 51, "classification": "Neutral"}, "mvrv": 1.97}
+{"date": "2025-10-30T00:00:00+00:00", "price": 108306.0, "mayer": 0.99, "fear_greed": {"value": 34, "classification": "Fear"}, "mvrv": 1.93}
+{"date": "2025-10-31T00:00:00+00:00", "price": 109556.0, "mayer": 1.0, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.96}
+{"date": "2025-11-01T00:00:00+00:00", "price": 110064.0, "mayer": 1.0, "fear_greed": {"value": 33, "classification": "Fear"}, "mvrv": 1.97}
+{"date": "2025-11-02T00:00:00+00:00", "price": 110640.0, "mayer": 1.01, "fear_greed": {"value": 37, "classification": "Fear"}, "mvrv": 1.97}
+{"date": "2025-11-03T00:00:00+00:00", "price": 106548.0, "mayer": 0.97, "fear_greed": {"value": 42, "classification": "Fear"}, "mvrv": 1.9}
+{"date": "2025-11-04T00:00:00+00:00", "price": 101591.0, "mayer": 0.92, "fear_greed": {"value": 21, "classification": "Extreme Fear"}, "mvrv": 1.81}
+{"date": "2025-11-05T00:00:00+00:00", "price": 103892.0, "mayer": 0.94, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.86}
+{"date": "2025-11-06T00:00:00+00:00", "price": 101301.0, "mayer": 0.92, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 1.81}
+{"date": "2025-11-07T00:00:00+00:00", "price": 103372.0, "mayer": 0.94, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.84}
+{"date": "2025-11-08T00:00:00+00:00", "price": 102282.0, "mayer": 0.93, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.82}
+{"date": "2025-11-09T00:00:00+00:00", "price": 104720.0, "mayer": 0.95, "fear_greed": {"value": 22, "classification": "Extreme Fear"}, "mvrv": 1.86}
+{"date": "2025-11-10T00:00:00+00:00", "price": 105997.0, "mayer": 0.96, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.89}
+{"date": "2025-11-11T00:00:00+00:00", "price": 102997.0, "mayer": 0.93, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.83}
+{"date": "2025-11-12T00:00:00+00:00", "price": 101663.0, "mayer": 0.92, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.81}
+{"date": "2025-11-13T00:00:00+00:00", "price": 99697.0, "mayer": 0.9, "fear_greed": {"value": 15, "classification": "Extreme Fear"}, "mvrv": 1.78}
+{"date": "2025-11-14T00:00:00+00:00", "price": 94398.0, "mayer": 0.85, "fear_greed": {"value": 16, "classification": "Extreme Fear"}, "mvrv": 1.68}
+{"date": "2025-11-15T00:00:00+00:00", "price": 95549.0, "mayer": 0.86, "fear_greed": {"value": 10, "classification": "Extreme Fear"}, "mvrv": 1.7}
+{"date": "2025-11-16T00:00:00+00:00", "price": 94177.0, "mayer": 0.85, "fear_greed": {"value": 10, "classification": "Extreme Fear"}, "mvrv": 1.68}
+{"date": "2025-11-17T00:00:00+00:00", "price": 92094.0, "mayer": 0.83, "fear_greed": {"value": 14, "classification": "Extreme Fear"}, "mvrv": 1.64}
+{"date": "2025-11-18T00:00:00+00:00", "price": 92949.0, "mayer": 0.84, "fear_greed": {"value": 11, "classification": "Extreme Fear"}, "mvrv": 1.65}
+{"date": "2025-11-19T00:00:00+00:00", "price": 91466.0, "mayer": 0.83, "fear_greed": {"value": 15, "classification": "Extreme Fear"}, "mvrv": 1.63}
+{"date": "2025-11-20T00:00:00+00:00", "price": 86632.0, "mayer": 0.78, "fear_greed": {"value": 11, "classification": "Extreme Fear"}, "mvrv": 1.55}
+{"date": "2025-11-21T00:00:00+00:00", "price": 85091.0, "mayer": 0.77, "fear_greed": {"value": 14, "classification": "Extreme Fear"}, "mvrv": 1.52}
+{"date": "2025-11-22T00:00:00+00:00", "price": 84648.0, "mayer": 0.77, "fear_greed": {"value": 11, "classification": "Extreme Fear"}, "mvrv": 1.51}
+{"date": "2025-11-23T00:00:00+00:00", "price": 86805.0, "mayer": 0.79, "fear_greed": {"value": 13, "classification": "Extreme Fear"}, "mvrv": 1.54}
+{"date": "2025-11-24T00:00:00+00:00", "price": 88271.0, "mayer": 0.8, "fear_greed": {"value": 19, "classification": "Extreme Fear"}, "mvrv": 1.57}
+{"date": "2025-11-25T00:00:00+00:00", "price": 87342.0, "mayer": 0.79, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.55}
+{"date": "2025-11-26T00:00:00+00:00", "price": 90518.0, "mayer": 0.82, "fear_greed": {"value": 15, "classification": "Extreme Fear"}, "mvrv": 1.6}
+{"date": "2025-11-27T00:00:00+00:00", "price": 91285.0, "mayer": 0.83, "fear_greed": {"value": 22, "classification": "Extreme Fear"}, "mvrv": 1.62}
+{"date": "2025-11-28T00:00:00+00:00", "price": 90919.0, "mayer": 0.83, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.61}
+{"date": "2025-11-29T00:00:00+00:00", "price": 90852.0, "mayer": 0.83, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.61}
+{"date": "2025-11-30T00:00:00+00:00", "price": 90394.0, "mayer": 0.82, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.61}
+{"date": "2025-12-01T00:00:00+00:00", "price": 86322.0, "mayer": 0.79, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.53}
+{"date": "2025-12-02T00:00:00+00:00", "price": 91350.0, "mayer": 0.83, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.62}
+{"date": "2025-12-03T00:00:00+00:00", "price": 93528.0, "mayer": 0.85, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.66}
+{"date": "2025-12-04T00:00:00+00:00", "price": 92142.0, "mayer": 0.84, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.63}
+{"date": "2025-12-05T00:00:00+00:00", "price": 89388.0, "mayer": 0.82, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.58}
+{"date": "2025-12-06T00:00:00+00:00", "price": 89272.0, "mayer": 0.82, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.58}
+{"date": "2025-12-07T00:00:00+00:00", "price": 90406.0, "mayer": 0.83, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.6}
+{"date": "2025-12-08T00:00:00+00:00", "price": 90640.0, "mayer": 0.83, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.61}
+{"date": "2025-12-09T00:00:00+00:00", "price": 92692.0, "mayer": 0.85, "fear_greed": {"value": 22, "classification": "Extreme Fear"}, "mvrv": 1.65}
+{"date": "2025-12-10T00:00:00+00:00", "price": 92021.0, "mayer": 0.84, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.63}
+{"date": "2025-12-11T00:00:00+00:00", "price": 92511.0, "mayer": 0.85, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.64}
+{"date": "2025-12-12T00:00:00+00:00", "price": 90270.0, "mayer": 0.83, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.6}
+{"date": "2025-12-13T00:00:00+00:00", "price": 90299.0, "mayer": 0.83, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.6}
+{"date": "2025-12-14T00:00:00+00:00", "price": 88175.0, "mayer": 0.81, "fear_greed": {"value": 21, "classification": "Extreme Fear"}, "mvrv": 1.56}
+{"date": "2025-12-15T00:00:00+00:00", "price": 86420.0, "mayer": 0.8, "fear_greed": {"value": 16, "classification": "Extreme Fear"}, "mvrv": 1.53}
+{"date": "2025-12-16T00:00:00+00:00", "price": 87844.0, "mayer": 0.81, "fear_greed": {"value": 11, "classification": "Extreme Fear"}, "mvrv": 1.56}
+{"date": "2025-12-17T00:00:00+00:00", "price": 86144.0, "mayer": 0.8, "fear_greed": {"value": 16, "classification": "Extreme Fear"}, "mvrv": 1.53}
+{"date": "2025-12-18T00:00:00+00:00", "price": 85463.0, "mayer": 0.79, "fear_greed": {"value": 17, "classification": "Extreme Fear"}, "mvrv": 1.52}
+{"date": "2025-12-19T00:00:00+00:00", "price": 88103.0, "mayer": 0.81, "fear_greed": {"value": 16, "classification": "Extreme Fear"}, "mvrv": 1.57}
+{"date": "2025-12-20T00:00:00+00:00", "price": 88344.0, "mayer": 0.82, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.57}
+{"date": "2025-12-21T00:00:00+00:00", "price": 88622.0, "mayer": 0.82, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.57}
+{"date": "2025-12-22T00:00:00+00:00", "price": 88490.0, "mayer": 0.82, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.57}
+{"date": "2025-12-23T00:00:00+00:00", "price": 87414.0, "mayer": 0.81, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.55}
+{"date": "2025-12-24T00:00:00+00:00", "price": 87612.0, "mayer": 0.81, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.56}
+{"date": "2025-12-25T00:00:00+00:00", "price": 87235.0, "mayer": 0.81, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.55}
+{"date": "2025-12-26T00:00:00+00:00", "price": 87301.0, "mayer": 0.81, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.55}
+{"date": "2025-12-27T00:00:00+00:00", "price": 87802.0, "mayer": 0.82, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.56}
+{"date": "2025-12-28T00:00:00+00:00", "price": 87836.0, "mayer": 0.82, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.56}
+{"date": "2025-12-29T00:00:00+00:00", "price": 87138.0, "mayer": 0.81, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.55}
+{"date": "2025-12-30T00:00:00+00:00", "price": 88430.0, "mayer": 0.83, "fear_greed": {"value": 23, "classification": "Extreme Fear"}, "mvrv": 1.58}
+{"date": "2025-12-31T00:00:00+00:00", "price": 87509.0, "mayer": 0.82, "fear_greed": {"value": 21, "classification": "Extreme Fear"}, "mvrv": 1.56}
+{"date": "2026-01-01T00:00:00+00:00", "price": 88732.0, "mayer": 0.83, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.58}
+{"date": "2026-01-02T00:00:00+00:00", "price": 89945.0, "mayer": 0.84, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.6}
+{"date": "2026-01-03T00:00:00+00:00", "price": 90603.0, "mayer": 0.85, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.61}
+{"date": "2026-01-04T00:00:00+00:00", "price": 91413.0, "mayer": 0.86, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.63}
+{"date": "2026-01-05T00:00:00+00:00", "price": 93883.0, "mayer": 0.88, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.67}
+{"date": "2026-01-06T00:00:00+00:00", "price": 93729.0, "mayer": 0.88, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 1.67}
+{"date": "2026-01-07T00:00:00+00:00", "price": 91308.0, "mayer": 0.86, "fear_greed": {"value": 42, "classification": "Fear"}, "mvrv": 1.62}
+{"date": "2026-01-08T00:00:00+00:00", "price": 91027.0, "mayer": 0.85, "fear_greed": {"value": 28, "classification": "Fear"}, "mvrv": 1.62}
+{"date": "2026-01-09T00:00:00+00:00", "price": 90513.0, "mayer": 0.85, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 1.61}
+{"date": "2026-01-10T00:00:00+00:00", "price": 90387.0, "mayer": 0.85, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.61}
+{"date": "2026-01-11T00:00:00+00:00", "price": 90827.0, "mayer": 0.85, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.62}
+{"date": "2026-01-12T00:00:00+00:00", "price": 91193.0, "mayer": 0.86, "fear_greed": {"value": 27, "classification": "Fear"}, "mvrv": 1.62}
+{"date": "2026-01-13T00:00:00+00:00", "price": 95322.0, "mayer": 0.9, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.7}
+{"date": "2026-01-14T00:00:00+00:00", "price": 96929.0, "mayer": 0.91, "fear_greed": {"value": 48, "classification": "Neutral"}, "mvrv": 1.73}
+{"date": "2026-01-15T00:00:00+00:00", "price": 95551.0, "mayer": 0.9, "fear_greed": {"value": 61, "classification": "Greed"}, "mvrv": 1.7}
+{"date": "2026-01-16T00:00:00+00:00", "price": 95525.0, "mayer": 0.9, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.7}
+{"date": "2026-01-17T00:00:00+00:00", "price": 95100.0, "mayer": 0.9, "fear_greed": {"value": 50, "classification": "Neutral"}, "mvrv": 1.69}
+{"date": "2026-01-18T00:00:00+00:00", "price": 93634.0, "mayer": 0.88, "fear_greed": {"value": 49, "classification": "Neutral"}, "mvrv": 1.67}
+{"date": "2026-01-19T00:00:00+00:00", "price": 92554.0, "mayer": 0.88, "fear_greed": {"value": 44, "classification": "Fear"}, "mvrv": 1.64}
+{"date": "2026-01-20T00:00:00+00:00", "price": 88311.0, "mayer": 0.84, "fear_greed": {"value": 32, "classification": "Fear"}, "mvrv": 1.57}
+{"date": "2026-01-21T00:00:00+00:00", "price": 89377.0, "mayer": 0.85, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.59}
+{"date": "2026-01-22T00:00:00+00:00", "price": 89462.0, "mayer": 0.85, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.59}
+{"date": "2026-01-23T00:00:00+00:00", "price": 89504.0, "mayer": 0.85, "fear_greed": {"value": 24, "classification": "Extreme Fear"}, "mvrv": 1.6}
+{"date": "2026-01-24T00:00:00+00:00", "price": 89111.0, "mayer": 0.85, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.59}
+{"date": "2026-01-25T00:00:00+00:00", "price": 86572.0, "mayer": 0.82, "fear_greed": {"value": 25, "classification": "Extreme Fear"}, "mvrv": 1.54}
+{"date": "2026-01-26T00:00:00+00:00", "price": 88267.0, "mayer": 0.84, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.58}
+{"date": "2026-01-27T00:00:00+00:00", "price": 89103.0, "mayer": 0.85, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.59}
+{"date": "2026-01-28T00:00:00+00:00", "price": 89185.0, "mayer": 0.85, "fear_greed": {"value": 29, "classification": "Fear"}, "mvrv": 1.59}
+{"date": "2026-01-29T00:00:00+00:00", "price": 84562.0, "mayer": 0.81, "fear_greed": {"value": 26, "classification": "Fear"}, "mvrv": 1.51}
+{"date": "2026-01-30T00:00:00+00:00", "price": 84129.0, "mayer": 0.81, "fear_greed": {"value": 16, "classification": "Extreme Fear"}, "mvrv": 1.5}
+{"date": "2026-01-31T00:00:00+00:00", "price": 78621.0, "mayer": 0.75, "fear_greed": {"value": 20, "classification": "Extreme Fear"}, "mvrv": 1.41}
+{"date": "2026-02-01T00:00:00+00:00", "price": 76974.0, "mayer": 0.74, "fear_greed": {"value": 14, "classification": "Extreme Fear"}, "mvrv": 1.38}
+{"date": "2026-02-02T00:00:00+00:00", "price": 78689.0, "mayer": 0.76, "fear_greed": {"value": 14, "classification": "Extreme Fear"}, "mvrv": 1.41}
+{"date": "2026-02-03T00:00:00+00:00", "price": 75634.0, "mayer": 0.73, "fear_greed": {"value": 17, "classification": "Extreme Fear"}, "mvrv": 1.36}
+{"date": "2026-02-04T00:00:00+00:00", "price": 73020.0, "mayer": 0.71, "fear_greed": {"value": 14, "classification": "Extreme Fear"}, "mvrv": 1.32}
+{"date": "2026-02-05T00:00:00+00:00", "price": 62702.0, "mayer": 0.61, "fear_greed": {"value": 12, "classification": "Extreme Fear"}, "mvrv": 1.15}
+{"date": "2026-02-06T00:00:00+00:00", "price": 70555.0, "mayer": 0.69, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.28}
+{"date": "2026-02-07T00:00:00+00:00", "price": 69282.0, "mayer": 0.68, "fear_greed": {"value": 6, "classification": "Extreme Fear"}, "mvrv": 1.25}
+{"date": "2026-02-08T00:00:00+00:00", "price": 70265.0, "mayer": 0.69, "fear_greed": {"value": 7, "classification": "Extreme Fear"}, "mvrv": 1.28}
+{"date": "2026-02-09T00:00:00+00:00", "price": 70121.0, "mayer": 0.69, "fear_greed": {"value": 14, "classification": "Extreme Fear"}, "mvrv": 1.27}
+{"date": "2026-02-10T00:00:00+00:00", "price": 68794.0, "mayer": 0.68, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.25}
+{"date": "2026-02-11T00:00:00+00:00", "price": 66992.0, "mayer": 0.66, "fear_greed": {"value": 11, "classification": "Extreme Fear"}, "mvrv": 1.22}
+{"date": "2026-02-12T00:00:00+00:00", "price": 66222.0, "mayer": 0.65, "fear_greed": {"value": 5, "classification": "Extreme Fear"}, "mvrv": 1.21}
+{"date": "2026-02-13T01:30:14+00:00", "price": 66069.0, "mayer": 0.65, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.21}
+{"date": "2026-02-13T05:54:55+00:00", "price": 66356.0, "mayer": 0.66, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
+{"date": "2026-02-13T06:52:07+00:00", "price": 66081.0, "mayer": 0.65, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
+{"date": "2026-02-13T07:45:19+00:00", "price": 66108.0, "mayer": 0.65, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
+{"date": "2026-02-13T08:35:10+00:00", "price": 66378.0, "mayer": 0.66, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
+{"date": "2026-02-13T09:36:50+00:00", "price": 66835.0, "mayer": 0.66, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
+{"date": "2026-02-13T10:33:22+00:00", "price": 66835.0, "mayer": 0.66, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
+{"date": "2026-02-13T11:26:18+00:00", "price": 66864.0, "mayer": 0.66, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
+{"date": "2026-02-13T12:41:27+00:00", "price": 67057.0, "mayer": 0.66, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
+{"date": "2026-02-13T13:58:01+00:00", "price": 67345.0, "mayer": 0.67, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
+{"date": "2026-02-13T14:40:37+00:00", "price": 67459.0, "mayer": 0.67, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
+{"date": "2026-02-13T15:35:39+00:00", "price": 69077.0, "mayer": 0.68, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.20}
 {"date": "2026-02-13T17:09:15+00:00", "price": 68867.0, "mayer": 0.68, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.21}
 {"date": "2026-02-13T17:29:21+00:00", "price": 68959.0, "mayer": 0.68, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.21}
 {"date": "2026-02-13T17:36:07+00:00", "price": 69052.0, "mayer": 0.68, "fear_greed": {"value": 9, "classification": "Extreme Fear"}, "mvrv": 1.21}

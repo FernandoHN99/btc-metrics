@@ -10,7 +10,7 @@ export function filterByRange(data, range) {
   switch (range) {
     case '1D':
       from = new Date(now - MS.day);
-      return aggregate(filter(data, from), 'hour');
+      return aggregate(filter(data, from), 'min');
 
     case '7D':
       from = new Date(now - MS.day * 8);
@@ -56,7 +56,9 @@ function aggregate(data, unit) {
     const date = new Date(d.date);
     let key;
 
-    if (unit === 'hour') {
+    if (unit === 'min') {
+      key = date.toISOString().slice(0, 16);
+    }else if (unit === 'hour') {
       key = date.toISOString().slice(0, 13);
     } else if (unit === 'day') {
       key = date.toISOString().slice(0, 10);

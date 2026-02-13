@@ -1,6 +1,6 @@
 const datasetsBase = [
     {
-        label: 'BTC Price',
+        label: 'Price',
         data: [],
         borderColor: '#f7931a',
         tension: 0.2,
@@ -10,7 +10,7 @@ const datasetsBase = [
         order: 1
     },
     {
-        label: 'Mayer Multiple',
+    label: 'Mayer Multiple',
         data: [],
         borderColor: '#4ade80',
         tension: 0.2,

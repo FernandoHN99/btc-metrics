@@ -106,11 +106,11 @@ export function renderCharts(data) {
                     xAlign: 'left',
                     yAlign: 'bottom',
                     caretSize: 6,
+                    intersect: false,
                     padding: 10,
 
                     callbacks: {
                         title(items) {
-                            if (!items.length) return '';
                             const index = items[0].dataIndex;
                             updateMetrics(data[index], true);
                             const date = new Date(data[index].date);
@@ -118,7 +118,19 @@ export function renderCharts(data) {
                                 return date.toLocaleString('pt-BR').slice(0, 17);
                             }
                             return date.toLocaleDateString('pt-BR');
+                        },
+                        labelColor(context) {
+                            const color = context.dataset.borderColor;
+                            return {
+                                borderColor: color,
+                                backgroundColor: color,
+                                borderWidth: 2,
+                                borderRadius: 2,
+                            };
                         }
+                    // label(context) {
+                        // return ''
+                    // }
                     }
                 }
             },
@@ -127,12 +139,14 @@ export function renderCharts(data) {
     })
 
     marketChartElement.addEventListener('touchend', () => {
-        marketChart.setActiveElements([]);
-        marketChart.tooltip.setActiveElements([], { x: 0, y: 0 });
-
-        marketChart.update();
-
-        updateMetrics(data[data.length - 1], true);
+        setTimeout(() => {
+            marketChart.setActiveElements([]);
+            if (marketChart.tooltip) {
+                marketChart.tooltip.setActiveElements([], { x: 0, y: 0 });
+            }
+            marketChart.update('none');
+            updateMetrics(data[data.length - 1], true);
+        }, 50); // Delay para garantir que o evento de clique já passou
     });
 }
 

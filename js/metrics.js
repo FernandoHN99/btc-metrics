@@ -16,7 +16,7 @@ export function updateMetrics(latest, isHover) {
         latest.mayer.toFixed(2);
 
     document.getElementById('metric-fg').textContent =
-        `${latest.fear_greed.value} – ${latest.fear_greed.classification}`;
+        `${latest.fear_greed.value} - ${latest.fear_greed.classification}`;
 
     const element = document.getElementById('metric-score')
     element.style.color = `${indicatorLabel.color}`;

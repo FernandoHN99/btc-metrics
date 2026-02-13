@@ -13,7 +13,7 @@ export function filterByRange(data, range) {
       return aggregate(filter(data, from), 'hour');
 
     case '7D':
-      from = new Date(now - MS.day * 7);
+      from = new Date(now - MS.day * 8);
       return aggregate(filter(data, from), 'hour');
 
     case '1M':
@@ -22,23 +22,23 @@ export function filterByRange(data, range) {
 
     case '6M':
       from = new Date(now.setMonth(now.getMonth() - 6));
-      return aggregate(filter(data, from), 'week');
+      return aggregate(filter(data, from), 'day');
 
     case 'YTD':
       from = new Date(now.getFullYear(), 0, 1);
-      return aggregate(filter(data, from), 'week');
+      return aggregate(filter(data, from), 'day');
 
     case '1Y':
       from = new Date(now.setFullYear(now.getFullYear() - 1));
-      return aggregate(filter(data, from), 'week');
+      return aggregate(filter(data, from), 'day');
 
     case '3Y':
       from = new Date(now.setFullYear(now.getFullYear() - 3));
-      return aggregate(filter(data, from), 'month');
+      return aggregate(filter(data, from), 'day');
 
     case '5Y':
       from = new Date(now.setFullYear(now.getFullYear() - 5));
-      return aggregate(filter(data, from), 'month');
+      return aggregate(filter(data, from), 'day');
 
     default:
       return data;

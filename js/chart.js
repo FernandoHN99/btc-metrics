@@ -114,8 +114,8 @@ export function renderCharts(data) {
                             const index = items[0].dataIndex;
                             updateMetrics(data[index], true);
                             const date = new Date(data[index].date);
-                            if (window.currentRange === '1D') {
-                                return date.toLocaleString('pt-BR');
+                            if (['1D', '7D'].includes(window.currentRange)) {
+                                return date.toLocaleString('pt-BR').slice(0, 17);
                             }
                             return date.toLocaleDateString('pt-BR');
                         }

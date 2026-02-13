@@ -3,33 +3,30 @@ import pandas as pd
 from datetime import datetime, timezone
 from coinmetrics.api_client import CoinMetricsClient
 import json
+import yfinance as yf
 
-# ------------------- CoinGecko para Múltiplo de Mayer -------------------
-API_KEY_GECKO = "CG-ayNYBkPDUfbHRwk4MbWVrYiE"
-url_prices = f"https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365&x_cg_demo_api_key={API_KEY_GECKO}"
 
-response_prices = requests.get(url_prices)
-if response_prices.status_code != 200:
-    print(f"Erro na API CoinGecko: Status {response_prices.status_code}")
-    print(response_prices.text)
-    exit()
+# ------------------- Yahoo para Múltiplo de Mayer -------------------
 
-data_prices = response_prices.json()
-if 'prices' not in data_prices:
-    print("Erro: 'prices' não encontrado no JSON retornado pela API.")
-    print(data_prices)
-    exit()
+# 1. Baixamos o histórico diário para a média (SMA200)
+data_hist = yf.download("BTC-USD", period="2y", interval="1d")
 
-# Criar DataFrame e calcular SMA200
-prices = data_prices['prices']
-df = pd.DataFrame(prices, columns=['timestamp', 'price'])
-df['date'] = pd.to_datetime(df['timestamp'], unit='ms')
-df.set_index('date', inplace=True)
-df.drop('timestamp', axis=1, inplace=True)
-df['SMA200'] = df['price'].rolling(window=200).mean()
-df['mayer_multiple'] = df['price'] / df['SMA200']
-latest_mayer = df['mayer_multiple'].iloc[-1]
-latest_price = df['price'].iloc[-1]
+# 2. Baixamos o preço "agora" (últimos minutos)
+data_now = yf.download("BTC-USD", period="1d", interval="1m")
+
+# Tratando o MultiIndex do Yahoo
+if isinstance(data_hist['Close'], pd.DataFrame):
+    close_hist = data_hist['Close']['BTC-USD']
+    latest_price = data_now['Close']['BTC-USD'].iloc[-1]
+else:
+    close_hist = data_hist['Close']
+    latest_price = data_now['Close'].iloc[-1]
+
+# 3. Calcular SMA200 (usando os dados diários)
+sma200 = close_hist.rolling(window=200).mean().iloc[-1]
+
+# 4. Calcular Mayer Multiple com o preço de AGORA
+latest_mayer = latest_price / sma200
 
 # ------------------- Fear & Greed Index (Alternative.me) -------------------
 url_fng = "https://api.alternative.me/fng/?limit=1"
@@ -77,14 +74,14 @@ print(f"Fear & Greed Index: {fear_greed_value} - {fear_greed_classification}")
 
 # Dados que queremos salvar
 data_to_save = {
-    "date": datetime.now(timezone.utc).isoformat(),
+    "date": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
     "price": round(latest_price, 0),
     "mayer": round(latest_mayer, 2),
     "fear_greed": {
-        "value": fear_greed_value,
+        "value": int(fear_greed_value),
         "classification": fear_greed_classification
     },
-    "mvrv": latest_mvrv,
+    "mvrv": round(latest_mvrv, 2),
 }
 
 # Salva no arquivo metrics.json

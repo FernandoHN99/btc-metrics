@@ -92,6 +92,7 @@ export function renderCharts(data) {
                 legend: {
                     display: true,
                     position: 'top',
+                    onClick: null,
                     labels: {
                         // Filtra e remove qualquer dataset que tenha label vazia
                         filter: (legendItem, chartData) => {

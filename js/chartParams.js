@@ -10,7 +10,7 @@ const datasetsBase = [
         order: 1
     },
     {
-    label: 'Mayer Multiple',
+        label: 'Mayer Multiple',
         data: [],
         borderColor: '#4ade80',
         tension: 0.2,
@@ -96,8 +96,8 @@ export const scales = {
         border: { display: false },
         ticks: {
             color: '#f87171',
-              align: 'start',
-              padding: 10
+            align: 'start',
+            padding: 10
         },
     },
 
@@ -121,8 +121,8 @@ export const scales = {
         border: { display: false },
         ticks: {
             color: '#4ade80',
-              align: 'start',
-              padding: 10
+            align: 'start',
+            padding: 10
         },
     },
 
@@ -146,8 +146,8 @@ export const scales = {
         border: { display: false },
         ticks: {
             color: '#60a5fa',
-              align: 'start',
-              padding: 10
+            align: 'start',
+            padding: 10
         },
     },
 
@@ -171,8 +171,14 @@ export const scales = {
         border: { display: false },
         ticks: {
             color: '#f7931a',
-              align: 'start',
-              padding: 10
+            align: 'start',
+            padding: 10,
+            callback: function (value) {
+                if (value >= 1000) {
+                    return (value / 1000).toFixed(0) + 'k';
+                }
+                return value;
+            },
         },
     },
 

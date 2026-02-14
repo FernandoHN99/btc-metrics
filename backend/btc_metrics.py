@@ -67,12 +67,6 @@ if price_list:
 
 
 # ------------------- Resultado -------------------
-print(f"Último preço do BTC: ${latest_price:.0f}")
-print(f"MVRV: {latest_mvrv:.2f}")
-print(f"Múltiplo de Mayer: {latest_mayer:.2f}")
-print(f"Fear & Greed Index: {fear_greed_value} - {fear_greed_classification}")
-
-# Dados que queremos salvar
 data_to_save = {
     "date": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
     "price": round(latest_price, 0),
@@ -84,7 +78,8 @@ data_to_save = {
     "mvrv": round(latest_mvrv, 2),
 }
 
+print('data: ' + data_to_save)
 # Salva no arquivo metrics.json
 with open("metrics.jsonl", "a") as f:  # 'a' = append
-    f.write("\n" + json.dumps(data_to_save))
+    f.write(json.dumps(data_to_save))
     

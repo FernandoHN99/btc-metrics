@@ -1,99 +1,52 @@
+function mountReturn(indexControl, valueNormalized) {
+    if (indexControl === 1) return { valueNormalized, color: 'red', label: 'Strong Sell' } 
+    if (indexControl === 2) return { valueNormalized, color: 'gray', label: 'Moderate Sell' } 
+    if (indexControl === 3) return { valueNormalized, color: 'gray', label: 'Hold' } 
+    if (indexControl === 4) return { valueNormalized, color: 'gray', label: 'Moderate Buy' } 
+    if (indexControl === 5) return { valueNormalized, color: '#5ad587', label: 'Strong Buy' } 
+}
+
 function clamp(value, min, max) {
     return Math.min(Math.max(value, min), max);
 }
 
-function scoreFearGreed(fg) {
-    // fg vai de 0 a 100
-    // inverte a lógica: medo = compra
+export function scoreFearGreed(fg) {
     const score = 10 - (fg / 10);
-
-    return clamp(score, 0, 10);
+    const finalScore = clamp(score, 0, 10);
+    
+    if (fg <= 25) return mountReturn(5, finalScore);
+    if (fg <= 75) return mountReturn(3, finalScore);
+    return mountReturn(1, finalScore);
 }
 
-function scoreMayer(mayer) {
-    let score;
-
-    if (mayer < 0.8) {
-        score = 10; // fundo histórico
-    } else if (mayer < 1.0) {
-        score = 8;
-    } else if (mayer < 1.5) {
-        score = 6;
-    } else if (mayer < 2.0) {
-        score = 4;
-    } else if (mayer < 2.6) {
-        score = 2;
-    } else {
-        score = 0; // sobrecompra extrema
-    }
-
-    return score;
+export function scoreMayer(mayer) {
+    if (mayer < 0.8) return mountReturn(5, 10);
+    if (mayer < 1.0) return mountReturn(5, 8);
+    if (mayer < 1.5) return mountReturn(4, 6);
+    if (mayer < 2.0) return mountReturn(3, 4);
+    if (mayer < 2.6) return mountReturn(2, 2);
+    return mountReturn(1, 0);
 }
 
-function scoreMVRV(mvrv) {
-    if (mvrv < 0.8) return 10;
-    if (mvrv < 1.0) return 9;  
-    if (mvrv < 1.5) return 7;   
-    if (mvrv < 2.0) return 5;
-    if (mvrv < 2.6) return 3;    
-    if (mvrv < 3.0) return 1;   
-    return 0;                   
+export function scoreMVRV(mvrv) {
+    if (mvrv < 0.8) return mountReturn(5, 10);
+    if (mvrv < 1.0) return mountReturn(5, 9);
+    if (mvrv < 1.5) return mountReturn(4, 7);
+    if (mvrv < 2.0) return mountReturn(3, 5);
+    if (mvrv < 2.6) return mountReturn(2, 3);
+    return mountReturn(1, 0);
 }
 
 export function calculateIndicator({ fearGreed, mayer, mvrv }) {
-    const fgScore = scoreFearGreed(fearGreed);
-    const mayerScore = scoreMayer(mayer);
-    const mvrvScore = scoreMVRV(mvrv);
+    const fgScore = scoreFearGreed(fearGreed).valueNormalized;
+    const mayerScore = scoreMayer(mayer).valueNormalized;
+    const mvrvScore = scoreMVRV(mvrv).valueNormalized;
 
-    const finalScore =
-        (mvrvScore * 0.5) +
-        (mayerScore * 0.3) +
-        (fgScore * 0.2);
+    const finalScore = parseFloat(((mvrvScore * 0.5) + (mayerScore * 0.3) + (fgScore * 0.2)).toFixed(1));
 
-    return Number(finalScore.toFixed(1));
-}
-
-export function getIndicatorLabel(score) {
-  if (score <= 2.0) {
-    return {
-      label: "Strong Sell",
-      description: "Indicator suggests high correction risk. Reduce exposure.",
-      color: "darkred",
-      sentiment: "Extreme Euphoria"
-    };
-  }
-
-  if (score <= 4.0) {
-    return {
-      label: "Moderate Sell",
-      description: "Indicator suggests moderate correction risk. Evaluate reducing exposure.",
-      color: "red",
-      sentiment: "High Optimism"
-    };
-  }
-
-  if (score <= 6.0) {
-    return {
-      label: "Hold",
-      description: "Healthy indicators. Maintain position or rebalance.",
-      color: "orange",
-      sentiment: "Balanced"
-    };
-  }
-
-  if (score <= 8.0 ) {
-    return {
-      label: "Moderate Buy",
-      description: "Indicator suggests moderate upside. Evaluate increasing exposure.",
-      color: "yellow",
-      sentiment: "Caution with Opportunity bias"
-    };
-  }
-
-  return {
-    label: "Strong Buy",
-    description: "Indicator suggests strong upside potential. Accumulate/Increase exposure.",
-    color: "green",
-    sentiment: "Fear / Capitulation"
-  };
+    if (finalScore <= 2.0) return mountReturn(1, finalScore);
+    if (finalScore <= 4.0) return mountReturn(2, finalScore);
+    if (finalScore <= 6.0) return mountReturn(3, finalScore);
+    if (finalScore <= 8.0) return mountReturn(4, finalScore);
+    return mountReturn(5, finalScore);
 }

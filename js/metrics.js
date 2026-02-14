@@ -1,26 +1,33 @@
-import { calculateIndicator, getIndicatorLabel } from "./indicator.js";
+import { scoreMVRV, scoreMayer, scoreFearGreed, calculateIndicator} from "./indicator.js";
 
 export function updateMetrics(latest, isHover) {
     if (!latest) return;
 
-    const indicatorValue = calculateIndicator({fearGreed: latest.fear_greed.value, mayer: latest.mayer, mvrv: latest.mvrv});
-    const indicatorLabel = getIndicatorLabel(indicatorValue);
+    const mvrv = scoreMVRV(latest.mvrv);
+    const mayer = scoreMayer(latest.mayer);
+    const fearGreed = scoreFearGreed(latest.fear_greed.value);
+    const indicator = calculateIndicator(
+        {fearGreed: latest.fear_greed.value, mayer: latest.mayer , mvrv: latest.mvrv}
+    );
 
     document.getElementById('metric-price').textContent =
         `$${latest.price.toLocaleString('en-US')}`;
 
-    document.getElementById('metric-mvrv').textContent =
-        latest.mvrv.toFixed(2);
+    const elementMVRV = document.getElementById('metric-mvrv')
+    elementMVRV.style.color = `${mvrv.color}`;
+    elementMVRV.innerHTML = `${latest.mvrv.toFixed(2)}`;
 
-    document.getElementById('metric-mayer').textContent =
-        latest.mayer.toFixed(2);
+    const elementMayer = document.getElementById('metric-mayer')
+    elementMayer.style.color = `${mayer.color}`;
+    elementMayer.innerHTML = `${latest.mayer.toFixed(2)}`;
 
-    document.getElementById('metric-fg').textContent =
-        `${latest.fear_greed.value} - ${latest.fear_greed.classification}`;
+    const elementFearGreed = document.getElementById('metric-fg')
+    elementFearGreed.style.color = `${fearGreed.color}`;
+    elementFearGreed.innerHTML = `${latest.fear_greed.value} - ${latest.fear_greed.classification}`;
 
-    const element = document.getElementById('metric-score')
-    element.style.color = `${indicatorLabel.color}`;
-    element.innerHTML = `  ${indicatorLabel.label} - ${indicatorValue} / 10`;
+    const elementIndicator = document.getElementById('metric-score')
+    elementIndicator.style.color = `${indicator.color}`;
+    elementIndicator.innerHTML = `${indicator.label} - ${indicator.valueNormalized} / 10`;
 
     if(!isHover){
         document.getElementById('last-update-datetime').textContent =

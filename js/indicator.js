@@ -1,8 +1,8 @@
 function mountReturn(indexControl, valueNormalized) {
     if (indexControl === 1) return { valueNormalized, color: 'red', label: 'Strong Sell' } 
-    if (indexControl === 2) return { valueNormalized, color: 'gray', label: 'Moderate Sell' } 
-    if (indexControl === 3) return { valueNormalized, color: 'gray', label: 'Hold' } 
-    if (indexControl === 4) return { valueNormalized, color: 'gray', label: 'Moderate Buy' } 
+    if (indexControl === 2) return { valueNormalized, color: '#94a3b8', label: 'Moderate Sell' } 
+    if (indexControl === 3) return { valueNormalized, color: '#94a3b8', label: 'Hold' } 
+    if (indexControl === 4) return { valueNormalized, color: '#94a3b8', label: 'Moderate Buy' } 
     if (indexControl === 5) return { valueNormalized, color: '#5ad587', label: 'Strong Buy' } 
 }
 

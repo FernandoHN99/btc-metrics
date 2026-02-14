@@ -31,25 +31,13 @@ function scoreMayer(mayer) {
 }
 
 function scoreMVRV(mvrv) {
-    let score;
-
-    if (mvrv < 0.8) {
-        score = 10;
-    } else if (mvrv < 1.0) {
-        score = 9;
-    } else if (mvrv < 1.5) {
-        score = 7;
-    } else if (mvrv < 2.0) {
-        score = 5;
-    } else if (mvrv < 3.0) {
-        score = 3;
-    } else if (mvrv < 4.0) {
-        score = 1;
-    } else {
-        score = 0;
-    }
-
-    return score;
+    if (mvrv < 0.8) return 10;
+    if (mvrv < 1.0) return 9;  
+    if (mvrv < 1.5) return 7;   
+    if (mvrv < 2.0) return 5;
+    if (mvrv < 2.6) return 3;    
+    if (mvrv < 3.0) return 1;   
+    return 0;                   
 }
 
 export function calculateIndicator({ fearGreed, mayer, mvrv }) {

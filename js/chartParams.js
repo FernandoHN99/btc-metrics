@@ -68,10 +68,10 @@ export function createDataIntoDatasets(data) {
         data: []
     }));
     for (const d of data) {
-        datasetsWithData[0].data.push(d.price)
-        datasetsWithData[1].data.push(d.mayer)
-        datasetsWithData[2].data.push(d.mvrv)
-        datasetsWithData[3].data.push(Number(d.fear_greed.value))
+        datasetsWithData[0].data.push(d?.price)
+        datasetsWithData[1].data.push(d?.mayer)
+        datasetsWithData[2].data.push(d?.mvrv)
+        datasetsWithData[3].data.push(d?.fear_greed?.value)
     }
 
     return datasetsWithData

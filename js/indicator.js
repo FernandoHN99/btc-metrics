@@ -1,9 +1,17 @@
+export const baseColors = {
+    color1: 'red',
+    color2: '#22c55e',
+    color3: '#22c55e',
+    color4: '#22c55e',
+    color5: 'green',
+}
+
 function mountReturn(indexControl, valueNormalized) {
-    if (indexControl === 1) return { valueNormalized, color: 'red', label: 'Strong Sell' } 
-    if (indexControl === 2) return { valueNormalized, color: '#94a3b8', label: 'Moderate Sell' } 
-    if (indexControl === 3) return { valueNormalized, color: '#94a3b8', label: 'Hold' } 
-    if (indexControl === 4) return { valueNormalized, color: '#94a3b8', label: 'Moderate Buy' } 
-    if (indexControl === 5) return { valueNormalized, color: '#5ad587', label: 'Strong Buy' } 
+    if (indexControl === 1) return { valueNormalized, color: baseColors.color1, label: 'Strong Sell' } 
+    if (indexControl === 2) return { valueNormalized, color: baseColors.color2, label: 'Moderate Sell' } 
+    if (indexControl === 3) return { valueNormalized, color: baseColors.color3, label: 'Hold' } 
+    if (indexControl === 4) return { valueNormalized, color: baseColors.color4, label: 'Moderate Buy' } 
+    if (indexControl === 5) return { valueNormalized, color: baseColors.color5, label: 'Strong Buy' } 
 }
 
 function clamp(value, min, max) {
@@ -38,11 +46,25 @@ export function scoreMVRV(mvrv) {
 }
 
 export function calculateIndicator({ fearGreed, mayer, mvrv }) {
-    const fgScore = scoreFearGreed(fearGreed).valueNormalized;
-    const mayerScore = scoreMayer(mayer).valueNormalized;
-    const mvrvScore = scoreMVRV(mvrv).valueNormalized;
+    let totalScore = 0;
+    let totalWeight = 0;
 
-    const finalScore = parseFloat(((mvrvScore * 0.5) + (mayerScore * 0.3) + (fgScore * 0.2)).toFixed(1));
+    if (mvrv !== null && mvrv !== undefined) {
+        totalScore += scoreMVRV(mvrv).valueNormalized * 0.5;
+        totalWeight += 0.5;
+    }
+    if (mayer !== null && mayer !== undefined) {
+        totalScore += scoreMayer(mayer).valueNormalized * 0.3;
+        totalWeight += 0.3;
+    }
+    if (fearGreed !== null && fearGreed !== undefined) {
+        totalScore += scoreFearGreed(fearGreed).valueNormalized * 0.2;
+        totalWeight += 0.2;
+    }
+
+    if (totalWeight === 0) return { valueNormalized: '-', color: baseColors.color3, label: 'N/A' };
+
+    const finalScore = parseFloat((totalScore / totalWeight).toFixed(1));
 
     if (finalScore <= 2.0) return mountReturn(1, finalScore);
     if (finalScore <= 4.0) return mountReturn(2, finalScore);

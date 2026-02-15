@@ -1,36 +1,44 @@
-import { scoreMVRV, scoreMayer, scoreFearGreed, calculateIndicator} from "./indicator.js";
+import { scoreMVRV, scoreMayer, scoreFearGreed, calculateIndicator, baseColors} from "./indicator.js";
 
 export function updateMetrics(latest, isHover) {
     if (!latest) return;
 
-    const mvrv = scoreMVRV(latest.mvrv);
-    const mayer = scoreMayer(latest.mayer);
-    const fearGreed = scoreFearGreed(latest.fear_greed.value);
-    const indicator = calculateIndicator(
-        {fearGreed: latest.fear_greed.value, mayer: latest.mayer , mvrv: latest.mvrv}
-    );
+    const rawMvrv = latest?.mvrv ;
+    const rawMayer = latest?.mayer;
+    const rawFG = latest?.fear_greed?.value;
+    const rawFGClass = latest?.fear_greed?.classification;
 
-    document.getElementById('metric-price').textContent =
-        `$${latest.price.toLocaleString('en-US')}`;
+    const mvrv = rawMvrv ? scoreMVRV(rawMvrv) : null;
+    const mayer = rawMayer ? scoreMayer(rawMayer) : null;
+    const fearGreed = rawFG ? scoreFearGreed(rawFG) :  null;
+    const indicator = calculateIndicator({ fearGreed: rawFG, mayer: rawMayer, mvrv: rawMvrv });
 
-    const elementMVRV = document.getElementById('metric-mvrv')
-    elementMVRV.style.color = `${mvrv.color}`;
-    elementMVRV.innerHTML = `${latest.mvrv.toFixed(2)}`;
+    // Price
+    document.getElementById('metric-price').textContent = latest?.price ? `$${latest.price?.toLocaleString('en-US')}` : '-';
 
-    const elementMayer = document.getElementById('metric-mayer')
-    elementMayer.style.color = `${mayer.color}`;
-    elementMayer.innerHTML = `${latest.mayer.toFixed(2)}`;
+    // MVRV
+    const elementMVRV = document.getElementById('metric-mvrv');
+    elementMVRV.style.color = mvrv?.color || baseColors.color3;
+    elementMVRV.innerHTML = rawMvrv !== null ? rawMvrv.toFixed(2) : '-';
 
-    const elementFearGreed = document.getElementById('metric-fg')
-    elementFearGreed.style.color = `${fearGreed.color}`;
-    elementFearGreed.innerHTML = `${latest.fear_greed.value} - ${latest.fear_greed.classification}`;
+    // Mayer
+    const elementMayer = document.getElementById('metric-mayer');
+    elementMayer.style.color = mayer?.color || baseColors.color3;
+    elementMayer.innerHTML = rawMayer !== null ? rawMayer.toFixed(2) : '-';
 
-    const elementIndicator = document.getElementById('metric-score')
-    elementIndicator.style.color = `${indicator.color}`;
-    elementIndicator.innerHTML = `${indicator.label} - ${indicator.valueNormalized} / 10`;
+    // Fear & Greed
+    const elementFearGreed = document.getElementById('metric-fg');
+    elementFearGreed.style.color = fearGreed?.color || baseColors.color3;
+    elementFearGreed.innerHTML = rawFG !== null ? `${rawFG} - ${rawFGClass}` : '-';
 
-    if(!isHover){
+    const elementIndicator = document.getElementById('metric-score');
+    elementIndicator.style.color = indicator.color;
+    
+    const scoreText = indicator.valueNormalized !== '-' ? `${indicator.valueNormalized} / 10` : '-';
+    elementIndicator.innerHTML = `${indicator.label} ${indicator.valueNormalized !== '-' ? '- ' + scoreText : ''}`;
+
+    if (!isHover) {
         document.getElementById('last-update-datetime').textContent =
-        `Última Atualização: ${new Date(latest.date).toLocaleString('pt-BR').slice(0,17)}`;
+            `Última Atualização: ${new Date(latest.date).toLocaleString('pt-BR').slice(0, 17)}`;
     }
 }

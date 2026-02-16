@@ -72,9 +72,9 @@ export function calculateIndicator({ fearGreed, mayer, mvrv }) {
 
     const finalScore = parseFloat((totalScore / totalWeight).toFixed(1));
 
-    if (finalScore <= 2.0) return mountReturn(1, finalScore);
-    if (finalScore <= 4.0) return mountReturn(2, finalScore);
-    if (finalScore <= 6.0) return mountReturn(3, finalScore);
+    if (finalScore <= 2.5) return mountReturn(1, finalScore);
+    if (finalScore <= 5.0) return mountReturn(2, finalScore);
+    if (finalScore <= 7.0) return mountReturn(3, finalScore);
     if (finalScore <= 8.0) return mountReturn(4, finalScore);
     return mountReturn(5, finalScore);
 }

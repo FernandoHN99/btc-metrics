@@ -4443,3 +4443,4 @@
 {"date": "2026-03-07T22:16:45+00:00", "price": 67374.0, "mayer": 0.7, "fear_greed": {"value": 12, "classification": "Extreme Fear"}, "mvrv": 1.25}
 {"date": "2026-03-07T23:16:11+00:00", "price": 67339.0, "mayer": 0.7, "fear_greed": {"value": 12, "classification": "Extreme Fear"}, "mvrv": 1.25}
 {"date": "2026-03-08T01:25:24+00:00", "price": 67269.0, "mayer": 0.7, "fear_greed": {"value": 12, "classification": "Extreme Fear"}, "mvrv": 1.25}
+{"date": "2026-03-08T04:05:10+00:00", "price": 67006.0, "mayer": 0.7, "fear_greed": {"value": 12, "classification": "Extreme Fear"}, "mvrv": 1.24}

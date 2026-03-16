@@ -24,7 +24,6 @@ backend/
 ├── backend/
 │   ├── btc_metrics.py       # Main data collection script
 │   ├── requirements.txt     # Python dependencies
-├── metrics.jsonl            # Historical data
 ├── metrics.jsonl           # Historical metrics database
 ```
 

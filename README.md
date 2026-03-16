@@ -16,11 +16,21 @@ A real-time Bitcoin analysis dashboard that tracks key metrics to help investors
 
 ## 📁 Project Structure
 
+This project is organized as a single repository with two main branches:
+
+### **Backend Branch** (`backend`)
 ```
-010-BitcoinMetrcis/
+backend/
 ├── backend/
 │   ├── btc_metrics.py       # Main data collection script
-│   └── requirements.txt     # Python dependencies
+│   ├── requirements.txt     # Python dependencies
+├── metrics.jsonl            # Historical data
+├── metrics.jsonl           # Historical metrics database
+```
+
+### **Frontend Branch** (`frontend`)
+```
+frontend/
 ├── js/
 │   ├── main.js             # Application entry point
 │   ├── api.js              # Fetch metrics from GitHub
@@ -32,10 +42,7 @@ A real-time Bitcoin analysis dashboard that tracks key metrics to help investors
 │   └── utils.js            # Helper functions
 ├── index.html              # Main HTML page
 ├── styles.css              # Dashboard styling
-├── metrics.jsonl           # Historical metrics database
-└── readme.md               # This file
 ```
-
 
 **Last Updated:** March 16, 2026  
 **Version:** 1.0.0

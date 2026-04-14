@@ -5144,3 +5144,4 @@
 {"date": "2026-04-14T04:41:19+00:00", "price": 74444.0, "mayer": 0.85, "fear_greed": {"value": 21, "classification": "Extreme Fear"}, "mvrv": 1.38}
 {"date": "2026-04-14T06:27:50+00:00", "price": 74445.0, "mayer": 0.85, "fear_greed": {"value": 21, "classification": "Extreme Fear"}, "mvrv": 1.38}
 {"date": "2026-04-14T08:23:17+00:00", "price": 74567.0, "mayer": 0.85, "fear_greed": {"value": 21, "classification": "Extreme Fear"}, "mvrv": 1.38}
+{"date": "2026-04-14T10:10:15+00:00", "price": 74527.0, "mayer": 0.85, "fear_greed": {"value": 21, "classification": "Extreme Fear"}, "mvrv": 1.38}
